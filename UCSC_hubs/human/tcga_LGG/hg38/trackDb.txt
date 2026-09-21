@@ -5,7 +5,7 @@ longLabel recount3 coverage bigWig for external id 008ae101-874b-4eb6-b811-3945e
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0093dcb6-a7c8-4841-8383-0671a71dda71
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/71/tcga.base_sums.LGG_0093dcb6-a7c8-4841-8383-0671a71dda71.ALL.bw
@@ -14,7 +14,7 @@ longLabel recount3 coverage bigWig for external id 0093dcb6-a7c8-4841-8383-0671a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0108a1fa-9cbf-4cf6-8981-7fb39c39b335
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/35/tcga.base_sums.LGG_0108a1fa-9cbf-4cf6-8981-7fb39c39b335.ALL.bw
@@ -23,7 +23,7 @@ longLabel recount3 coverage bigWig for external id 0108a1fa-9cbf-4cf6-8981-7fb39
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 01169bcb-82ed-4492-9fd0-630ccea70023
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/23/tcga.base_sums.LGG_01169bcb-82ed-4492-9fd0-630ccea70023.ALL.bw
@@ -32,7 +32,7 @@ longLabel recount3 coverage bigWig for external id 01169bcb-82ed-4492-9fd0-630cc
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 01602d64-57c5-4d95-a6f9-5fb124d398b1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B1/tcga.base_sums.LGG_01602d64-57c5-4d95-a6f9-5fb124d398b1.ALL.bw
@@ -41,7 +41,7 @@ longLabel recount3 coverage bigWig for external id 01602d64-57c5-4d95-a6f9-5fb12
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 01b819bd-664b-4d9e-b60b-9d9e8305a626
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/26/tcga.base_sums.LGG_01b819bd-664b-4d9e-b60b-9d9e8305a626.ALL.bw
@@ -50,7 +50,7 @@ longLabel recount3 coverage bigWig for external id 01b819bd-664b-4d9e-b60b-9d9e8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 022275ba-f672-49c5-887b-ccf24a20848f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8F/tcga.base_sums.LGG_022275ba-f672-49c5-887b-ccf24a20848f.ALL.bw
@@ -59,7 +59,7 @@ longLabel recount3 coverage bigWig for external id 022275ba-f672-49c5-887b-ccf24
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 02f669d8-fb9f-45af-a999-5886e5c2daf0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F0/tcga.base_sums.LGG_02f669d8-fb9f-45af-a999-5886e5c2daf0.ALL.bw
@@ -68,7 +68,7 @@ longLabel recount3 coverage bigWig for external id 02f669d8-fb9f-45af-a999-5886e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 030cf1c8-2006-4620-b6be-68a2cc2a0f05
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/05/tcga.base_sums.LGG_030cf1c8-2006-4620-b6be-68a2cc2a0f05.ALL.bw
@@ -77,7 +77,7 @@ longLabel recount3 coverage bigWig for external id 030cf1c8-2006-4620-b6be-68a2c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 034eeeb2-4bb6-4c72-a63a-c2012c43b4d7
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D7/tcga.base_sums.LGG_034eeeb2-4bb6-4c72-a63a-c2012c43b4d7.ALL.bw
@@ -86,7 +86,7 @@ longLabel recount3 coverage bigWig for external id 034eeeb2-4bb6-4c72-a63a-c2012
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 05699235-3f03-48c1-a78f-1c7966f38b56
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/56/tcga.base_sums.LGG_05699235-3f03-48c1-a78f-1c7966f38b56.ALL.bw
@@ -95,7 +95,7 @@ longLabel recount3 coverage bigWig for external id 05699235-3f03-48c1-a78f-1c796
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 05c1c0cc-8eae-4924-b041-d448d280c192
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/92/tcga.base_sums.LGG_05c1c0cc-8eae-4924-b041-d448d280c192.ALL.bw
@@ -104,7 +104,7 @@ longLabel recount3 coverage bigWig for external id 05c1c0cc-8eae-4924-b041-d448d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 060c8f0b-dab8-43db-80c9-3404afcc0b7d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7D/tcga.base_sums.LGG_060c8f0b-dab8-43db-80c9-3404afcc0b7d.ALL.bw
@@ -113,7 +113,7 @@ longLabel recount3 coverage bigWig for external id 060c8f0b-dab8-43db-80c9-3404a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 06476831-e051-4d7f-b7b1-a9a3d1a60064
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/64/tcga.base_sums.LGG_06476831-e051-4d7f-b7b1-a9a3d1a60064.ALL.bw
@@ -122,7 +122,7 @@ longLabel recount3 coverage bigWig for external id 06476831-e051-4d7f-b7b1-a9a3d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0730f3db-384b-43e6-a69f-bf3f7c2cce78
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/78/tcga.base_sums.LGG_0730f3db-384b-43e6-a69f-bf3f7c2cce78.ALL.bw
@@ -131,7 +131,7 @@ longLabel recount3 coverage bigWig for external id 0730f3db-384b-43e6-a69f-bf3f7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 07463fb6-787c-4fac-8954-c694eef27f69
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/69/tcga.base_sums.LGG_07463fb6-787c-4fac-8954-c694eef27f69.ALL.bw
@@ -140,7 +140,7 @@ longLabel recount3 coverage bigWig for external id 07463fb6-787c-4fac-8954-c694e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 077523a7-e1c9-4e9f-8c9f-b9f647b4df7c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7C/tcga.base_sums.LGG_077523a7-e1c9-4e9f-8c9f-b9f647b4df7c.ALL.bw
@@ -149,7 +149,7 @@ longLabel recount3 coverage bigWig for external id 077523a7-e1c9-4e9f-8c9f-b9f64
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 07d10802-f79e-495e-b842-895c444ca439
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/39/tcga.base_sums.LGG_07d10802-f79e-495e-b842-895c444ca439.ALL.bw
@@ -158,7 +158,7 @@ longLabel recount3 coverage bigWig for external id 07d10802-f79e-495e-b842-895c4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0876d5b1-aa68-4e43-8bbe-9ee2cdc6879e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9E/tcga.base_sums.LGG_0876d5b1-aa68-4e43-8bbe-9ee2cdc6879e.ALL.bw
@@ -167,7 +167,7 @@ longLabel recount3 coverage bigWig for external id 0876d5b1-aa68-4e43-8bbe-9ee2c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 087d4eb4-61ab-4ef4-9c76-7721e7fc5e0f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0F/tcga.base_sums.LGG_087d4eb4-61ab-4ef4-9c76-7721e7fc5e0f.ALL.bw
@@ -176,7 +176,7 @@ longLabel recount3 coverage bigWig for external id 087d4eb4-61ab-4ef4-9c76-7721e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0915fd2c-0c30-4437-83ba-dfbdf3cdbc61
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/61/tcga.base_sums.LGG_0915fd2c-0c30-4437-83ba-dfbdf3cdbc61.ALL.bw
@@ -185,7 +185,7 @@ longLabel recount3 coverage bigWig for external id 0915fd2c-0c30-4437-83ba-dfbdf
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 093a32da-49d0-4f4c-9000-4f47b4700f4e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/4E/tcga.base_sums.LGG_093a32da-49d0-4f4c-9000-4f47b4700f4e.ALL.bw
@@ -194,7 +194,7 @@ longLabel recount3 coverage bigWig for external id 093a32da-49d0-4f4c-9000-4f47b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 09e07a63-5fd2-4e4f-9fd5-2bb204302232
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/32/tcga.base_sums.LGG_09e07a63-5fd2-4e4f-9fd5-2bb204302232.ALL.bw
@@ -203,7 +203,7 @@ longLabel recount3 coverage bigWig for external id 09e07a63-5fd2-4e4f-9fd5-2bb20
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0a4681ec-a57a-45cd-bb97-3e90a8cdecdd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DD/tcga.base_sums.LGG_0a4681ec-a57a-45cd-bb97-3e90a8cdecdd.ALL.bw
@@ -212,7 +212,7 @@ longLabel recount3 coverage bigWig for external id 0a4681ec-a57a-45cd-bb97-3e90a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0a7a28ba-9d46-4d4f-a0a5-b3f9aa8df29b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9B/tcga.base_sums.LGG_0a7a28ba-9d46-4d4f-a0a5-b3f9aa8df29b.ALL.bw
@@ -221,7 +221,7 @@ longLabel recount3 coverage bigWig for external id 0a7a28ba-9d46-4d4f-a0a5-b3f9a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0abb25f4-3c41-454e-a129-f7728f1d1b79
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/79/tcga.base_sums.LGG_0abb25f4-3c41-454e-a129-f7728f1d1b79.ALL.bw
@@ -230,7 +230,7 @@ longLabel recount3 coverage bigWig for external id 0abb25f4-3c41-454e-a129-f7728
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0af0d126-507c-4de1-b9a2-a1b8f0a089fb
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FB/tcga.base_sums.LGG_0af0d126-507c-4de1-b9a2-a1b8f0a089fb.ALL.bw
@@ -239,7 +239,7 @@ longLabel recount3 coverage bigWig for external id 0af0d126-507c-4de1-b9a2-a1b8f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0cec1adc-1e8e-4cac-8dfd-e1a760064e58
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/58/tcga.base_sums.LGG_0cec1adc-1e8e-4cac-8dfd-e1a760064e58.ALL.bw
@@ -248,7 +248,7 @@ longLabel recount3 coverage bigWig for external id 0cec1adc-1e8e-4cac-8dfd-e1a76
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0d1652b9-93f6-4d1a-bf06-b654663c92e3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E3/tcga.base_sums.LGG_0d1652b9-93f6-4d1a-bf06-b654663c92e3.ALL.bw
@@ -257,7 +257,7 @@ longLabel recount3 coverage bigWig for external id 0d1652b9-93f6-4d1a-bf06-b6546
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0d600773-1b42-4f04-bcea-39f658df63f1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F1/tcga.base_sums.LGG_0d600773-1b42-4f04-bcea-39f658df63f1.ALL.bw
@@ -266,7 +266,7 @@ longLabel recount3 coverage bigWig for external id 0d600773-1b42-4f04-bcea-39f65
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0d8c7ec1-9bfb-44a1-8af8-05d2a6bbe0f9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F9/tcga.base_sums.LGG_0d8c7ec1-9bfb-44a1-8af8-05d2a6bbe0f9.ALL.bw
@@ -275,7 +275,7 @@ longLabel recount3 coverage bigWig for external id 0d8c7ec1-9bfb-44a1-8af8-05d2a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0ef566d2-b40c-4ba1-8314-05aae647869d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9D/tcga.base_sums.LGG_0ef566d2-b40c-4ba1-8314-05aae647869d.ALL.bw
@@ -284,7 +284,7 @@ longLabel recount3 coverage bigWig for external id 0ef566d2-b40c-4ba1-8314-05aae
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0f797735-ccca-4bea-bb94-c524e7d0a875
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/75/tcga.base_sums.LGG_0f797735-ccca-4bea-bb94-c524e7d0a875.ALL.bw
@@ -293,7 +293,7 @@ longLabel recount3 coverage bigWig for external id 0f797735-ccca-4bea-bb94-c524e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0f8847c7-545c-4c3c-b3d0-0681c9480712
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/12/tcga.base_sums.LGG_0f8847c7-545c-4c3c-b3d0-0681c9480712.ALL.bw
@@ -302,7 +302,7 @@ longLabel recount3 coverage bigWig for external id 0f8847c7-545c-4c3c-b3d0-0681c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0f8be394-ba6a-401c-87d0-9b3cf50fb0c8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C8/tcga.base_sums.LGG_0f8be394-ba6a-401c-87d0-9b3cf50fb0c8.ALL.bw
@@ -311,7 +311,7 @@ longLabel recount3 coverage bigWig for external id 0f8be394-ba6a-401c-87d0-9b3cf
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 0fcc6761-efea-4c47-a36f-9db187a4649d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9D/tcga.base_sums.LGG_0fcc6761-efea-4c47-a36f-9db187a4649d.ALL.bw
@@ -320,7 +320,7 @@ longLabel recount3 coverage bigWig for external id 0fcc6761-efea-4c47-a36f-9db18
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 106e2a94-0366-4d5e-894f-41117c78e18c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8C/tcga.base_sums.LGG_106e2a94-0366-4d5e-894f-41117c78e18c.ALL.bw
@@ -329,7 +329,7 @@ longLabel recount3 coverage bigWig for external id 106e2a94-0366-4d5e-894f-41117
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 10ee3cfc-9230-40ba-9c9f-77949ba763cc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CC/tcga.base_sums.LGG_10ee3cfc-9230-40ba-9c9f-77949ba763cc.ALL.bw
@@ -338,7 +338,7 @@ longLabel recount3 coverage bigWig for external id 10ee3cfc-9230-40ba-9c9f-77949
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 10fb7e59-9d71-4ab9-8d06-9cfd2304d1bc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BC/tcga.base_sums.LGG_10fb7e59-9d71-4ab9-8d06-9cfd2304d1bc.ALL.bw
@@ -347,7 +347,7 @@ longLabel recount3 coverage bigWig for external id 10fb7e59-9d71-4ab9-8d06-9cfd2
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 111625a4-390b-4d8c-bf80-020062ce9d89
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/89/tcga.base_sums.LGG_111625a4-390b-4d8c-bf80-020062ce9d89.ALL.bw
@@ -356,7 +356,7 @@ longLabel recount3 coverage bigWig for external id 111625a4-390b-4d8c-bf80-02006
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 12b24051-5657-45e8-9c64-5b6a06693471
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/71/tcga.base_sums.LGG_12b24051-5657-45e8-9c64-5b6a06693471.ALL.bw
@@ -365,7 +365,7 @@ longLabel recount3 coverage bigWig for external id 12b24051-5657-45e8-9c64-5b6a0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 12f86fa0-3b1d-4c29-9f05-51e8d3bca1f8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F8/tcga.base_sums.LGG_12f86fa0-3b1d-4c29-9f05-51e8d3bca1f8.ALL.bw
@@ -374,7 +374,7 @@ longLabel recount3 coverage bigWig for external id 12f86fa0-3b1d-4c29-9f05-51e8d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 13ca931d-c2d3-485e-9b18-a21b624c602e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2E/tcga.base_sums.LGG_13ca931d-c2d3-485e-9b18-a21b624c602e.ALL.bw
@@ -383,7 +383,7 @@ longLabel recount3 coverage bigWig for external id 13ca931d-c2d3-485e-9b18-a21b6
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 152ac0f4-b49f-49ae-bf76-45c70ca3ff7f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7F/tcga.base_sums.LGG_152ac0f4-b49f-49ae-bf76-45c70ca3ff7f.ALL.bw
@@ -392,7 +392,7 @@ longLabel recount3 coverage bigWig for external id 152ac0f4-b49f-49ae-bf76-45c70
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 15824b66-5519-459a-b0c2-6eabaeec2d8a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8A/tcga.base_sums.LGG_15824b66-5519-459a-b0c2-6eabaeec2d8a.ALL.bw
@@ -401,7 +401,7 @@ longLabel recount3 coverage bigWig for external id 15824b66-5519-459a-b0c2-6eaba
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 15838786-d895-4f63-88a9-bde627ae7958
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/58/tcga.base_sums.LGG_15838786-d895-4f63-88a9-bde627ae7958.ALL.bw
@@ -410,7 +410,7 @@ longLabel recount3 coverage bigWig for external id 15838786-d895-4f63-88a9-bde62
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 165395c6-1028-49df-b15d-4d8064d00995
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/95/tcga.base_sums.LGG_165395c6-1028-49df-b15d-4d8064d00995.ALL.bw
@@ -419,7 +419,7 @@ longLabel recount3 coverage bigWig for external id 165395c6-1028-49df-b15d-4d806
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1667b17c-c5e2-4e65-98ff-a6dde44cc4b6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B6/tcga.base_sums.LGG_1667b17c-c5e2-4e65-98ff-a6dde44cc4b6.ALL.bw
@@ -428,7 +428,7 @@ longLabel recount3 coverage bigWig for external id 1667b17c-c5e2-4e65-98ff-a6dde
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 167869b6-9620-445e-ba77-b6f95a6463f5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F5/tcga.base_sums.LGG_167869b6-9620-445e-ba77-b6f95a6463f5.ALL.bw
@@ -437,7 +437,7 @@ longLabel recount3 coverage bigWig for external id 167869b6-9620-445e-ba77-b6f95
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 17c2a071-0813-4992-96d8-5c432d6ec9e6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E6/tcga.base_sums.LGG_17c2a071-0813-4992-96d8-5c432d6ec9e6.ALL.bw
@@ -446,7 +446,7 @@ longLabel recount3 coverage bigWig for external id 17c2a071-0813-4992-96d8-5c432
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 18d7dfbc-a1c6-4da8-9af1-3a6f3e2a03be
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BE/tcga.base_sums.LGG_18d7dfbc-a1c6-4da8-9af1-3a6f3e2a03be.ALL.bw
@@ -455,7 +455,7 @@ longLabel recount3 coverage bigWig for external id 18d7dfbc-a1c6-4da8-9af1-3a6f3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 18e8e3ef-b708-4618-8c89-2f5a9a6a2c9d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9D/tcga.base_sums.LGG_18e8e3ef-b708-4618-8c89-2f5a9a6a2c9d.ALL.bw
@@ -464,7 +464,7 @@ longLabel recount3 coverage bigWig for external id 18e8e3ef-b708-4618-8c89-2f5a9
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 194676e1-632c-4b99-a9c8-80e36dd6c85e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/5E/tcga.base_sums.LGG_194676e1-632c-4b99-a9c8-80e36dd6c85e.ALL.bw
@@ -473,7 +473,7 @@ longLabel recount3 coverage bigWig for external id 194676e1-632c-4b99-a9c8-80e36
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 19eba5e0-d299-4166-834a-256294572121
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/21/tcga.base_sums.LGG_19eba5e0-d299-4166-834a-256294572121.ALL.bw
@@ -482,7 +482,7 @@ longLabel recount3 coverage bigWig for external id 19eba5e0-d299-4166-834a-25629
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1a796849-8fd9-4b27-9cd9-a17b04cbe264
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/64/tcga.base_sums.LGG_1a796849-8fd9-4b27-9cd9-a17b04cbe264.ALL.bw
@@ -491,7 +491,7 @@ longLabel recount3 coverage bigWig for external id 1a796849-8fd9-4b27-9cd9-a17b0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1a9b5d3a-ceb0-4225-9c3d-cbe98a007a3a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3A/tcga.base_sums.LGG_1a9b5d3a-ceb0-4225-9c3d-cbe98a007a3a.ALL.bw
@@ -500,7 +500,7 @@ longLabel recount3 coverage bigWig for external id 1a9b5d3a-ceb0-4225-9c3d-cbe98
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1af24109-5fe4-4868-adb9-5dfdb57bca0f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0F/tcga.base_sums.LGG_1af24109-5fe4-4868-adb9-5dfdb57bca0f.ALL.bw
@@ -509,7 +509,7 @@ longLabel recount3 coverage bigWig for external id 1af24109-5fe4-4868-adb9-5dfdb
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1af629f5-3c10-43f2-b507-e330d4baa9ad
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AD/tcga.base_sums.LGG_1af629f5-3c10-43f2-b507-e330d4baa9ad.ALL.bw
@@ -518,7 +518,7 @@ longLabel recount3 coverage bigWig for external id 1af629f5-3c10-43f2-b507-e330d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1b1e827b-a98a-465e-ac6f-448c076e829d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9D/tcga.base_sums.LGG_1b1e827b-a98a-465e-ac6f-448c076e829d.ALL.bw
@@ -527,7 +527,7 @@ longLabel recount3 coverage bigWig for external id 1b1e827b-a98a-465e-ac6f-448c0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1c62e679-3a4e-4d10-8bfb-5bfbf2a3b4b6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B6/tcga.base_sums.LGG_1c62e679-3a4e-4d10-8bfb-5bfbf2a3b4b6.ALL.bw
@@ -536,7 +536,7 @@ longLabel recount3 coverage bigWig for external id 1c62e679-3a4e-4d10-8bfb-5bfbf
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1c94ea93-563d-4f65-b857-85ef91127874
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/74/tcga.base_sums.LGG_1c94ea93-563d-4f65-b857-85ef91127874.ALL.bw
@@ -545,7 +545,7 @@ longLabel recount3 coverage bigWig for external id 1c94ea93-563d-4f65-b857-85ef9
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1d2f3ed9-6319-4661-9e41-9dc9c8342de1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E1/tcga.base_sums.LGG_1d2f3ed9-6319-4661-9e41-9dc9c8342de1.ALL.bw
@@ -554,7 +554,7 @@ longLabel recount3 coverage bigWig for external id 1d2f3ed9-6319-4661-9e41-9dc9c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1d3fbea0-9a7f-436c-aa71-366d4e11c43b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3B/tcga.base_sums.LGG_1d3fbea0-9a7f-436c-aa71-366d4e11c43b.ALL.bw
@@ -563,7 +563,7 @@ longLabel recount3 coverage bigWig for external id 1d3fbea0-9a7f-436c-aa71-366d4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1e2d87a6-48b8-47fa-a801-afea7e01e829
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/29/tcga.base_sums.LGG_1e2d87a6-48b8-47fa-a801-afea7e01e829.ALL.bw
@@ -572,7 +572,7 @@ longLabel recount3 coverage bigWig for external id 1e2d87a6-48b8-47fa-a801-afea7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 1f4b7e2e-e242-410a-ae78-8fc412d3c0a9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A9/tcga.base_sums.LGG_1f4b7e2e-e242-410a-ae78-8fc412d3c0a9.ALL.bw
@@ -581,7 +581,7 @@ longLabel recount3 coverage bigWig for external id 1f4b7e2e-e242-410a-ae78-8fc41
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 208643fa-0388-44a3-8131-b41ac280107c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7C/tcga.base_sums.LGG_208643fa-0388-44a3-8131-b41ac280107c.ALL.bw
@@ -590,7 +590,7 @@ longLabel recount3 coverage bigWig for external id 208643fa-0388-44a3-8131-b41ac
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 21d48ade-2798-4380-999a-9485a70e7d2a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2A/tcga.base_sums.LGG_21d48ade-2798-4380-999a-9485a70e7d2a.ALL.bw
@@ -599,7 +599,7 @@ longLabel recount3 coverage bigWig for external id 21d48ade-2798-4380-999a-9485a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 21d8fd7d-eb2d-4d28-ba85-eca9b5114006
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/06/tcga.base_sums.LGG_21d8fd7d-eb2d-4d28-ba85-eca9b5114006.ALL.bw
@@ -608,7 +608,7 @@ longLabel recount3 coverage bigWig for external id 21d8fd7d-eb2d-4d28-ba85-eca9b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 221384a6-059c-4731-9bd0-68ec9ca5651d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1D/tcga.base_sums.LGG_221384a6-059c-4731-9bd0-68ec9ca5651d.ALL.bw
@@ -617,7 +617,7 @@ longLabel recount3 coverage bigWig for external id 221384a6-059c-4731-9bd0-68ec9
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 22c1a41d-014d-4efb-af5b-efc3fec1e936
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/36/tcga.base_sums.LGG_22c1a41d-014d-4efb-af5b-efc3fec1e936.ALL.bw
@@ -626,7 +626,7 @@ longLabel recount3 coverage bigWig for external id 22c1a41d-014d-4efb-af5b-efc3f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 22df9124-1dd5-4ed9-874e-2ab05a94f17e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7E/tcga.base_sums.LGG_22df9124-1dd5-4ed9-874e-2ab05a94f17e.ALL.bw
@@ -635,7 +635,7 @@ longLabel recount3 coverage bigWig for external id 22df9124-1dd5-4ed9-874e-2ab05
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 23b8a53b-83fd-47bb-ad6e-184e11b1e957
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/57/tcga.base_sums.LGG_23b8a53b-83fd-47bb-ad6e-184e11b1e957.ALL.bw
@@ -644,7 +644,7 @@ longLabel recount3 coverage bigWig for external id 23b8a53b-83fd-47bb-ad6e-184e1
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2482156e-29a8-4b6b-91bd-219eac9229b5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B5/tcga.base_sums.LGG_2482156e-29a8-4b6b-91bd-219eac9229b5.ALL.bw
@@ -653,7 +653,7 @@ longLabel recount3 coverage bigWig for external id 2482156e-29a8-4b6b-91bd-219ea
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 24f914fe-3df0-4286-9231-9d525a777306
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/06/tcga.base_sums.LGG_24f914fe-3df0-4286-9231-9d525a777306.ALL.bw
@@ -662,7 +662,7 @@ longLabel recount3 coverage bigWig for external id 24f914fe-3df0-4286-9231-9d525
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2535e07b-4cb8-4608-87f3-d8d6371b8862
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/62/tcga.base_sums.LGG_2535e07b-4cb8-4608-87f3-d8d6371b8862.ALL.bw
@@ -671,7 +671,7 @@ longLabel recount3 coverage bigWig for external id 2535e07b-4cb8-4608-87f3-d8d63
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2566fdac-ef10-4996-8890-fa0bec771676
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/76/tcga.base_sums.LGG_2566fdac-ef10-4996-8890-fa0bec771676.ALL.bw
@@ -680,7 +680,7 @@ longLabel recount3 coverage bigWig for external id 2566fdac-ef10-4996-8890-fa0be
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 25b5e54f-5858-454c-9b23-440a82450912
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/12/tcga.base_sums.LGG_25b5e54f-5858-454c-9b23-440a82450912.ALL.bw
@@ -689,7 +689,7 @@ longLabel recount3 coverage bigWig for external id 25b5e54f-5858-454c-9b23-440a8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 25f10d96-5b62-47a4-a720-ec3d384560f6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F6/tcga.base_sums.LGG_25f10d96-5b62-47a4-a720-ec3d384560f6.ALL.bw
@@ -698,7 +698,7 @@ longLabel recount3 coverage bigWig for external id 25f10d96-5b62-47a4-a720-ec3d3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 261eae5f-1b79-4324-84f6-1b0ddda9b7b5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B5/tcga.base_sums.LGG_261eae5f-1b79-4324-84f6-1b0ddda9b7b5.ALL.bw
@@ -707,7 +707,7 @@ longLabel recount3 coverage bigWig for external id 261eae5f-1b79-4324-84f6-1b0dd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 268a4e05-3389-4f46-976f-3ec5e269ac2d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2D/tcga.base_sums.LGG_268a4e05-3389-4f46-976f-3ec5e269ac2d.ALL.bw
@@ -716,7 +716,7 @@ longLabel recount3 coverage bigWig for external id 268a4e05-3389-4f46-976f-3ec5e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 27c775c6-abad-44be-b995-21dc4c68c399
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/99/tcga.base_sums.LGG_27c775c6-abad-44be-b995-21dc4c68c399.ALL.bw
@@ -725,7 +725,7 @@ longLabel recount3 coverage bigWig for external id 27c775c6-abad-44be-b995-21dc4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 27f3611b-6483-47f5-a58e-a74b5165514a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/4A/tcga.base_sums.LGG_27f3611b-6483-47f5-a58e-a74b5165514a.ALL.bw
@@ -734,7 +734,7 @@ longLabel recount3 coverage bigWig for external id 27f3611b-6483-47f5-a58e-a74b5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 28b7b2fc-8270-42e3-95ed-4cc4f0979ee9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E9/tcga.base_sums.LGG_28b7b2fc-8270-42e3-95ed-4cc4f0979ee9.ALL.bw
@@ -743,7 +743,7 @@ longLabel recount3 coverage bigWig for external id 28b7b2fc-8270-42e3-95ed-4cc4f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 28e176de-49db-4f39-b022-c89235590cac
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AC/tcga.base_sums.LGG_28e176de-49db-4f39-b022-c89235590cac.ALL.bw
@@ -752,7 +752,7 @@ longLabel recount3 coverage bigWig for external id 28e176de-49db-4f39-b022-c8923
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 293e6d35-8392-4c44-bc18-f917989516b0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B0/tcga.base_sums.LGG_293e6d35-8392-4c44-bc18-f917989516b0.ALL.bw
@@ -761,7 +761,7 @@ longLabel recount3 coverage bigWig for external id 293e6d35-8392-4c44-bc18-f9179
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 29d4ab03-5604-4ad6-aefa-eb9c7eed7fca
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CA/tcga.base_sums.LGG_29d4ab03-5604-4ad6-aefa-eb9c7eed7fca.ALL.bw
@@ -770,7 +770,7 @@ longLabel recount3 coverage bigWig for external id 29d4ab03-5604-4ad6-aefa-eb9c7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2b4fa61a-c1a7-49bd-9438-2865d386eaf2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F2/tcga.base_sums.LGG_2b4fa61a-c1a7-49bd-9438-2865d386eaf2.ALL.bw
@@ -779,7 +779,7 @@ longLabel recount3 coverage bigWig for external id 2b4fa61a-c1a7-49bd-9438-2865d
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2b70c69f-de54-4c78-b326-5ccee15916fb
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FB/tcga.base_sums.LGG_2b70c69f-de54-4c78-b326-5ccee15916fb.ALL.bw
@@ -788,7 +788,7 @@ longLabel recount3 coverage bigWig for external id 2b70c69f-de54-4c78-b326-5ccee
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2c70d7bf-85c4-447b-b0f9-a129d6b49e77
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/77/tcga.base_sums.LGG_2c70d7bf-85c4-447b-b0f9-a129d6b49e77.ALL.bw
@@ -797,7 +797,7 @@ longLabel recount3 coverage bigWig for external id 2c70d7bf-85c4-447b-b0f9-a129d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2cb84056-3b7c-4e12-9403-596b76ccf96b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6B/tcga.base_sums.LGG_2cb84056-3b7c-4e12-9403-596b76ccf96b.ALL.bw
@@ -806,7 +806,7 @@ longLabel recount3 coverage bigWig for external id 2cb84056-3b7c-4e12-9403-596b7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2cbb6a30-1bf8-4f58-a2c1-99afa8685277
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/77/tcga.base_sums.LGG_2cbb6a30-1bf8-4f58-a2c1-99afa8685277.ALL.bw
@@ -815,7 +815,7 @@ longLabel recount3 coverage bigWig for external id 2cbb6a30-1bf8-4f58-a2c1-99afa
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2cf24c43-7c9d-4395-8c82-5a80361f9980
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/80/tcga.base_sums.LGG_2cf24c43-7c9d-4395-8c82-5a80361f9980.ALL.bw
@@ -824,7 +824,7 @@ longLabel recount3 coverage bigWig for external id 2cf24c43-7c9d-4395-8c82-5a803
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2d0a1ba3-ec1d-4b4f-a383-9353c0f4be85
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/85/tcga.base_sums.LGG_2d0a1ba3-ec1d-4b4f-a383-9353c0f4be85.ALL.bw
@@ -833,7 +833,7 @@ longLabel recount3 coverage bigWig for external id 2d0a1ba3-ec1d-4b4f-a383-9353c
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2da298a9-ab20-4f9d-b83f-c7fc0679f889
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/89/tcga.base_sums.LGG_2da298a9-ab20-4f9d-b83f-c7fc0679f889.ALL.bw
@@ -842,7 +842,7 @@ longLabel recount3 coverage bigWig for external id 2da298a9-ab20-4f9d-b83f-c7fc0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2f382d6a-b26f-450a-a156-9407d14538cd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CD/tcga.base_sums.LGG_2f382d6a-b26f-450a-a156-9407d14538cd.ALL.bw
@@ -851,7 +851,7 @@ longLabel recount3 coverage bigWig for external id 2f382d6a-b26f-450a-a156-9407d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2fa21196-17b0-4d16-bca7-7e405ca2c1c5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C5/tcga.base_sums.LGG_2fa21196-17b0-4d16-bca7-7e405ca2c1c5.ALL.bw
@@ -860,7 +860,7 @@ longLabel recount3 coverage bigWig for external id 2fa21196-17b0-4d16-bca7-7e405
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 2fbf997d-b138-4bb4-b51e-81cef9c0c8a3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A3/tcga.base_sums.LGG_2fbf997d-b138-4bb4-b51e-81cef9c0c8a3.ALL.bw
@@ -869,7 +869,7 @@ longLabel recount3 coverage bigWig for external id 2fbf997d-b138-4bb4-b51e-81cef
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 30906368-89bc-42e0-8f7b-81b1dede812d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2D/tcga.base_sums.LGG_30906368-89bc-42e0-8f7b-81b1dede812d.ALL.bw
@@ -878,7 +878,7 @@ longLabel recount3 coverage bigWig for external id 30906368-89bc-42e0-8f7b-81b1d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 311d796c-bdd1-4c6b-9fd4-a053778ae1bb
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BB/tcga.base_sums.LGG_311d796c-bdd1-4c6b-9fd4-a053778ae1bb.ALL.bw
@@ -887,7 +887,7 @@ longLabel recount3 coverage bigWig for external id 311d796c-bdd1-4c6b-9fd4-a0537
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 31d3488a-212b-4818-8f09-ebf1e8b135ad
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AD/tcga.base_sums.LGG_31d3488a-212b-4818-8f09-ebf1e8b135ad.ALL.bw
@@ -896,7 +896,7 @@ longLabel recount3 coverage bigWig for external id 31d3488a-212b-4818-8f09-ebf1e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 32b3c71a-c4ae-42aa-aa11-63ace64eaad2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D2/tcga.base_sums.LGG_32b3c71a-c4ae-42aa-aa11-63ace64eaad2.ALL.bw
@@ -905,7 +905,7 @@ longLabel recount3 coverage bigWig for external id 32b3c71a-c4ae-42aa-aa11-63ace
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 32ced7c6-c413-4b5c-8a49-8aa2c97e582d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2D/tcga.base_sums.LGG_32ced7c6-c413-4b5c-8a49-8aa2c97e582d.ALL.bw
@@ -914,7 +914,7 @@ longLabel recount3 coverage bigWig for external id 32ced7c6-c413-4b5c-8a49-8aa2c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 33060001-05c9-4751-aa58-f194207acc08
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/08/tcga.base_sums.LGG_33060001-05c9-4751-aa58-f194207acc08.ALL.bw
@@ -923,7 +923,7 @@ longLabel recount3 coverage bigWig for external id 33060001-05c9-4751-aa58-f1942
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 332283cb-f855-4493-a259-7852fd37b9dc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DC/tcga.base_sums.LGG_332283cb-f855-4493-a259-7852fd37b9dc.ALL.bw
@@ -932,7 +932,7 @@ longLabel recount3 coverage bigWig for external id 332283cb-f855-4493-a259-7852f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 33233781-a799-4610-86fc-c836713d31aa
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AA/tcga.base_sums.LGG_33233781-a799-4610-86fc-c836713d31aa.ALL.bw
@@ -941,7 +941,7 @@ longLabel recount3 coverage bigWig for external id 33233781-a799-4610-86fc-c8367
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 33e877fa-0480-407c-b1fd-16a385b797b4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B4/tcga.base_sums.LGG_33e877fa-0480-407c-b1fd-16a385b797b4.ALL.bw
@@ -950,7 +950,7 @@ longLabel recount3 coverage bigWig for external id 33e877fa-0480-407c-b1fd-16a38
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 34229bda-4bf2-4537-a663-15896f6e269a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9A/tcga.base_sums.LGG_34229bda-4bf2-4537-a663-15896f6e269a.ALL.bw
@@ -959,7 +959,7 @@ longLabel recount3 coverage bigWig for external id 34229bda-4bf2-4537-a663-15896
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 343fcb59-3250-4531-ae41-4b9ab02896c8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C8/tcga.base_sums.LGG_343fcb59-3250-4531-ae41-4b9ab02896c8.ALL.bw
@@ -968,7 +968,7 @@ longLabel recount3 coverage bigWig for external id 343fcb59-3250-4531-ae41-4b9ab
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3442022f-48b1-46d2-9042-8ad2b6227f8c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8C/tcga.base_sums.LGG_3442022f-48b1-46d2-9042-8ad2b6227f8c.ALL.bw
@@ -977,7 +977,7 @@ longLabel recount3 coverage bigWig for external id 3442022f-48b1-46d2-9042-8ad2b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 37415c2e-3112-47e6-8757-4d128e3447ae
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AE/tcga.base_sums.LGG_37415c2e-3112-47e6-8757-4d128e3447ae.ALL.bw
@@ -986,7 +986,7 @@ longLabel recount3 coverage bigWig for external id 37415c2e-3112-47e6-8757-4d128
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 37586aac-159b-41f9-9078-c2f7888753ac
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AC/tcga.base_sums.LGG_37586aac-159b-41f9-9078-c2f7888753ac.ALL.bw
@@ -995,7 +995,7 @@ longLabel recount3 coverage bigWig for external id 37586aac-159b-41f9-9078-c2f78
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 37a8e941-f86f-449a-86e4-833ac349111f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1F/tcga.base_sums.LGG_37a8e941-f86f-449a-86e4-833ac349111f.ALL.bw
@@ -1004,7 +1004,7 @@ longLabel recount3 coverage bigWig for external id 37a8e941-f86f-449a-86e4-833ac
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 37df227e-8b22-4757-a65c-87c6f28f87d4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D4/tcga.base_sums.LGG_37df227e-8b22-4757-a65c-87c6f28f87d4.ALL.bw
@@ -1013,7 +1013,7 @@ longLabel recount3 coverage bigWig for external id 37df227e-8b22-4757-a65c-87c6f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 37e6f027-c405-4671-80bd-cc40684de803
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/03/tcga.base_sums.LGG_37e6f027-c405-4671-80bd-cc40684de803.ALL.bw
@@ -1022,7 +1022,7 @@ longLabel recount3 coverage bigWig for external id 37e6f027-c405-4671-80bd-cc406
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 381221d6-d0e6-47b3-ab59-468ae2a5fc0a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0A/tcga.base_sums.LGG_381221d6-d0e6-47b3-ab59-468ae2a5fc0a.ALL.bw
@@ -1031,7 +1031,7 @@ longLabel recount3 coverage bigWig for external id 381221d6-d0e6-47b3-ab59-468ae
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 385ecc71-2bf4-4e14-b2cc-8423e79bdebe
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BE/tcga.base_sums.LGG_385ecc71-2bf4-4e14-b2cc-8423e79bdebe.ALL.bw
@@ -1040,7 +1040,7 @@ longLabel recount3 coverage bigWig for external id 385ecc71-2bf4-4e14-b2cc-8423e
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 387c53ed-a9ed-481f-87d9-87090b690e0e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0E/tcga.base_sums.LGG_387c53ed-a9ed-481f-87d9-87090b690e0e.ALL.bw
@@ -1049,7 +1049,7 @@ longLabel recount3 coverage bigWig for external id 387c53ed-a9ed-481f-87d9-87090
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 39777f3a-0854-4c8e-9ff4-9a1369c4733d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3D/tcga.base_sums.LGG_39777f3a-0854-4c8e-9ff4-9a1369c4733d.ALL.bw
@@ -1058,7 +1058,7 @@ longLabel recount3 coverage bigWig for external id 39777f3a-0854-4c8e-9ff4-9a136
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3a29e7e3-412d-45cb-98a8-ce39eac4233a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3A/tcga.base_sums.LGG_3a29e7e3-412d-45cb-98a8-ce39eac4233a.ALL.bw
@@ -1067,7 +1067,7 @@ longLabel recount3 coverage bigWig for external id 3a29e7e3-412d-45cb-98a8-ce39e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3a2d0d6f-66c3-48ee-9ea4-68668ff9b043
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/43/tcga.base_sums.LGG_3a2d0d6f-66c3-48ee-9ea4-68668ff9b043.ALL.bw
@@ -1076,7 +1076,7 @@ longLabel recount3 coverage bigWig for external id 3a2d0d6f-66c3-48ee-9ea4-68668
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3a5f200f-c6e0-487b-9c3d-bb32c65480e8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E8/tcga.base_sums.LGG_3a5f200f-c6e0-487b-9c3d-bb32c65480e8.ALL.bw
@@ -1085,7 +1085,7 @@ longLabel recount3 coverage bigWig for external id 3a5f200f-c6e0-487b-9c3d-bb32c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3ad94d09-83f9-4e15-946f-1123e468f582
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/82/tcga.base_sums.LGG_3ad94d09-83f9-4e15-946f-1123e468f582.ALL.bw
@@ -1094,7 +1094,7 @@ longLabel recount3 coverage bigWig for external id 3ad94d09-83f9-4e15-946f-1123e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3bcd8be5-753d-43ef-b830-ea4356620a5c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/5C/tcga.base_sums.LGG_3bcd8be5-753d-43ef-b830-ea4356620a5c.ALL.bw
@@ -1103,7 +1103,7 @@ longLabel recount3 coverage bigWig for external id 3bcd8be5-753d-43ef-b830-ea435
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3c612089-3af3-4999-9f46-3ef083aff90d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0D/tcga.base_sums.LGG_3c612089-3af3-4999-9f46-3ef083aff90d.ALL.bw
@@ -1112,7 +1112,7 @@ longLabel recount3 coverage bigWig for external id 3c612089-3af3-4999-9f46-3ef08
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3cfe193b-09b3-4038-aa66-156beea28ddc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DC/tcga.base_sums.LGG_3cfe193b-09b3-4038-aa66-156beea28ddc.ALL.bw
@@ -1121,7 +1121,7 @@ longLabel recount3 coverage bigWig for external id 3cfe193b-09b3-4038-aa66-156be
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3da19761-6ff3-4e8c-aa0f-c04ce2ce7037
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/37/tcga.base_sums.LGG_3da19761-6ff3-4e8c-aa0f-c04ce2ce7037.ALL.bw
@@ -1130,7 +1130,7 @@ longLabel recount3 coverage bigWig for external id 3da19761-6ff3-4e8c-aa0f-c04ce
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3dc38276-a6d2-49c6-8f54-3f50f6bfad0c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0C/tcga.base_sums.LGG_3dc38276-a6d2-49c6-8f54-3f50f6bfad0c.ALL.bw
@@ -1139,7 +1139,7 @@ longLabel recount3 coverage bigWig for external id 3dc38276-a6d2-49c6-8f54-3f50f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3e5f6b52-112e-4f87-b49c-061b9dfd1e2d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2D/tcga.base_sums.LGG_3e5f6b52-112e-4f87-b49c-061b9dfd1e2d.ALL.bw
@@ -1148,7 +1148,7 @@ longLabel recount3 coverage bigWig for external id 3e5f6b52-112e-4f87-b49c-061b9
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3e605854-cc65-4951-8edb-235fd21fd71f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1F/tcga.base_sums.LGG_3e605854-cc65-4951-8edb-235fd21fd71f.ALL.bw
@@ -1157,7 +1157,7 @@ longLabel recount3 coverage bigWig for external id 3e605854-cc65-4951-8edb-235fd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 3ffd7969-3d39-4219-b3c5-a9ff0c127724
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/24/tcga.base_sums.LGG_3ffd7969-3d39-4219-b3c5-a9ff0c127724.ALL.bw
@@ -1166,7 +1166,7 @@ longLabel recount3 coverage bigWig for external id 3ffd7969-3d39-4219-b3c5-a9ff0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4099642a-f8d6-428c-aa12-1e76c27bb368
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/68/tcga.base_sums.LGG_4099642a-f8d6-428c-aa12-1e76c27bb368.ALL.bw
@@ -1175,7 +1175,7 @@ longLabel recount3 coverage bigWig for external id 4099642a-f8d6-428c-aa12-1e76c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 42b7a295-5e3d-44da-b93f-40e64a551364
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/64/tcga.base_sums.LGG_42b7a295-5e3d-44da-b93f-40e64a551364.ALL.bw
@@ -1184,7 +1184,7 @@ longLabel recount3 coverage bigWig for external id 42b7a295-5e3d-44da-b93f-40e64
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 430f00c9-0891-4c92-902c-a65022fe4e1e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1E/tcga.base_sums.LGG_430f00c9-0891-4c92-902c-a65022fe4e1e.ALL.bw
@@ -1193,7 +1193,7 @@ longLabel recount3 coverage bigWig for external id 430f00c9-0891-4c92-902c-a6502
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 431cf176-101c-482f-b2a4-617adf6475a8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A8/tcga.base_sums.LGG_431cf176-101c-482f-b2a4-617adf6475a8.ALL.bw
@@ -1202,7 +1202,7 @@ longLabel recount3 coverage bigWig for external id 431cf176-101c-482f-b2a4-617ad
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 431eab8c-d0b4-4440-a2b6-1d001b0026e2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E2/tcga.base_sums.LGG_431eab8c-d0b4-4440-a2b6-1d001b0026e2.ALL.bw
@@ -1211,7 +1211,7 @@ longLabel recount3 coverage bigWig for external id 431eab8c-d0b4-4440-a2b6-1d001
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 433ea1f9-8f58-45ff-a330-50049827d332
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/32/tcga.base_sums.LGG_433ea1f9-8f58-45ff-a330-50049827d332.ALL.bw
@@ -1220,7 +1220,7 @@ longLabel recount3 coverage bigWig for external id 433ea1f9-8f58-45ff-a330-50049
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 443b751f-4f0b-45a1-bc83-24e446e8e573
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/73/tcga.base_sums.LGG_443b751f-4f0b-45a1-bc83-24e446e8e573.ALL.bw
@@ -1229,7 +1229,7 @@ longLabel recount3 coverage bigWig for external id 443b751f-4f0b-45a1-bc83-24e44
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 44b988f8-8b4b-4b7c-b91e-99c513f7e753
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/53/tcga.base_sums.LGG_44b988f8-8b4b-4b7c-b91e-99c513f7e753.ALL.bw
@@ -1238,7 +1238,7 @@ longLabel recount3 coverage bigWig for external id 44b988f8-8b4b-4b7c-b91e-99c51
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4549956c-8d25-4b37-894c-e82d5c7684f0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F0/tcga.base_sums.LGG_4549956c-8d25-4b37-894c-e82d5c7684f0.ALL.bw
@@ -1247,7 +1247,7 @@ longLabel recount3 coverage bigWig for external id 4549956c-8d25-4b37-894c-e82d5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 45afefed-3c26-4511-b185-c08e3cfd79f5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F5/tcga.base_sums.LGG_45afefed-3c26-4511-b185-c08e3cfd79f5.ALL.bw
@@ -1256,7 +1256,7 @@ longLabel recount3 coverage bigWig for external id 45afefed-3c26-4511-b185-c08e3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 45b7816c-0a67-441c-8e80-656eaf2ad940
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/40/tcga.base_sums.LGG_45b7816c-0a67-441c-8e80-656eaf2ad940.ALL.bw
@@ -1265,7 +1265,7 @@ longLabel recount3 coverage bigWig for external id 45b7816c-0a67-441c-8e80-656ea
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 46ad8592-a823-48da-ab51-3cec34f53e04
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/04/tcga.base_sums.LGG_46ad8592-a823-48da-ab51-3cec34f53e04.ALL.bw
@@ -1274,7 +1274,7 @@ longLabel recount3 coverage bigWig for external id 46ad8592-a823-48da-ab51-3cec3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 46befc7f-2f51-4331-ba86-9823ec5781b3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B3/tcga.base_sums.LGG_46befc7f-2f51-4331-ba86-9823ec5781b3.ALL.bw
@@ -1283,7 +1283,7 @@ longLabel recount3 coverage bigWig for external id 46befc7f-2f51-4331-ba86-9823e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 46c04e67-f4d4-41b9-8724-ef7328be226c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6C/tcga.base_sums.LGG_46c04e67-f4d4-41b9-8724-ef7328be226c.ALL.bw
@@ -1292,7 +1292,7 @@ longLabel recount3 coverage bigWig for external id 46c04e67-f4d4-41b9-8724-ef732
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 46c5ef69-5eaf-4fba-be47-28a8e7f3d9a2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A2/tcga.base_sums.LGG_46c5ef69-5eaf-4fba-be47-28a8e7f3d9a2.ALL.bw
@@ -1301,7 +1301,7 @@ longLabel recount3 coverage bigWig for external id 46c5ef69-5eaf-4fba-be47-28a8e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 47757643-a7b2-4782-8daf-ae56be8777d2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D2/tcga.base_sums.LGG_47757643-a7b2-4782-8daf-ae56be8777d2.ALL.bw
@@ -1310,7 +1310,7 @@ longLabel recount3 coverage bigWig for external id 47757643-a7b2-4782-8daf-ae56b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 47e7cb22-bc33-4d50-af1b-5134c350b9d4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D4/tcga.base_sums.LGG_47e7cb22-bc33-4d50-af1b-5134c350b9d4.ALL.bw
@@ -1319,7 +1319,7 @@ longLabel recount3 coverage bigWig for external id 47e7cb22-bc33-4d50-af1b-5134c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4880b586-ba92-48b2-a233-5c245d2e31c0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C0/tcga.base_sums.LGG_4880b586-ba92-48b2-a233-5c245d2e31c0.ALL.bw
@@ -1328,7 +1328,7 @@ longLabel recount3 coverage bigWig for external id 4880b586-ba92-48b2-a233-5c245
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4938761d-0762-4984-a399-bc036d6d2140
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/40/tcga.base_sums.LGG_4938761d-0762-4984-a399-bc036d6d2140.ALL.bw
@@ -1337,7 +1337,7 @@ longLabel recount3 coverage bigWig for external id 4938761d-0762-4984-a399-bc036
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4942e435-61e6-4a43-b031-4e08f0b41186
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/86/tcga.base_sums.LGG_4942e435-61e6-4a43-b031-4e08f0b41186.ALL.bw
@@ -1346,7 +1346,7 @@ longLabel recount3 coverage bigWig for external id 4942e435-61e6-4a43-b031-4e08f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4992152d-1d3d-4156-9d80-1b6810aae78f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8F/tcga.base_sums.LGG_4992152d-1d3d-4156-9d80-1b6810aae78f.ALL.bw
@@ -1355,7 +1355,7 @@ longLabel recount3 coverage bigWig for external id 4992152d-1d3d-4156-9d80-1b681
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4a2e75ae-a92f-4497-9253-64ac42cfa745
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/45/tcga.base_sums.LGG_4a2e75ae-a92f-4497-9253-64ac42cfa745.ALL.bw
@@ -1364,7 +1364,7 @@ longLabel recount3 coverage bigWig for external id 4a2e75ae-a92f-4497-9253-64ac4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4a4e96b0-5ac6-4b7d-ab1c-f814c338589c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9C/tcga.base_sums.LGG_4a4e96b0-5ac6-4b7d-ab1c-f814c338589c.ALL.bw
@@ -1373,7 +1373,7 @@ longLabel recount3 coverage bigWig for external id 4a4e96b0-5ac6-4b7d-ab1c-f814c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4a97d63a-cb64-4d34-8348-d7e912ec5a95
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/95/tcga.base_sums.LGG_4a97d63a-cb64-4d34-8348-d7e912ec5a95.ALL.bw
@@ -1382,7 +1382,7 @@ longLabel recount3 coverage bigWig for external id 4a97d63a-cb64-4d34-8348-d7e91
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4bb9587b-88cb-4bd9-be1d-2cdf61337579
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/79/tcga.base_sums.LGG_4bb9587b-88cb-4bd9-be1d-2cdf61337579.ALL.bw
@@ -1391,7 +1391,7 @@ longLabel recount3 coverage bigWig for external id 4bb9587b-88cb-4bd9-be1d-2cdf6
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4d9ef242-9f58-4681-adcf-556e05932931
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/31/tcga.base_sums.LGG_4d9ef242-9f58-4681-adcf-556e05932931.ALL.bw
@@ -1400,7 +1400,7 @@ longLabel recount3 coverage bigWig for external id 4d9ef242-9f58-4681-adcf-556e0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4de8e786-dfe2-403e-948f-a4fa32177f59
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/59/tcga.base_sums.LGG_4de8e786-dfe2-403e-948f-a4fa32177f59.ALL.bw
@@ -1409,7 +1409,7 @@ longLabel recount3 coverage bigWig for external id 4de8e786-dfe2-403e-948f-a4fa3
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4ebf33f3-da34-4866-81e5-f2d50a18d413
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/13/tcga.base_sums.LGG_4ebf33f3-da34-4866-81e5-f2d50a18d413.ALL.bw
@@ -1418,7 +1418,7 @@ longLabel recount3 coverage bigWig for external id 4ebf33f3-da34-4866-81e5-f2d50
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4f62a177-d1c6-4829-a86e-7ca1d29421fc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FC/tcga.base_sums.LGG_4f62a177-d1c6-4829-a86e-7ca1d29421fc.ALL.bw
@@ -1427,7 +1427,7 @@ longLabel recount3 coverage bigWig for external id 4f62a177-d1c6-4829-a86e-7ca1d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4fc69960-8ef2-49fe-a718-7004e99e00a8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A8/tcga.base_sums.LGG_4fc69960-8ef2-49fe-a718-7004e99e00a8.ALL.bw
@@ -1436,7 +1436,7 @@ longLabel recount3 coverage bigWig for external id 4fc69960-8ef2-49fe-a718-7004e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4fd9ed95-21e7-440d-aaa9-86dddf12b37a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7A/tcga.base_sums.LGG_4fd9ed95-21e7-440d-aaa9-86dddf12b37a.ALL.bw
@@ -1445,7 +1445,7 @@ longLabel recount3 coverage bigWig for external id 4fd9ed95-21e7-440d-aaa9-86ddd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 4fe5ede2-7790-4a75-9bb6-93260a8154a0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A0/tcga.base_sums.LGG_4fe5ede2-7790-4a75-9bb6-93260a8154a0.ALL.bw
@@ -1454,7 +1454,7 @@ longLabel recount3 coverage bigWig for external id 4fe5ede2-7790-4a75-9bb6-93260
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 507ded46-d79c-4a9f-bcf9-22e9c2cfd334
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/34/tcga.base_sums.LGG_507ded46-d79c-4a9f-bcf9-22e9c2cfd334.ALL.bw
@@ -1463,7 +1463,7 @@ longLabel recount3 coverage bigWig for external id 507ded46-d79c-4a9f-bcf9-22e9c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5085ce66-190d-478b-9ab6-55ae71c41ccf
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CF/tcga.base_sums.LGG_5085ce66-190d-478b-9ab6-55ae71c41ccf.ALL.bw
@@ -1472,7 +1472,7 @@ longLabel recount3 coverage bigWig for external id 5085ce66-190d-478b-9ab6-55ae7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 50de1fde-b85e-4677-b0f8-08275da41a6e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6E/tcga.base_sums.LGG_50de1fde-b85e-4677-b0f8-08275da41a6e.ALL.bw
@@ -1481,7 +1481,7 @@ longLabel recount3 coverage bigWig for external id 50de1fde-b85e-4677-b0f8-08275
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 51708da2-649d-4817-bb26-7fd153c65965
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/65/tcga.base_sums.LGG_51708da2-649d-4817-bb26-7fd153c65965.ALL.bw
@@ -1490,7 +1490,7 @@ longLabel recount3 coverage bigWig for external id 51708da2-649d-4817-bb26-7fd15
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 51a24e0f-cc2c-4cbf-b841-80a747297a42
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/42/tcga.base_sums.LGG_51a24e0f-cc2c-4cbf-b841-80a747297a42.ALL.bw
@@ -1499,7 +1499,7 @@ longLabel recount3 coverage bigWig for external id 51a24e0f-cc2c-4cbf-b841-80a74
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 51fd71d0-4d36-4d39-8a0e-57b6a6f0f209
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/09/tcga.base_sums.LGG_51fd71d0-4d36-4d39-8a0e-57b6a6f0f209.ALL.bw
@@ -1508,7 +1508,7 @@ longLabel recount3 coverage bigWig for external id 51fd71d0-4d36-4d39-8a0e-57b6a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5282b52e-8573-4fc0-9bed-420ae3d2b096
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/96/tcga.base_sums.LGG_5282b52e-8573-4fc0-9bed-420ae3d2b096.ALL.bw
@@ -1517,7 +1517,7 @@ longLabel recount3 coverage bigWig for external id 5282b52e-8573-4fc0-9bed-420ae
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 53426017-24f2-4348-bee1-05e80b6a0e6b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6B/tcga.base_sums.LGG_53426017-24f2-4348-bee1-05e80b6a0e6b.ALL.bw
@@ -1526,7 +1526,7 @@ longLabel recount3 coverage bigWig for external id 53426017-24f2-4348-bee1-05e80
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 53ba607f-7939-40d9-befa-dc4abdc7630b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0B/tcga.base_sums.LGG_53ba607f-7939-40d9-befa-dc4abdc7630b.ALL.bw
@@ -1535,7 +1535,7 @@ longLabel recount3 coverage bigWig for external id 53ba607f-7939-40d9-befa-dc4ab
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 53ed3333-2be6-4738-a2c9-43c9f0a7b5be
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BE/tcga.base_sums.LGG_53ed3333-2be6-4738-a2c9-43c9f0a7b5be.ALL.bw
@@ -1544,7 +1544,7 @@ longLabel recount3 coverage bigWig for external id 53ed3333-2be6-4738-a2c9-43c9f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5547236e-885b-4ce8-b733-9d2e2d60941c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1C/tcga.base_sums.LGG_5547236e-885b-4ce8-b733-9d2e2d60941c.ALL.bw
@@ -1553,7 +1553,7 @@ longLabel recount3 coverage bigWig for external id 5547236e-885b-4ce8-b733-9d2e2
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 569bcfb6-7b4d-459a-962a-4c148889ce2c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2C/tcga.base_sums.LGG_569bcfb6-7b4d-459a-962a-4c148889ce2c.ALL.bw
@@ -1562,7 +1562,7 @@ longLabel recount3 coverage bigWig for external id 569bcfb6-7b4d-459a-962a-4c148
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 56c8ee15-beba-4919-9e57-fa82e90655d8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D8/tcga.base_sums.LGG_56c8ee15-beba-4919-9e57-fa82e90655d8.ALL.bw
@@ -1571,7 +1571,7 @@ longLabel recount3 coverage bigWig for external id 56c8ee15-beba-4919-9e57-fa82e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 56d3154e-e779-4c27-8305-fee7310b6762
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/62/tcga.base_sums.LGG_56d3154e-e779-4c27-8305-fee7310b6762.ALL.bw
@@ -1580,7 +1580,7 @@ longLabel recount3 coverage bigWig for external id 56d3154e-e779-4c27-8305-fee73
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 575f780d-9288-44cc-a0ea-e28ead80213b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3B/tcga.base_sums.LGG_575f780d-9288-44cc-a0ea-e28ead80213b.ALL.bw
@@ -1589,7 +1589,7 @@ longLabel recount3 coverage bigWig for external id 575f780d-9288-44cc-a0ea-e28ea
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 57aa1143-0fa1-4197-8cbe-517f6b885753
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/53/tcga.base_sums.LGG_57aa1143-0fa1-4197-8cbe-517f6b885753.ALL.bw
@@ -1598,7 +1598,7 @@ longLabel recount3 coverage bigWig for external id 57aa1143-0fa1-4197-8cbe-517f6
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 580d2283-0aee-42d8-aedc-e5280da56d81
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/81/tcga.base_sums.LGG_580d2283-0aee-42d8-aedc-e5280da56d81.ALL.bw
@@ -1607,7 +1607,7 @@ longLabel recount3 coverage bigWig for external id 580d2283-0aee-42d8-aedc-e5280
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5889dc37-2b83-4fa7-926e-ea69556fb769
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/69/tcga.base_sums.LGG_5889dc37-2b83-4fa7-926e-ea69556fb769.ALL.bw
@@ -1616,7 +1616,7 @@ longLabel recount3 coverage bigWig for external id 5889dc37-2b83-4fa7-926e-ea695
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 589a94f8-2432-4d6d-94eb-b327eca291af
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AF/tcga.base_sums.LGG_589a94f8-2432-4d6d-94eb-b327eca291af.ALL.bw
@@ -1625,7 +1625,7 @@ longLabel recount3 coverage bigWig for external id 589a94f8-2432-4d6d-94eb-b327e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 592cc5dc-4db7-4961-ab2b-89c8fe4a83d3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D3/tcga.base_sums.LGG_592cc5dc-4db7-4961-ab2b-89c8fe4a83d3.ALL.bw
@@ -1634,7 +1634,7 @@ longLabel recount3 coverage bigWig for external id 592cc5dc-4db7-4961-ab2b-89c8f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 59b8fdc4-299d-45b9-9ac1-526b7ed652ce
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CE/tcga.base_sums.LGG_59b8fdc4-299d-45b9-9ac1-526b7ed652ce.ALL.bw
@@ -1643,7 +1643,7 @@ longLabel recount3 coverage bigWig for external id 59b8fdc4-299d-45b9-9ac1-526b7
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5b9d33f5-1b4f-4c06-a73a-cc723c1ef409
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/09/tcga.base_sums.LGG_5b9d33f5-1b4f-4c06-a73a-cc723c1ef409.ALL.bw
@@ -1652,7 +1652,7 @@ longLabel recount3 coverage bigWig for external id 5b9d33f5-1b4f-4c06-a73a-cc723
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5b9dec62-3dc7-4de2-8b20-3e191594fcb4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B4/tcga.base_sums.LGG_5b9dec62-3dc7-4de2-8b20-3e191594fcb4.ALL.bw
@@ -1661,7 +1661,7 @@ longLabel recount3 coverage bigWig for external id 5b9dec62-3dc7-4de2-8b20-3e191
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5c40f9b6-4a54-4861-9de5-8852bf4b13e7
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E7/tcga.base_sums.LGG_5c40f9b6-4a54-4861-9de5-8852bf4b13e7.ALL.bw
@@ -1670,7 +1670,7 @@ longLabel recount3 coverage bigWig for external id 5c40f9b6-4a54-4861-9de5-8852b
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5ec64886-2295-497a-bee8-8aa17d8dadf1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F1/tcga.base_sums.LGG_5ec64886-2295-497a-bee8-8aa17d8dadf1.ALL.bw
@@ -1679,7 +1679,7 @@ longLabel recount3 coverage bigWig for external id 5ec64886-2295-497a-bee8-8aa17
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5ecc8470-d1a1-4a35-a9f7-e77f0b5b9133
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/33/tcga.base_sums.LGG_5ecc8470-d1a1-4a35-a9f7-e77f0b5b9133.ALL.bw
@@ -1688,7 +1688,7 @@ longLabel recount3 coverage bigWig for external id 5ecc8470-d1a1-4a35-a9f7-e77f0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5edf36f3-d370-4907-bda1-8d5fd2b80513
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/13/tcga.base_sums.LGG_5edf36f3-d370-4907-bda1-8d5fd2b80513.ALL.bw
@@ -1697,7 +1697,7 @@ longLabel recount3 coverage bigWig for external id 5edf36f3-d370-4907-bda1-8d5fd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 5f991edf-3871-4111-9a04-bf6ca02648ca
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CA/tcga.base_sums.LGG_5f991edf-3871-4111-9a04-bf6ca02648ca.ALL.bw
@@ -1706,7 +1706,7 @@ longLabel recount3 coverage bigWig for external id 5f991edf-3871-4111-9a04-bf6ca
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 604b16d3-7546-4e8c-8443-f1447cc5dfd5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D5/tcga.base_sums.LGG_604b16d3-7546-4e8c-8443-f1447cc5dfd5.ALL.bw
@@ -1715,7 +1715,7 @@ longLabel recount3 coverage bigWig for external id 604b16d3-7546-4e8c-8443-f1447
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6114e89b-b007-4f1b-b086-21ade26f4573
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/73/tcga.base_sums.LGG_6114e89b-b007-4f1b-b086-21ade26f4573.ALL.bw
@@ -1724,7 +1724,7 @@ longLabel recount3 coverage bigWig for external id 6114e89b-b007-4f1b-b086-21ade
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 61521a02-8d3f-48d5-bbde-4d874a633059
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/59/tcga.base_sums.LGG_61521a02-8d3f-48d5-bbde-4d874a633059.ALL.bw
@@ -1733,7 +1733,7 @@ longLabel recount3 coverage bigWig for external id 61521a02-8d3f-48d5-bbde-4d874
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 61882705-0498-43fe-83ca-77b0fc2702e3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E3/tcga.base_sums.LGG_61882705-0498-43fe-83ca-77b0fc2702e3.ALL.bw
@@ -1742,7 +1742,7 @@ longLabel recount3 coverage bigWig for external id 61882705-0498-43fe-83ca-77b0f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 618fab92-c578-4144-9bd0-aee1afbfa08e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8E/tcga.base_sums.LGG_618fab92-c578-4144-9bd0-aee1afbfa08e.ALL.bw
@@ -1751,7 +1751,7 @@ longLabel recount3 coverage bigWig for external id 618fab92-c578-4144-9bd0-aee1a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 61c38cfd-f57f-48d2-9fc7-81776647cf0e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0E/tcga.base_sums.LGG_61c38cfd-f57f-48d2-9fc7-81776647cf0e.ALL.bw
@@ -1760,7 +1760,7 @@ longLabel recount3 coverage bigWig for external id 61c38cfd-f57f-48d2-9fc7-81776
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 61f5c72a-4ddb-4edb-908a-b2856cafd8bd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BD/tcga.base_sums.LGG_61f5c72a-4ddb-4edb-908a-b2856cafd8bd.ALL.bw
@@ -1769,7 +1769,7 @@ longLabel recount3 coverage bigWig for external id 61f5c72a-4ddb-4edb-908a-b2856
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6292335b-7cbb-45be-aa2a-b39ffda8768d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8D/tcga.base_sums.LGG_6292335b-7cbb-45be-aa2a-b39ffda8768d.ALL.bw
@@ -1778,7 +1778,7 @@ longLabel recount3 coverage bigWig for external id 6292335b-7cbb-45be-aa2a-b39ff
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 62966348-1c16-4a6d-aa82-707b3f759d5c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/5C/tcga.base_sums.LGG_62966348-1c16-4a6d-aa82-707b3f759d5c.ALL.bw
@@ -1787,7 +1787,7 @@ longLabel recount3 coverage bigWig for external id 62966348-1c16-4a6d-aa82-707b3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 62bff895-c5cc-4f59-8348-2026b659fdf5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F5/tcga.base_sums.LGG_62bff895-c5cc-4f59-8348-2026b659fdf5.ALL.bw
@@ -1796,7 +1796,7 @@ longLabel recount3 coverage bigWig for external id 62bff895-c5cc-4f59-8348-2026b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 62f72c1e-2f27-44f1-8a56-31ed4e1e3116
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/16/tcga.base_sums.LGG_62f72c1e-2f27-44f1-8a56-31ed4e1e3116.ALL.bw
@@ -1805,7 +1805,7 @@ longLabel recount3 coverage bigWig for external id 62f72c1e-2f27-44f1-8a56-31ed4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 63204446-7aa0-40dc-996d-440f4e19ad0f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0F/tcga.base_sums.LGG_63204446-7aa0-40dc-996d-440f4e19ad0f.ALL.bw
@@ -1814,7 +1814,7 @@ longLabel recount3 coverage bigWig for external id 63204446-7aa0-40dc-996d-440f4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 635170d3-d669-4165-b69c-9c9a246bff11
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/11/tcga.base_sums.LGG_635170d3-d669-4165-b69c-9c9a246bff11.ALL.bw
@@ -1823,7 +1823,7 @@ longLabel recount3 coverage bigWig for external id 635170d3-d669-4165-b69c-9c9a2
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 63e967c4-863f-4253-adfe-3cdc13b6187a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7A/tcga.base_sums.LGG_63e967c4-863f-4253-adfe-3cdc13b6187a.ALL.bw
@@ -1832,7 +1832,7 @@ longLabel recount3 coverage bigWig for external id 63e967c4-863f-4253-adfe-3cdc1
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 64e6ee5b-414f-4d8c-ba90-5a74b4ff5904
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/04/tcga.base_sums.LGG_64e6ee5b-414f-4d8c-ba90-5a74b4ff5904.ALL.bw
@@ -1841,7 +1841,7 @@ longLabel recount3 coverage bigWig for external id 64e6ee5b-414f-4d8c-ba90-5a74b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 64f4fe1b-1b96-49cc-b4e9-454d971db7bc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BC/tcga.base_sums.LGG_64f4fe1b-1b96-49cc-b4e9-454d971db7bc.ALL.bw
@@ -1850,7 +1850,7 @@ longLabel recount3 coverage bigWig for external id 64f4fe1b-1b96-49cc-b4e9-454d9
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 656b6084-9c58-469a-beaf-ffc1d089e658
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/58/tcga.base_sums.LGG_656b6084-9c58-469a-beaf-ffc1d089e658.ALL.bw
@@ -1859,7 +1859,7 @@ longLabel recount3 coverage bigWig for external id 656b6084-9c58-469a-beaf-ffc1d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 65dab913-d39c-4ac4-bb1c-10e58914571f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1F/tcga.base_sums.LGG_65dab913-d39c-4ac4-bb1c-10e58914571f.ALL.bw
@@ -1868,7 +1868,7 @@ longLabel recount3 coverage bigWig for external id 65dab913-d39c-4ac4-bb1c-10e58
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 66a657c4-cc7b-4154-afad-342e7cc87ef9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F9/tcga.base_sums.LGG_66a657c4-cc7b-4154-afad-342e7cc87ef9.ALL.bw
@@ -1877,7 +1877,7 @@ longLabel recount3 coverage bigWig for external id 66a657c4-cc7b-4154-afad-342e7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6794cb9f-5326-4f57-b2e2-5d877c03f5d4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D4/tcga.base_sums.LGG_6794cb9f-5326-4f57-b2e2-5d877c03f5d4.ALL.bw
@@ -1886,7 +1886,7 @@ longLabel recount3 coverage bigWig for external id 6794cb9f-5326-4f57-b2e2-5d877
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 67b2f9cd-759e-4300-8f4b-1b5c4f9e0b1c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1C/tcga.base_sums.LGG_67b2f9cd-759e-4300-8f4b-1b5c4f9e0b1c.ALL.bw
@@ -1895,7 +1895,7 @@ longLabel recount3 coverage bigWig for external id 67b2f9cd-759e-4300-8f4b-1b5c4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 67b5e93e-6f06-4247-86dd-a914279effc5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C5/tcga.base_sums.LGG_67b5e93e-6f06-4247-86dd-a914279effc5.ALL.bw
@@ -1904,7 +1904,7 @@ longLabel recount3 coverage bigWig for external id 67b5e93e-6f06-4247-86dd-a9142
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 67d34e3d-db05-44bc-b058-e7e88e0ea58b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8B/tcga.base_sums.LGG_67d34e3d-db05-44bc-b058-e7e88e0ea58b.ALL.bw
@@ -1913,7 +1913,7 @@ longLabel recount3 coverage bigWig for external id 67d34e3d-db05-44bc-b058-e7e88
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6819d9da-fe18-4584-8af6-e53dd894852e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2E/tcga.base_sums.LGG_6819d9da-fe18-4584-8af6-e53dd894852e.ALL.bw
@@ -1922,7 +1922,7 @@ longLabel recount3 coverage bigWig for external id 6819d9da-fe18-4584-8af6-e53dd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 68b73b22-487b-43d8-9b68-06ad1022f46d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6D/tcga.base_sums.LGG_68b73b22-487b-43d8-9b68-06ad1022f46d.ALL.bw
@@ -1931,7 +1931,7 @@ longLabel recount3 coverage bigWig for external id 68b73b22-487b-43d8-9b68-06ad1
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 68ce8e02-f24a-4580-9881-dfbb288e2ed7
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D7/tcga.base_sums.LGG_68ce8e02-f24a-4580-9881-dfbb288e2ed7.ALL.bw
@@ -1940,7 +1940,7 @@ longLabel recount3 coverage bigWig for external id 68ce8e02-f24a-4580-9881-dfbb2
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 694b3be3-104f-4d90-8733-4e99230efac6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C6/tcga.base_sums.LGG_694b3be3-104f-4d90-8733-4e99230efac6.ALL.bw
@@ -1949,7 +1949,7 @@ longLabel recount3 coverage bigWig for external id 694b3be3-104f-4d90-8733-4e992
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6990aabf-a5f4-4784-91ff-286a0ee6a618
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/18/tcga.base_sums.LGG_6990aabf-a5f4-4784-91ff-286a0ee6a618.ALL.bw
@@ -1958,7 +1958,7 @@ longLabel recount3 coverage bigWig for external id 6990aabf-a5f4-4784-91ff-286a0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 69a8ccb7-91f2-475c-8a31-64cd4e075090
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/90/tcga.base_sums.LGG_69a8ccb7-91f2-475c-8a31-64cd4e075090.ALL.bw
@@ -1967,7 +1967,7 @@ longLabel recount3 coverage bigWig for external id 69a8ccb7-91f2-475c-8a31-64cd4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6a30d8d0-ddb8-4b34-8bcb-46986144f551
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/51/tcga.base_sums.LGG_6a30d8d0-ddb8-4b34-8bcb-46986144f551.ALL.bw
@@ -1976,7 +1976,7 @@ longLabel recount3 coverage bigWig for external id 6a30d8d0-ddb8-4b34-8bcb-46986
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6acb4fa8-1e5e-40ff-8c1f-980cf41215fb
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FB/tcga.base_sums.LGG_6acb4fa8-1e5e-40ff-8c1f-980cf41215fb.ALL.bw
@@ -1985,7 +1985,7 @@ longLabel recount3 coverage bigWig for external id 6acb4fa8-1e5e-40ff-8c1f-980cf
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6af1465c-7a6c-4aaf-aff2-3065ea5b7d0b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0B/tcga.base_sums.LGG_6af1465c-7a6c-4aaf-aff2-3065ea5b7d0b.ALL.bw
@@ -1994,7 +1994,7 @@ longLabel recount3 coverage bigWig for external id 6af1465c-7a6c-4aaf-aff2-3065e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6b66f14c-7616-4dec-a604-2168dba50a1b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1B/tcga.base_sums.LGG_6b66f14c-7616-4dec-a604-2168dba50a1b.ALL.bw
@@ -2003,7 +2003,7 @@ longLabel recount3 coverage bigWig for external id 6b66f14c-7616-4dec-a604-2168d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6c8488d3-6826-4156-9bd9-a12d8f35b72b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2B/tcga.base_sums.LGG_6c8488d3-6826-4156-9bd9-a12d8f35b72b.ALL.bw
@@ -2012,7 +2012,7 @@ longLabel recount3 coverage bigWig for external id 6c8488d3-6826-4156-9bd9-a12d8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6cad21aa-cb33-402e-b64c-685f576b7653
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/53/tcga.base_sums.LGG_6cad21aa-cb33-402e-b64c-685f576b7653.ALL.bw
@@ -2021,7 +2021,7 @@ longLabel recount3 coverage bigWig for external id 6cad21aa-cb33-402e-b64c-685f5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6d239281-7408-49ef-9b9b-f11eac959f1c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1C/tcga.base_sums.LGG_6d239281-7408-49ef-9b9b-f11eac959f1c.ALL.bw
@@ -2030,7 +2030,7 @@ longLabel recount3 coverage bigWig for external id 6d239281-7408-49ef-9b9b-f11ea
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6d48b494-ba7c-4047-8402-4f26ddd3c2fb
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FB/tcga.base_sums.LGG_6d48b494-ba7c-4047-8402-4f26ddd3c2fb.ALL.bw
@@ -2039,7 +2039,7 @@ longLabel recount3 coverage bigWig for external id 6d48b494-ba7c-4047-8402-4f26d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6dfb9ef2-4993-4cf1-b0f7-f8a9409df3b5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B5/tcga.base_sums.LGG_6dfb9ef2-4993-4cf1-b0f7-f8a9409df3b5.ALL.bw
@@ -2048,7 +2048,7 @@ longLabel recount3 coverage bigWig for external id 6dfb9ef2-4993-4cf1-b0f7-f8a94
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6e2be9aa-5db6-45a4-80e0-c20f074c6ce6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E6/tcga.base_sums.LGG_6e2be9aa-5db6-45a4-80e0-c20f074c6ce6.ALL.bw
@@ -2057,7 +2057,7 @@ longLabel recount3 coverage bigWig for external id 6e2be9aa-5db6-45a4-80e0-c20f0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6e8a9288-c2f1-4dde-b52b-7656db802fb4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B4/tcga.base_sums.LGG_6e8a9288-c2f1-4dde-b52b-7656db802fb4.ALL.bw
@@ -2066,7 +2066,7 @@ longLabel recount3 coverage bigWig for external id 6e8a9288-c2f1-4dde-b52b-7656d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6ee50ed0-9f0e-4393-b165-257d5c03f221
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/21/tcga.base_sums.LGG_6ee50ed0-9f0e-4393-b165-257d5c03f221.ALL.bw
@@ -2075,7 +2075,7 @@ longLabel recount3 coverage bigWig for external id 6ee50ed0-9f0e-4393-b165-257d5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6f0a1eae-1dbe-4c19-bc3a-db41ce9c56da
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DA/tcga.base_sums.LGG_6f0a1eae-1dbe-4c19-bc3a-db41ce9c56da.ALL.bw
@@ -2084,7 +2084,7 @@ longLabel recount3 coverage bigWig for external id 6f0a1eae-1dbe-4c19-bc3a-db41c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6f4f72b3-e2b1-48dd-b9f4-c03afce79566
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/66/tcga.base_sums.LGG_6f4f72b3-e2b1-48dd-b9f4-c03afce79566.ALL.bw
@@ -2093,7 +2093,7 @@ longLabel recount3 coverage bigWig for external id 6f4f72b3-e2b1-48dd-b9f4-c03af
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 6fde1fe8-993d-4fb1-a520-4a7c2bf5aa45
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/45/tcga.base_sums.LGG_6fde1fe8-993d-4fb1-a520-4a7c2bf5aa45.ALL.bw
@@ -2102,7 +2102,7 @@ longLabel recount3 coverage bigWig for external id 6fde1fe8-993d-4fb1-a520-4a7c2
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 706b5e97-06b6-4401-9934-7cf12ff7f816
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/16/tcga.base_sums.LGG_706b5e97-06b6-4401-9934-7cf12ff7f816.ALL.bw
@@ -2111,7 +2111,7 @@ longLabel recount3 coverage bigWig for external id 706b5e97-06b6-4401-9934-7cf12
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 713b4da5-fa8a-4e52-bacf-19b912467fbb
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BB/tcga.base_sums.LGG_713b4da5-fa8a-4e52-bacf-19b912467fbb.ALL.bw
@@ -2120,7 +2120,7 @@ longLabel recount3 coverage bigWig for external id 713b4da5-fa8a-4e52-bacf-19b91
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 722b7a0f-bf34-4368-8cff-944fcbc7dac4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C4/tcga.base_sums.LGG_722b7a0f-bf34-4368-8cff-944fcbc7dac4.ALL.bw
@@ -2129,7 +2129,7 @@ longLabel recount3 coverage bigWig for external id 722b7a0f-bf34-4368-8cff-944fc
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 72781523-c5ba-4b54-8410-e238b5f441b4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B4/tcga.base_sums.LGG_72781523-c5ba-4b54-8410-e238b5f441b4.ALL.bw
@@ -2138,7 +2138,7 @@ longLabel recount3 coverage bigWig for external id 72781523-c5ba-4b54-8410-e238b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 738b9c39-a73f-4bd5-a8d4-3f75b9e14569
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/69/tcga.base_sums.LGG_738b9c39-a73f-4bd5-a8d4-3f75b9e14569.ALL.bw
@@ -2147,7 +2147,7 @@ longLabel recount3 coverage bigWig for external id 738b9c39-a73f-4bd5-a8d4-3f75b
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 73a8c537-1f73-49fe-84bc-e9cc82d2a63e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3E/tcga.base_sums.LGG_73a8c537-1f73-49fe-84bc-e9cc82d2a63e.ALL.bw
@@ -2156,7 +2156,7 @@ longLabel recount3 coverage bigWig for external id 73a8c537-1f73-49fe-84bc-e9cc8
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 743f5644-f650-437a-b4ae-4972f88606d8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D8/tcga.base_sums.LGG_743f5644-f650-437a-b4ae-4972f88606d8.ALL.bw
@@ -2165,7 +2165,7 @@ longLabel recount3 coverage bigWig for external id 743f5644-f650-437a-b4ae-4972f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 745233f1-df41-4dda-9146-1666dd59355e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/5E/tcga.base_sums.LGG_745233f1-df41-4dda-9146-1666dd59355e.ALL.bw
@@ -2174,7 +2174,7 @@ longLabel recount3 coverage bigWig for external id 745233f1-df41-4dda-9146-1666d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7465ea24-534f-45a3-8cd3-ad985e574bff
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FF/tcga.base_sums.LGG_7465ea24-534f-45a3-8cd3-ad985e574bff.ALL.bw
@@ -2183,7 +2183,7 @@ longLabel recount3 coverage bigWig for external id 7465ea24-534f-45a3-8cd3-ad985
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 74897e26-10a5-4484-a867-ce7c86ddb7e2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E2/tcga.base_sums.LGG_74897e26-10a5-4484-a867-ce7c86ddb7e2.ALL.bw
@@ -2192,7 +2192,7 @@ longLabel recount3 coverage bigWig for external id 74897e26-10a5-4484-a867-ce7c8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 75d49aa7-fbad-4469-98fb-bfbb133553f2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F2/tcga.base_sums.LGG_75d49aa7-fbad-4469-98fb-bfbb133553f2.ALL.bw
@@ -2201,7 +2201,7 @@ longLabel recount3 coverage bigWig for external id 75d49aa7-fbad-4469-98fb-bfbb1
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7604968c-689a-458d-96ba-33b163b238f8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F8/tcga.base_sums.LGG_7604968c-689a-458d-96ba-33b163b238f8.ALL.bw
@@ -2210,7 +2210,7 @@ longLabel recount3 coverage bigWig for external id 7604968c-689a-458d-96ba-33b16
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 76987b28-b56b-4a1f-b77c-1e08b8efef90
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/90/tcga.base_sums.LGG_76987b28-b56b-4a1f-b77c-1e08b8efef90.ALL.bw
@@ -2219,7 +2219,7 @@ longLabel recount3 coverage bigWig for external id 76987b28-b56b-4a1f-b77c-1e08b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 76b4c53e-f764-412d-b238-e01f65ce09c8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C8/tcga.base_sums.LGG_76b4c53e-f764-412d-b238-e01f65ce09c8.ALL.bw
@@ -2228,7 +2228,7 @@ longLabel recount3 coverage bigWig for external id 76b4c53e-f764-412d-b238-e01f6
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7779d220-647f-4d6c-890b-022208b51f57
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/57/tcga.base_sums.LGG_7779d220-647f-4d6c-890b-022208b51f57.ALL.bw
@@ -2237,7 +2237,7 @@ longLabel recount3 coverage bigWig for external id 7779d220-647f-4d6c-890b-02220
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 77907eb2-e529-4633-a580-c6dd7993a704
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/04/tcga.base_sums.LGG_77907eb2-e529-4633-a580-c6dd7993a704.ALL.bw
@@ -2246,7 +2246,7 @@ longLabel recount3 coverage bigWig for external id 77907eb2-e529-4633-a580-c6dd7
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 79573301-2820-444d-9131-f47f081279c3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C3/tcga.base_sums.LGG_79573301-2820-444d-9131-f47f081279c3.ALL.bw
@@ -2255,7 +2255,7 @@ longLabel recount3 coverage bigWig for external id 79573301-2820-444d-9131-f47f0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 798c80e6-b03a-4cb9-b0b8-dfb0ddcda3f8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F8/tcga.base_sums.LGG_798c80e6-b03a-4cb9-b0b8-dfb0ddcda3f8.ALL.bw
@@ -2264,7 +2264,7 @@ longLabel recount3 coverage bigWig for external id 798c80e6-b03a-4cb9-b0b8-dfb0d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7999abcd-7441-4437-ae78-7bf5f7fbbe36
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/36/tcga.base_sums.LGG_7999abcd-7441-4437-ae78-7bf5f7fbbe36.ALL.bw
@@ -2273,7 +2273,7 @@ longLabel recount3 coverage bigWig for external id 7999abcd-7441-4437-ae78-7bf5f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7a392761-6834-4b60-a49a-99d0d2aec612
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/12/tcga.base_sums.LGG_7a392761-6834-4b60-a49a-99d0d2aec612.ALL.bw
@@ -2282,7 +2282,7 @@ longLabel recount3 coverage bigWig for external id 7a392761-6834-4b60-a49a-99d0d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7a674726-107e-461b-9dab-cae728b8b129
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/29/tcga.base_sums.LGG_7a674726-107e-461b-9dab-cae728b8b129.ALL.bw
@@ -2291,7 +2291,7 @@ longLabel recount3 coverage bigWig for external id 7a674726-107e-461b-9dab-cae72
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7aa08b08-b1dd-47ab-a0f2-850f6de95093
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/93/tcga.base_sums.LGG_7aa08b08-b1dd-47ab-a0f2-850f6de95093.ALL.bw
@@ -2300,7 +2300,7 @@ longLabel recount3 coverage bigWig for external id 7aa08b08-b1dd-47ab-a0f2-850f6
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7acd648e-76fd-4c83-86aa-51f581a0b09c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9C/tcga.base_sums.LGG_7acd648e-76fd-4c83-86aa-51f581a0b09c.ALL.bw
@@ -2309,7 +2309,7 @@ longLabel recount3 coverage bigWig for external id 7acd648e-76fd-4c83-86aa-51f58
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7ae107a7-8ea7-4920-a579-2337c007920d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0D/tcga.base_sums.LGG_7ae107a7-8ea7-4920-a579-2337c007920d.ALL.bw
@@ -2318,7 +2318,7 @@ longLabel recount3 coverage bigWig for external id 7ae107a7-8ea7-4920-a579-2337c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7b6d13ee-fe13-4ba8-ba65-1a10307a7936
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/36/tcga.base_sums.LGG_7b6d13ee-fe13-4ba8-ba65-1a10307a7936.ALL.bw
@@ -2327,7 +2327,7 @@ longLabel recount3 coverage bigWig for external id 7b6d13ee-fe13-4ba8-ba65-1a103
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7c225672-8372-4202-a749-3d8e9a0747cc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CC/tcga.base_sums.LGG_7c225672-8372-4202-a749-3d8e9a0747cc.ALL.bw
@@ -2336,7 +2336,7 @@ longLabel recount3 coverage bigWig for external id 7c225672-8372-4202-a749-3d8e9
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7c6af8dd-efa4-4ad7-8aac-918d686d78ba
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BA/tcga.base_sums.LGG_7c6af8dd-efa4-4ad7-8aac-918d686d78ba.ALL.bw
@@ -2345,7 +2345,7 @@ longLabel recount3 coverage bigWig for external id 7c6af8dd-efa4-4ad7-8aac-918d6
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7ce18c10-61e6-45fa-b9af-408cd673c0c9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C9/tcga.base_sums.LGG_7ce18c10-61e6-45fa-b9af-408cd673c0c9.ALL.bw
@@ -2354,7 +2354,7 @@ longLabel recount3 coverage bigWig for external id 7ce18c10-61e6-45fa-b9af-408cd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7dc6d598-8506-4680-81df-c1d0f1b5c27d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7D/tcga.base_sums.LGG_7dc6d598-8506-4680-81df-c1d0f1b5c27d.ALL.bw
@@ -2363,7 +2363,7 @@ longLabel recount3 coverage bigWig for external id 7dc6d598-8506-4680-81df-c1d0f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7e7aaffd-6eeb-4357-88ad-9eb12bb78602
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/02/tcga.base_sums.LGG_7e7aaffd-6eeb-4357-88ad-9eb12bb78602.ALL.bw
@@ -2372,7 +2372,7 @@ longLabel recount3 coverage bigWig for external id 7e7aaffd-6eeb-4357-88ad-9eb12
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7e9d6b6d-3276-4240-b5c5-f3f982076358
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/58/tcga.base_sums.LGG_7e9d6b6d-3276-4240-b5c5-f3f982076358.ALL.bw
@@ -2381,7 +2381,7 @@ longLabel recount3 coverage bigWig for external id 7e9d6b6d-3276-4240-b5c5-f3f98
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7edf85e0-24e3-43b6-8c00-bba39235266e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6E/tcga.base_sums.LGG_7edf85e0-24e3-43b6-8c00-bba39235266e.ALL.bw
@@ -2390,7 +2390,7 @@ longLabel recount3 coverage bigWig for external id 7edf85e0-24e3-43b6-8c00-bba39
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7f7b62d8-d399-4a7c-9265-05196e97cc18
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/18/tcga.base_sums.LGG_7f7b62d8-d399-4a7c-9265-05196e97cc18.ALL.bw
@@ -2399,7 +2399,7 @@ longLabel recount3 coverage bigWig for external id 7f7b62d8-d399-4a7c-9265-05196
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 7fb45fba-a0de-4a56-8d24-c6ed09998ec3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C3/tcga.base_sums.LGG_7fb45fba-a0de-4a56-8d24-c6ed09998ec3.ALL.bw
@@ -2408,7 +2408,7 @@ longLabel recount3 coverage bigWig for external id 7fb45fba-a0de-4a56-8d24-c6ed0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 800e78ba-08be-463b-abba-45255b48362b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2B/tcga.base_sums.LGG_800e78ba-08be-463b-abba-45255b48362b.ALL.bw
@@ -2417,7 +2417,7 @@ longLabel recount3 coverage bigWig for external id 800e78ba-08be-463b-abba-45255
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 80b61352-e9fc-4b3e-baa8-ecbfd2a6e9b3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B3/tcga.base_sums.LGG_80b61352-e9fc-4b3e-baa8-ecbfd2a6e9b3.ALL.bw
@@ -2426,7 +2426,7 @@ longLabel recount3 coverage bigWig for external id 80b61352-e9fc-4b3e-baa8-ecbfd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 838cd666-8e7e-417b-aa30-1197f9ae078d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8D/tcga.base_sums.LGG_838cd666-8e7e-417b-aa30-1197f9ae078d.ALL.bw
@@ -2435,7 +2435,7 @@ longLabel recount3 coverage bigWig for external id 838cd666-8e7e-417b-aa30-1197f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 83bb732e-132f-4677-b70d-5ade69831226
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/26/tcga.base_sums.LGG_83bb732e-132f-4677-b70d-5ade69831226.ALL.bw
@@ -2444,7 +2444,7 @@ longLabel recount3 coverage bigWig for external id 83bb732e-132f-4677-b70d-5ade6
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 840b7494-6e8e-4518-874a-0c98ef0cbb72
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/72/tcga.base_sums.LGG_840b7494-6e8e-4518-874a-0c98ef0cbb72.ALL.bw
@@ -2453,7 +2453,7 @@ longLabel recount3 coverage bigWig for external id 840b7494-6e8e-4518-874a-0c98e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8441b707-ec45-4a38-8b83-99b8d83ccf8b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8B/tcga.base_sums.LGG_8441b707-ec45-4a38-8b83-99b8d83ccf8b.ALL.bw
@@ -2462,7 +2462,7 @@ longLabel recount3 coverage bigWig for external id 8441b707-ec45-4a38-8b83-99b8d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 84778027-9c8e-4364-9069-70d8b86d6916
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/16/tcga.base_sums.LGG_84778027-9c8e-4364-9069-70d8b86d6916.ALL.bw
@@ -2471,7 +2471,7 @@ longLabel recount3 coverage bigWig for external id 84778027-9c8e-4364-9069-70d8b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 848c73f3-abd7-47fd-bf70-ff29fbdf6f61
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/61/tcga.base_sums.LGG_848c73f3-abd7-47fd-bf70-ff29fbdf6f61.ALL.bw
@@ -2480,7 +2480,7 @@ longLabel recount3 coverage bigWig for external id 848c73f3-abd7-47fd-bf70-ff29f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 85abd5ae-6e84-4fb0-8c8b-03dd1aef3898
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/98/tcga.base_sums.LGG_85abd5ae-6e84-4fb0-8c8b-03dd1aef3898.ALL.bw
@@ -2489,7 +2489,7 @@ longLabel recount3 coverage bigWig for external id 85abd5ae-6e84-4fb0-8c8b-03dd1
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 85c10cc2-8b28-4c50-bbd9-95947f4624ef
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/EF/tcga.base_sums.LGG_85c10cc2-8b28-4c50-bbd9-95947f4624ef.ALL.bw
@@ -2498,7 +2498,7 @@ longLabel recount3 coverage bigWig for external id 85c10cc2-8b28-4c50-bbd9-95947
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 85d3fb91-4738-4b8a-b86e-115fdef10166
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/66/tcga.base_sums.LGG_85d3fb91-4738-4b8a-b86e-115fdef10166.ALL.bw
@@ -2507,7 +2507,7 @@ longLabel recount3 coverage bigWig for external id 85d3fb91-4738-4b8a-b86e-115fd
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 85ee23a9-b5e4-49f7-a504-cef2eb4e4e7e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7E/tcga.base_sums.LGG_85ee23a9-b5e4-49f7-a504-cef2eb4e4e7e.ALL.bw
@@ -2516,7 +2516,7 @@ longLabel recount3 coverage bigWig for external id 85ee23a9-b5e4-49f7-a504-cef2e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 86379365-5fd2-4655-8b3c-b8e0ee25ee92
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/92/tcga.base_sums.LGG_86379365-5fd2-4655-8b3c-b8e0ee25ee92.ALL.bw
@@ -2525,7 +2525,7 @@ longLabel recount3 coverage bigWig for external id 86379365-5fd2-4655-8b3c-b8e0e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 864d2ba3-eb33-4dc2-a228-4caddcf526d4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D4/tcga.base_sums.LGG_864d2ba3-eb33-4dc2-a228-4caddcf526d4.ALL.bw
@@ -2534,7 +2534,7 @@ longLabel recount3 coverage bigWig for external id 864d2ba3-eb33-4dc2-a228-4cadd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 87f9e756-60bb-435b-9a2d-211e89c182d9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D9/tcga.base_sums.LGG_87f9e756-60bb-435b-9a2d-211e89c182d9.ALL.bw
@@ -2543,7 +2543,7 @@ longLabel recount3 coverage bigWig for external id 87f9e756-60bb-435b-9a2d-211e8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 88efd03c-1ad1-4e15-9c1e-1f60ea806d72
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/72/tcga.base_sums.LGG_88efd03c-1ad1-4e15-9c1e-1f60ea806d72.ALL.bw
@@ -2552,7 +2552,7 @@ longLabel recount3 coverage bigWig for external id 88efd03c-1ad1-4e15-9c1e-1f60e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 896b5096-d888-4dc3-9c70-152bde083e26
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/26/tcga.base_sums.LGG_896b5096-d888-4dc3-9c70-152bde083e26.ALL.bw
@@ -2561,7 +2561,7 @@ longLabel recount3 coverage bigWig for external id 896b5096-d888-4dc3-9c70-152bd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8976c50f-b340-488d-b9c1-12ccac780397
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/97/tcga.base_sums.LGG_8976c50f-b340-488d-b9c1-12ccac780397.ALL.bw
@@ -2570,7 +2570,7 @@ longLabel recount3 coverage bigWig for external id 8976c50f-b340-488d-b9c1-12cca
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 89be4270-8300-424e-a248-a0b00c3f5c1a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1A/tcga.base_sums.LGG_89be4270-8300-424e-a248-a0b00c3f5c1a.ALL.bw
@@ -2579,7 +2579,7 @@ longLabel recount3 coverage bigWig for external id 89be4270-8300-424e-a248-a0b00
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8aacdb46-9bb3-42ba-871d-7a593f14430a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0A/tcga.base_sums.LGG_8aacdb46-9bb3-42ba-871d-7a593f14430a.ALL.bw
@@ -2588,7 +2588,7 @@ longLabel recount3 coverage bigWig for external id 8aacdb46-9bb3-42ba-871d-7a593
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8acc0f29-a39e-4c1c-a04c-ed6e5fa80c24
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/24/tcga.base_sums.LGG_8acc0f29-a39e-4c1c-a04c-ed6e5fa80c24.ALL.bw
@@ -2597,7 +2597,7 @@ longLabel recount3 coverage bigWig for external id 8acc0f29-a39e-4c1c-a04c-ed6e5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8b0bed75-8b6d-4838-9ce0-425ebfe33a44
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/44/tcga.base_sums.LGG_8b0bed75-8b6d-4838-9ce0-425ebfe33a44.ALL.bw
@@ -2606,7 +2606,7 @@ longLabel recount3 coverage bigWig for external id 8b0bed75-8b6d-4838-9ce0-425eb
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8b2b5542-3e54-4643-bb57-0befcf89a16b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6B/tcga.base_sums.LGG_8b2b5542-3e54-4643-bb57-0befcf89a16b.ALL.bw
@@ -2615,7 +2615,7 @@ longLabel recount3 coverage bigWig for external id 8b2b5542-3e54-4643-bb57-0befc
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8b4a5c0e-9f4c-4e4d-b12e-b97666c99707
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/07/tcga.base_sums.LGG_8b4a5c0e-9f4c-4e4d-b12e-b97666c99707.ALL.bw
@@ -2624,7 +2624,7 @@ longLabel recount3 coverage bigWig for external id 8b4a5c0e-9f4c-4e4d-b12e-b9766
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8ba4f4d7-5fcd-42b8-b000-108067fe6885
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/85/tcga.base_sums.LGG_8ba4f4d7-5fcd-42b8-b000-108067fe6885.ALL.bw
@@ -2633,7 +2633,7 @@ longLabel recount3 coverage bigWig for external id 8ba4f4d7-5fcd-42b8-b000-10806
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8bc036e8-0ea0-4346-a551-2a5f8975feab
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AB/tcga.base_sums.LGG_8bc036e8-0ea0-4346-a551-2a5f8975feab.ALL.bw
@@ -2642,7 +2642,7 @@ longLabel recount3 coverage bigWig for external id 8bc036e8-0ea0-4346-a551-2a5f8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8bc067e8-7bd6-41da-8682-317236f42328
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/28/tcga.base_sums.LGG_8bc067e8-7bd6-41da-8682-317236f42328.ALL.bw
@@ -2651,7 +2651,7 @@ longLabel recount3 coverage bigWig for external id 8bc067e8-7bd6-41da-8682-31723
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8c319f60-2cc3-4a55-8320-84f1df1f706e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6E/tcga.base_sums.LGG_8c319f60-2cc3-4a55-8320-84f1df1f706e.ALL.bw
@@ -2660,7 +2660,7 @@ longLabel recount3 coverage bigWig for external id 8c319f60-2cc3-4a55-8320-84f1d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8c34cd93-1ac0-4920-9e72-439eed0cf85d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/5D/tcga.base_sums.LGG_8c34cd93-1ac0-4920-9e72-439eed0cf85d.ALL.bw
@@ -2669,7 +2669,7 @@ longLabel recount3 coverage bigWig for external id 8c34cd93-1ac0-4920-9e72-439ee
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8cdedfec-954a-4d01-af6b-af55cfe5feab
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AB/tcga.base_sums.LGG_8cdedfec-954a-4d01-af6b-af55cfe5feab.ALL.bw
@@ -2678,7 +2678,7 @@ longLabel recount3 coverage bigWig for external id 8cdedfec-954a-4d01-af6b-af55c
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8d30f824-25b9-43db-bd39-2c9c790509dd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DD/tcga.base_sums.LGG_8d30f824-25b9-43db-bd39-2c9c790509dd.ALL.bw
@@ -2687,7 +2687,7 @@ longLabel recount3 coverage bigWig for external id 8d30f824-25b9-43db-bd39-2c9c7
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8d39dd37-3b56-4788-b256-d924ebf2bd21
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/21/tcga.base_sums.LGG_8d39dd37-3b56-4788-b256-d924ebf2bd21.ALL.bw
@@ -2696,7 +2696,7 @@ longLabel recount3 coverage bigWig for external id 8d39dd37-3b56-4788-b256-d924e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8e62ccb7-9d96-417b-bbcf-01de08704edd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DD/tcga.base_sums.LGG_8e62ccb7-9d96-417b-bbcf-01de08704edd.ALL.bw
@@ -2705,7 +2705,7 @@ longLabel recount3 coverage bigWig for external id 8e62ccb7-9d96-417b-bbcf-01de0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8e898165-f557-4d73-9d67-ed735be256b2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B2/tcga.base_sums.LGG_8e898165-f557-4d73-9d67-ed735be256b2.ALL.bw
@@ -2714,7 +2714,7 @@ longLabel recount3 coverage bigWig for external id 8e898165-f557-4d73-9d67-ed735
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8eb94f84-902e-4547-bf1d-5171931ededd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DD/tcga.base_sums.LGG_8eb94f84-902e-4547-bf1d-5171931ededd.ALL.bw
@@ -2723,7 +2723,7 @@ longLabel recount3 coverage bigWig for external id 8eb94f84-902e-4547-bf1d-51719
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8efb3c39-094a-4f91-8b8d-ee8a32ac7e1f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1F/tcga.base_sums.LGG_8efb3c39-094a-4f91-8b8d-ee8a32ac7e1f.ALL.bw
@@ -2732,7 +2732,7 @@ longLabel recount3 coverage bigWig for external id 8efb3c39-094a-4f91-8b8d-ee8a3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8eff99b7-0009-4638-8212-0d3eaf1ac2a5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A5/tcga.base_sums.LGG_8eff99b7-0009-4638-8212-0d3eaf1ac2a5.ALL.bw
@@ -2741,7 +2741,7 @@ longLabel recount3 coverage bigWig for external id 8eff99b7-0009-4638-8212-0d3ea
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 8f64e7a6-dee2-426e-b843-de4d73ecd667
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/67/tcga.base_sums.LGG_8f64e7a6-dee2-426e-b843-de4d73ecd667.ALL.bw
@@ -2750,7 +2750,7 @@ longLabel recount3 coverage bigWig for external id 8f64e7a6-dee2-426e-b843-de4d7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 90188f36-def6-4233-b724-4a25f2d52daa
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AA/tcga.base_sums.LGG_90188f36-def6-4233-b724-4a25f2d52daa.ALL.bw
@@ -2759,7 +2759,7 @@ longLabel recount3 coverage bigWig for external id 90188f36-def6-4233-b724-4a25f
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9041be5e-3bc7-4495-9461-8ffa2caeb524
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/24/tcga.base_sums.LGG_9041be5e-3bc7-4495-9461-8ffa2caeb524.ALL.bw
@@ -2768,7 +2768,7 @@ longLabel recount3 coverage bigWig for external id 9041be5e-3bc7-4495-9461-8ffa2
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 90badd06-62bc-4539-ad61-1f8c630734f3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F3/tcga.base_sums.LGG_90badd06-62bc-4539-ad61-1f8c630734f3.ALL.bw
@@ -2777,7 +2777,7 @@ longLabel recount3 coverage bigWig for external id 90badd06-62bc-4539-ad61-1f8c6
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 913d6292-6507-4f86-a120-137ceace5c9f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9F/tcga.base_sums.LGG_913d6292-6507-4f86-a120-137ceace5c9f.ALL.bw
@@ -2786,7 +2786,7 @@ longLabel recount3 coverage bigWig for external id 913d6292-6507-4f86-a120-137ce
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9198b2fa-637d-44b2-b6e8-24b5681737aa
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AA/tcga.base_sums.LGG_9198b2fa-637d-44b2-b6e8-24b5681737aa.ALL.bw
@@ -2795,7 +2795,7 @@ longLabel recount3 coverage bigWig for external id 9198b2fa-637d-44b2-b6e8-24b56
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 91e04630-b2a7-448e-8c80-580818c9d7e6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E6/tcga.base_sums.LGG_91e04630-b2a7-448e-8c80-580818c9d7e6.ALL.bw
@@ -2804,7 +2804,7 @@ longLabel recount3 coverage bigWig for external id 91e04630-b2a7-448e-8c80-58081
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 928d2f99-a86b-47ca-a961-a8cae7b44e78
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/78/tcga.base_sums.LGG_928d2f99-a86b-47ca-a961-a8cae7b44e78.ALL.bw
@@ -2813,7 +2813,7 @@ longLabel recount3 coverage bigWig for external id 928d2f99-a86b-47ca-a961-a8cae
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 928f7fa4-4d64-4708-8c98-43ba704a7b9e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9E/tcga.base_sums.LGG_928f7fa4-4d64-4708-8c98-43ba704a7b9e.ALL.bw
@@ -2822,7 +2822,7 @@ longLabel recount3 coverage bigWig for external id 928f7fa4-4d64-4708-8c98-43ba7
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 92a04345-2dca-49f5-801f-926b59255925
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/25/tcga.base_sums.LGG_92a04345-2dca-49f5-801f-926b59255925.ALL.bw
@@ -2831,7 +2831,7 @@ longLabel recount3 coverage bigWig for external id 92a04345-2dca-49f5-801f-926b5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 93123f83-44ec-4480-9453-f061aa7bc2db
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DB/tcga.base_sums.LGG_93123f83-44ec-4480-9453-f061aa7bc2db.ALL.bw
@@ -2840,7 +2840,7 @@ longLabel recount3 coverage bigWig for external id 93123f83-44ec-4480-9453-f061a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 93b9c99a-08dd-4f78-9cf5-c59a01605c9d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9D/tcga.base_sums.LGG_93b9c99a-08dd-4f78-9cf5-c59a01605c9d.ALL.bw
@@ -2849,7 +2849,7 @@ longLabel recount3 coverage bigWig for external id 93b9c99a-08dd-4f78-9cf5-c59a0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 94f9b9b1-a23e-4947-bd09-67cba3052c51
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/51/tcga.base_sums.LGG_94f9b9b1-a23e-4947-bd09-67cba3052c51.ALL.bw
@@ -2858,7 +2858,7 @@ longLabel recount3 coverage bigWig for external id 94f9b9b1-a23e-4947-bd09-67cba
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 95286aa4-b357-41fe-8051-3bd3ebe93885
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/85/tcga.base_sums.LGG_95286aa4-b357-41fe-8051-3bd3ebe93885.ALL.bw
@@ -2867,7 +2867,7 @@ longLabel recount3 coverage bigWig for external id 95286aa4-b357-41fe-8051-3bd3e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9850ff42-592c-4406-a5b3-52109e0e4e70
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/70/tcga.base_sums.LGG_9850ff42-592c-4406-a5b3-52109e0e4e70.ALL.bw
@@ -2876,7 +2876,7 @@ longLabel recount3 coverage bigWig for external id 9850ff42-592c-4406-a5b3-52109
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 98d004a9-e3f0-448e-bfe2-359f25df356c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6C/tcga.base_sums.LGG_98d004a9-e3f0-448e-bfe2-359f25df356c.ALL.bw
@@ -2885,7 +2885,7 @@ longLabel recount3 coverage bigWig for external id 98d004a9-e3f0-448e-bfe2-359f2
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9962dca4-ce34-4d77-9582-67eea0838c2a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2A/tcga.base_sums.LGG_9962dca4-ce34-4d77-9582-67eea0838c2a.ALL.bw
@@ -2894,7 +2894,7 @@ longLabel recount3 coverage bigWig for external id 9962dca4-ce34-4d77-9582-67eea
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9a593453-3b4c-4557-84bf-e9e902aa0f3f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3F/tcga.base_sums.LGG_9a593453-3b4c-4557-84bf-e9e902aa0f3f.ALL.bw
@@ -2903,7 +2903,7 @@ longLabel recount3 coverage bigWig for external id 9a593453-3b4c-4557-84bf-e9e90
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9b1a0e7c-f8db-4fa0-9259-42a988d4e040
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/40/tcga.base_sums.LGG_9b1a0e7c-f8db-4fa0-9259-42a988d4e040.ALL.bw
@@ -2912,7 +2912,7 @@ longLabel recount3 coverage bigWig for external id 9b1a0e7c-f8db-4fa0-9259-42a98
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9b4c5215-c5d9-4b2a-a8f0-74243ca8c00f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0F/tcga.base_sums.LGG_9b4c5215-c5d9-4b2a-a8f0-74243ca8c00f.ALL.bw
@@ -2921,7 +2921,7 @@ longLabel recount3 coverage bigWig for external id 9b4c5215-c5d9-4b2a-a8f0-74243
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9b988854-dc8f-4c67-b8a9-f5d77f0e7497
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/97/tcga.base_sums.LGG_9b988854-dc8f-4c67-b8a9-f5d77f0e7497.ALL.bw
@@ -2930,7 +2930,7 @@ longLabel recount3 coverage bigWig for external id 9b988854-dc8f-4c67-b8a9-f5d77
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9c30e1c0-1ade-460b-b53d-297cca80c071
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/71/tcga.base_sums.LGG_9c30e1c0-1ade-460b-b53d-297cca80c071.ALL.bw
@@ -2939,7 +2939,7 @@ longLabel recount3 coverage bigWig for external id 9c30e1c0-1ade-460b-b53d-297cc
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9cc5eb30-a8c2-4fdf-8074-467aa98ed1ca
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CA/tcga.base_sums.LGG_9cc5eb30-a8c2-4fdf-8074-467aa98ed1ca.ALL.bw
@@ -2948,7 +2948,7 @@ longLabel recount3 coverage bigWig for external id 9cc5eb30-a8c2-4fdf-8074-467aa
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9cd6c527-4e98-427f-9770-7155a1c6cb70
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/70/tcga.base_sums.LGG_9cd6c527-4e98-427f-9770-7155a1c6cb70.ALL.bw
@@ -2957,7 +2957,7 @@ longLabel recount3 coverage bigWig for external id 9cd6c527-4e98-427f-9770-7155a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9e2420c3-fd2a-45bb-b5a3-dc25d9f7cb3c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3C/tcga.base_sums.LGG_9e2420c3-fd2a-45bb-b5a3-dc25d9f7cb3c.ALL.bw
@@ -2966,7 +2966,7 @@ longLabel recount3 coverage bigWig for external id 9e2420c3-fd2a-45bb-b5a3-dc25d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9ecb653a-a04f-457c-92fc-d13424511a47
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/47/tcga.base_sums.LGG_9ecb653a-a04f-457c-92fc-d13424511a47.ALL.bw
@@ -2975,7 +2975,7 @@ longLabel recount3 coverage bigWig for external id 9ecb653a-a04f-457c-92fc-d1342
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9ee765bf-748f-41b9-926f-ffd0e8c079e3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E3/tcga.base_sums.LGG_9ee765bf-748f-41b9-926f-ffd0e8c079e3.ALL.bw
@@ -2984,7 +2984,7 @@ longLabel recount3 coverage bigWig for external id 9ee765bf-748f-41b9-926f-ffd0e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9f204eea-9026-4367-8586-c2127d55ac5e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/5E/tcga.base_sums.LGG_9f204eea-9026-4367-8586-c2127d55ac5e.ALL.bw
@@ -2993,7 +2993,7 @@ longLabel recount3 coverage bigWig for external id 9f204eea-9026-4367-8586-c2127
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9f4aec07-5c91-4009-ba26-e4947caa3391
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/91/tcga.base_sums.LGG_9f4aec07-5c91-4009-ba26-e4947caa3391.ALL.bw
@@ -3002,7 +3002,7 @@ longLabel recount3 coverage bigWig for external id 9f4aec07-5c91-4009-ba26-e4947
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track 9fcc850a-554e-4e56-95ba-f7f5cf0d5012
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/12/tcga.base_sums.LGG_9fcc850a-554e-4e56-95ba-f7f5cf0d5012.ALL.bw
@@ -3011,7 +3011,7 @@ longLabel recount3 coverage bigWig for external id 9fcc850a-554e-4e56-95ba-f7f5c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a0502383-3883-4eb4-a63b-5586891ad3fc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FC/tcga.base_sums.LGG_a0502383-3883-4eb4-a63b-5586891ad3fc.ALL.bw
@@ -3020,7 +3020,7 @@ longLabel recount3 coverage bigWig for external id a0502383-3883-4eb4-a63b-55868
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a061c2fd-b726-422d-9470-43249b49f5bd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BD/tcga.base_sums.LGG_a061c2fd-b726-422d-9470-43249b49f5bd.ALL.bw
@@ -3029,7 +3029,7 @@ longLabel recount3 coverage bigWig for external id a061c2fd-b726-422d-9470-43249
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a0a24949-483b-4250-b11e-2bce49f302ac
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AC/tcga.base_sums.LGG_a0a24949-483b-4250-b11e-2bce49f302ac.ALL.bw
@@ -3038,7 +3038,7 @@ longLabel recount3 coverage bigWig for external id a0a24949-483b-4250-b11e-2bce4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a0da6087-9d43-41f9-8569-9f9320e4a9e8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E8/tcga.base_sums.LGG_a0da6087-9d43-41f9-8569-9f9320e4a9e8.ALL.bw
@@ -3047,7 +3047,7 @@ longLabel recount3 coverage bigWig for external id a0da6087-9d43-41f9-8569-9f932
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a1203afb-95ec-4eaf-9290-bdb74432403c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3C/tcga.base_sums.LGG_a1203afb-95ec-4eaf-9290-bdb74432403c.ALL.bw
@@ -3056,7 +3056,7 @@ longLabel recount3 coverage bigWig for external id a1203afb-95ec-4eaf-9290-bdb74
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a130faba-f55f-412d-940e-7305057b4d1a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1A/tcga.base_sums.LGG_a130faba-f55f-412d-940e-7305057b4d1a.ALL.bw
@@ -3065,7 +3065,7 @@ longLabel recount3 coverage bigWig for external id a130faba-f55f-412d-940e-73050
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a19adc4b-c7e3-4855-9b59-009865d4fbf0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F0/tcga.base_sums.LGG_a19adc4b-c7e3-4855-9b59-009865d4fbf0.ALL.bw
@@ -3074,7 +3074,7 @@ longLabel recount3 coverage bigWig for external id a19adc4b-c7e3-4855-9b59-00986
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a1e55ac6-a41f-454a-a3b6-8f49d2aafef2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F2/tcga.base_sums.LGG_a1e55ac6-a41f-454a-a3b6-8f49d2aafef2.ALL.bw
@@ -3083,7 +3083,7 @@ longLabel recount3 coverage bigWig for external id a1e55ac6-a41f-454a-a3b6-8f49d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a21ddf04-bece-498b-81ea-f6953cd30d82
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/82/tcga.base_sums.LGG_a21ddf04-bece-498b-81ea-f6953cd30d82.ALL.bw
@@ -3092,7 +3092,7 @@ longLabel recount3 coverage bigWig for external id a21ddf04-bece-498b-81ea-f6953
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a235537d-bf50-4796-b01a-fad83efdad25
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/25/tcga.base_sums.LGG_a235537d-bf50-4796-b01a-fad83efdad25.ALL.bw
@@ -3101,7 +3101,7 @@ longLabel recount3 coverage bigWig for external id a235537d-bf50-4796-b01a-fad83
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a239061b-989b-4f2f-baac-13badfdbac11
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/11/tcga.base_sums.LGG_a239061b-989b-4f2f-baac-13badfdbac11.ALL.bw
@@ -3110,7 +3110,7 @@ longLabel recount3 coverage bigWig for external id a239061b-989b-4f2f-baac-13bad
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a280a4af-0687-40ca-8804-c6173b33e732
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/32/tcga.base_sums.LGG_a280a4af-0687-40ca-8804-c6173b33e732.ALL.bw
@@ -3119,7 +3119,7 @@ longLabel recount3 coverage bigWig for external id a280a4af-0687-40ca-8804-c6173
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a3153235-3128-40ac-9371-afa1f61e3e59
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/59/tcga.base_sums.LGG_a3153235-3128-40ac-9371-afa1f61e3e59.ALL.bw
@@ -3128,7 +3128,7 @@ longLabel recount3 coverage bigWig for external id a3153235-3128-40ac-9371-afa1f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a3874f0d-53a9-43c8-87ee-65c12c0f8135
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/35/tcga.base_sums.LGG_a3874f0d-53a9-43c8-87ee-65c12c0f8135.ALL.bw
@@ -3137,7 +3137,7 @@ longLabel recount3 coverage bigWig for external id a3874f0d-53a9-43c8-87ee-65c12
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a541b123-a51c-4ef0-839e-8a9513311c98
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/98/tcga.base_sums.LGG_a541b123-a51c-4ef0-839e-8a9513311c98.ALL.bw
@@ -3146,7 +3146,7 @@ longLabel recount3 coverage bigWig for external id a541b123-a51c-4ef0-839e-8a951
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a548db97-6d28-4dea-8334-201093a67b1e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1E/tcga.base_sums.LGG_a548db97-6d28-4dea-8334-201093a67b1e.ALL.bw
@@ -3155,7 +3155,7 @@ longLabel recount3 coverage bigWig for external id a548db97-6d28-4dea-8334-20109
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a5d67b9f-5558-48fc-81a3-642d1903da1f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1F/tcga.base_sums.LGG_a5d67b9f-5558-48fc-81a3-642d1903da1f.ALL.bw
@@ -3164,7 +3164,7 @@ longLabel recount3 coverage bigWig for external id a5d67b9f-5558-48fc-81a3-642d1
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a6fb1bee-0d36-480c-8619-1fa82583fcd1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D1/tcga.base_sums.LGG_a6fb1bee-0d36-480c-8619-1fa82583fcd1.ALL.bw
@@ -3173,7 +3173,7 @@ longLabel recount3 coverage bigWig for external id a6fb1bee-0d36-480c-8619-1fa82
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a770e81f-8898-4632-a839-7950eed7cf7a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7A/tcga.base_sums.LGG_a770e81f-8898-4632-a839-7950eed7cf7a.ALL.bw
@@ -3182,7 +3182,7 @@ longLabel recount3 coverage bigWig for external id a770e81f-8898-4632-a839-7950e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a781ffd8-8a8d-4818-bd90-674295be64d6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D6/tcga.base_sums.LGG_a781ffd8-8a8d-4818-bd90-674295be64d6.ALL.bw
@@ -3191,7 +3191,7 @@ longLabel recount3 coverage bigWig for external id a781ffd8-8a8d-4818-bd90-67429
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a78c9e5a-c861-4ad7-9b66-ec5ae7337fe1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E1/tcga.base_sums.LGG_a78c9e5a-c861-4ad7-9b66-ec5ae7337fe1.ALL.bw
@@ -3200,7 +3200,7 @@ longLabel recount3 coverage bigWig for external id a78c9e5a-c861-4ad7-9b66-ec5ae
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a7c71cef-a5c7-4bac-9090-9808b029190b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0B/tcga.base_sums.LGG_a7c71cef-a5c7-4bac-9090-9808b029190b.ALL.bw
@@ -3209,7 +3209,7 @@ longLabel recount3 coverage bigWig for external id a7c71cef-a5c7-4bac-9090-9808b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a7d9f5b1-d8c2-440f-a0b7-8b5641c2da66
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/66/tcga.base_sums.LGG_a7d9f5b1-d8c2-440f-a0b7-8b5641c2da66.ALL.bw
@@ -3218,7 +3218,7 @@ longLabel recount3 coverage bigWig for external id a7d9f5b1-d8c2-440f-a0b7-8b564
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a84e45ca-971f-45d8-b7c7-e3562f2b51f3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F3/tcga.base_sums.LGG_a84e45ca-971f-45d8-b7c7-e3562f2b51f3.ALL.bw
@@ -3227,7 +3227,7 @@ longLabel recount3 coverage bigWig for external id a84e45ca-971f-45d8-b7c7-e3562
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track a85a0e3a-2cb9-40eb-80e9-125ec137151b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1B/tcga.base_sums.LGG_a85a0e3a-2cb9-40eb-80e9-125ec137151b.ALL.bw
@@ -3236,7 +3236,7 @@ longLabel recount3 coverage bigWig for external id a85a0e3a-2cb9-40eb-80e9-125ec
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track aa6ebc51-6966-4494-b6ec-6d6696ef12cb
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CB/tcga.base_sums.LGG_aa6ebc51-6966-4494-b6ec-6d6696ef12cb.ALL.bw
@@ -3245,7 +3245,7 @@ longLabel recount3 coverage bigWig for external id aa6ebc51-6966-4494-b6ec-6d669
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track aabdf22d-9c2a-4994-a2d7-5167f23ddf36
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/36/tcga.base_sums.LGG_aabdf22d-9c2a-4994-a2d7-5167f23ddf36.ALL.bw
@@ -3254,7 +3254,7 @@ longLabel recount3 coverage bigWig for external id aabdf22d-9c2a-4994-a2d7-5167f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track aad8d181-fdc2-4722-b5cd-45344e0905e0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E0/tcga.base_sums.LGG_aad8d181-fdc2-4722-b5cd-45344e0905e0.ALL.bw
@@ -3263,7 +3263,7 @@ longLabel recount3 coverage bigWig for external id aad8d181-fdc2-4722-b5cd-45344
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ab522acf-5d84-41b0-9671-ce2511ebd94f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/4F/tcga.base_sums.LGG_ab522acf-5d84-41b0-9671-ce2511ebd94f.ALL.bw
@@ -3272,7 +3272,7 @@ longLabel recount3 coverage bigWig for external id ab522acf-5d84-41b0-9671-ce251
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ac25e68c-76ea-40e0-912f-29c632bc0996
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/96/tcga.base_sums.LGG_ac25e68c-76ea-40e0-912f-29c632bc0996.ALL.bw
@@ -3281,7 +3281,7 @@ longLabel recount3 coverage bigWig for external id ac25e68c-76ea-40e0-912f-29c63
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ad62b8a4-6ab8-4c99-80f5-98a1c085027d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7D/tcga.base_sums.LGG_ad62b8a4-6ab8-4c99-80f5-98a1c085027d.ALL.bw
@@ -3290,7 +3290,7 @@ longLabel recount3 coverage bigWig for external id ad62b8a4-6ab8-4c99-80f5-98a1c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ae32ca37-a422-42e3-aa29-0149cf1a3019
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/19/tcga.base_sums.LGG_ae32ca37-a422-42e3-aa29-0149cf1a3019.ALL.bw
@@ -3299,7 +3299,7 @@ longLabel recount3 coverage bigWig for external id ae32ca37-a422-42e3-aa29-0149c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ae67459a-fd24-4d5b-be98-ef4576492f7b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7B/tcga.base_sums.LGG_ae67459a-fd24-4d5b-be98-ef4576492f7b.ALL.bw
@@ -3308,7 +3308,7 @@ longLabel recount3 coverage bigWig for external id ae67459a-fd24-4d5b-be98-ef457
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ae988295-3046-4778-81c5-b787cac92268
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/68/tcga.base_sums.LGG_ae988295-3046-4778-81c5-b787cac92268.ALL.bw
@@ -3317,7 +3317,7 @@ longLabel recount3 coverage bigWig for external id ae988295-3046-4778-81c5-b787c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track afcb278f-0efb-4999-8d2c-c72b89a8403e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3E/tcga.base_sums.LGG_afcb278f-0efb-4999-8d2c-c72b89a8403e.ALL.bw
@@ -3326,7 +3326,7 @@ longLabel recount3 coverage bigWig for external id afcb278f-0efb-4999-8d2c-c72b8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b0785215-299e-465e-bcc5-4abe8910a728
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/28/tcga.base_sums.LGG_b0785215-299e-465e-bcc5-4abe8910a728.ALL.bw
@@ -3335,7 +3335,7 @@ longLabel recount3 coverage bigWig for external id b0785215-299e-465e-bcc5-4abe8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b11ff528-846e-4e40-9e32-e5820ecb5504
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/04/tcga.base_sums.LGG_b11ff528-846e-4e40-9e32-e5820ecb5504.ALL.bw
@@ -3344,7 +3344,7 @@ longLabel recount3 coverage bigWig for external id b11ff528-846e-4e40-9e32-e5820
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b13e4d9f-672e-4a9a-8745-0ae5308678c1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C1/tcga.base_sums.LGG_b13e4d9f-672e-4a9a-8745-0ae5308678c1.ALL.bw
@@ -3353,7 +3353,7 @@ longLabel recount3 coverage bigWig for external id b13e4d9f-672e-4a9a-8745-0ae53
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b14e4a93-3186-42d4-a36c-eb287effc653
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/53/tcga.base_sums.LGG_b14e4a93-3186-42d4-a36c-eb287effc653.ALL.bw
@@ -3362,7 +3362,7 @@ longLabel recount3 coverage bigWig for external id b14e4a93-3186-42d4-a36c-eb287
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b1a2365c-5491-4e85-ae7e-97b9db8ff8d1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D1/tcga.base_sums.LGG_b1a2365c-5491-4e85-ae7e-97b9db8ff8d1.ALL.bw
@@ -3371,7 +3371,7 @@ longLabel recount3 coverage bigWig for external id b1a2365c-5491-4e85-ae7e-97b9d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b1e5ef8f-a11d-422a-a3cd-ec70ccc440d5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D5/tcga.base_sums.LGG_b1e5ef8f-a11d-422a-a3cd-ec70ccc440d5.ALL.bw
@@ -3380,7 +3380,7 @@ longLabel recount3 coverage bigWig for external id b1e5ef8f-a11d-422a-a3cd-ec70c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b2d8ed43-a698-4165-9a96-0adeefda29ed
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/ED/tcga.base_sums.LGG_b2d8ed43-a698-4165-9a96-0adeefda29ed.ALL.bw
@@ -3389,7 +3389,7 @@ longLabel recount3 coverage bigWig for external id b2d8ed43-a698-4165-9a96-0adee
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b4030747-7c26-4b9b-a5cb-e1f56d9b1281
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/81/tcga.base_sums.LGG_b4030747-7c26-4b9b-a5cb-e1f56d9b1281.ALL.bw
@@ -3398,7 +3398,7 @@ longLabel recount3 coverage bigWig for external id b4030747-7c26-4b9b-a5cb-e1f56
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b4cd2f4a-9379-44d2-a2f4-3c8ccc1fd44f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/4F/tcga.base_sums.LGG_b4cd2f4a-9379-44d2-a2f4-3c8ccc1fd44f.ALL.bw
@@ -3407,7 +3407,7 @@ longLabel recount3 coverage bigWig for external id b4cd2f4a-9379-44d2-a2f4-3c8cc
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b4e10042-052d-4dc4-bc94-ff1d5d4632c0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C0/tcga.base_sums.LGG_b4e10042-052d-4dc4-bc94-ff1d5d4632c0.ALL.bw
@@ -3416,7 +3416,7 @@ longLabel recount3 coverage bigWig for external id b4e10042-052d-4dc4-bc94-ff1d5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b583566b-a014-417a-a973-41204dc35ecf
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CF/tcga.base_sums.LGG_b583566b-a014-417a-a973-41204dc35ecf.ALL.bw
@@ -3425,7 +3425,7 @@ longLabel recount3 coverage bigWig for external id b583566b-a014-417a-a973-41204
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b5de434d-6630-4e7e-ba91-6dac5e2608d3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D3/tcga.base_sums.LGG_b5de434d-6630-4e7e-ba91-6dac5e2608d3.ALL.bw
@@ -3434,7 +3434,7 @@ longLabel recount3 coverage bigWig for external id b5de434d-6630-4e7e-ba91-6dac5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b614fc9c-bfe0-4c15-bb5e-daf4fa9d11d5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D5/tcga.base_sums.LGG_b614fc9c-bfe0-4c15-bb5e-daf4fa9d11d5.ALL.bw
@@ -3443,7 +3443,7 @@ longLabel recount3 coverage bigWig for external id b614fc9c-bfe0-4c15-bb5e-daf4f
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b66ecf23-8cb2-4c95-8e3d-aa63a494f4a0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A0/tcga.base_sums.LGG_b66ecf23-8cb2-4c95-8e3d-aa63a494f4a0.ALL.bw
@@ -3452,7 +3452,7 @@ longLabel recount3 coverage bigWig for external id b66ecf23-8cb2-4c95-8e3d-aa63a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b6c02f90-8f0e-46f5-b82d-240b3a4b44dd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DD/tcga.base_sums.LGG_b6c02f90-8f0e-46f5-b82d-240b3a4b44dd.ALL.bw
@@ -3461,7 +3461,7 @@ longLabel recount3 coverage bigWig for external id b6c02f90-8f0e-46f5-b82d-240b3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b71ef25e-7ddb-42da-84a5-920a90e85512
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/12/tcga.base_sums.LGG_b71ef25e-7ddb-42da-84a5-920a90e85512.ALL.bw
@@ -3470,7 +3470,7 @@ longLabel recount3 coverage bigWig for external id b71ef25e-7ddb-42da-84a5-920a9
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b7b0ddfa-c204-4f84-a1c5-8f836668b99f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9F/tcga.base_sums.LGG_b7b0ddfa-c204-4f84-a1c5-8f836668b99f.ALL.bw
@@ -3479,7 +3479,7 @@ longLabel recount3 coverage bigWig for external id b7b0ddfa-c204-4f84-a1c5-8f836
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b7b8f0c1-3c67-4582-af82-a3dcd0398dec
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/EC/tcga.base_sums.LGG_b7b8f0c1-3c67-4582-af82-a3dcd0398dec.ALL.bw
@@ -3488,7 +3488,7 @@ longLabel recount3 coverage bigWig for external id b7b8f0c1-3c67-4582-af82-a3dcd
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b7b9b5c1-c11d-47b8-b2f8-a5660ab961c1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C1/tcga.base_sums.LGG_b7b9b5c1-c11d-47b8-b2f8-a5660ab961c1.ALL.bw
@@ -3497,7 +3497,7 @@ longLabel recount3 coverage bigWig for external id b7b9b5c1-c11d-47b8-b2f8-a5660
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b8b72b5c-536a-40e3-9e7f-95e7629874d3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D3/tcga.base_sums.LGG_b8b72b5c-536a-40e3-9e7f-95e7629874d3.ALL.bw
@@ -3506,7 +3506,7 @@ longLabel recount3 coverage bigWig for external id b8b72b5c-536a-40e3-9e7f-95e76
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b8e080e7-c8a4-4e57-bb7a-6d8bd3b38658
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/58/tcga.base_sums.LGG_b8e080e7-c8a4-4e57-bb7a-6d8bd3b38658.ALL.bw
@@ -3515,7 +3515,7 @@ longLabel recount3 coverage bigWig for external id b8e080e7-c8a4-4e57-bb7a-6d8bd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track b9e0623c-e3ac-4b2b-983e-c2246ad0db00
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/00/tcga.base_sums.LGG_b9e0623c-e3ac-4b2b-983e-c2246ad0db00.ALL.bw
@@ -3524,7 +3524,7 @@ longLabel recount3 coverage bigWig for external id b9e0623c-e3ac-4b2b-983e-c2246
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ba28ec2f-5186-4ded-8814-5f0464ab8b87
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/87/tcga.base_sums.LGG_ba28ec2f-5186-4ded-8814-5f0464ab8b87.ALL.bw
@@ -3533,7 +3533,7 @@ longLabel recount3 coverage bigWig for external id ba28ec2f-5186-4ded-8814-5f046
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track baa2d0d4-dd8c-4f80-8d37-986afc578536
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/36/tcga.base_sums.LGG_baa2d0d4-dd8c-4f80-8d37-986afc578536.ALL.bw
@@ -3542,7 +3542,7 @@ longLabel recount3 coverage bigWig for external id baa2d0d4-dd8c-4f80-8d37-986af
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track bb2a06d9-af9b-4bf6-8eec-8f53bd5536b0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B0/tcga.base_sums.LGG_bb2a06d9-af9b-4bf6-8eec-8f53bd5536b0.ALL.bw
@@ -3551,7 +3551,7 @@ longLabel recount3 coverage bigWig for external id bb2a06d9-af9b-4bf6-8eec-8f53b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track bb79cabb-0912-4e02-acd9-82ef3ab8b598
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/98/tcga.base_sums.LGG_bb79cabb-0912-4e02-acd9-82ef3ab8b598.ALL.bw
@@ -3560,7 +3560,7 @@ longLabel recount3 coverage bigWig for external id bb79cabb-0912-4e02-acd9-82ef3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track bdc31cc4-927c-49b1-819b-5119aa8422e8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E8/tcga.base_sums.LGG_bdc31cc4-927c-49b1-819b-5119aa8422e8.ALL.bw
@@ -3569,7 +3569,7 @@ longLabel recount3 coverage bigWig for external id bdc31cc4-927c-49b1-819b-5119a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track bdeb76b7-b7e0-4058-82a2-77e93748c936
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/36/tcga.base_sums.LGG_bdeb76b7-b7e0-4058-82a2-77e93748c936.ALL.bw
@@ -3578,7 +3578,7 @@ longLabel recount3 coverage bigWig for external id bdeb76b7-b7e0-4058-82a2-77e93
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track be6a3670-34c4-4fd3-9794-c5b3254d9224
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/24/tcga.base_sums.LGG_be6a3670-34c4-4fd3-9794-c5b3254d9224.ALL.bw
@@ -3587,7 +3587,7 @@ longLabel recount3 coverage bigWig for external id be6a3670-34c4-4fd3-9794-c5b32
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track be71f250-1529-43bd-84f3-3afe1b42d77d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/7D/tcga.base_sums.LGG_be71f250-1529-43bd-84f3-3afe1b42d77d.ALL.bw
@@ -3596,7 +3596,7 @@ longLabel recount3 coverage bigWig for external id be71f250-1529-43bd-84f3-3afe1
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track bec9ac40-7ccc-4396-8fac-9bf05c549d84
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/84/tcga.base_sums.LGG_bec9ac40-7ccc-4396-8fac-9bf05c549d84.ALL.bw
@@ -3605,7 +3605,7 @@ longLabel recount3 coverage bigWig for external id bec9ac40-7ccc-4396-8fac-9bf05
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track bf513557-1518-4843-9f62-837b557d4cab
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AB/tcga.base_sums.LGG_bf513557-1518-4843-9f62-837b557d4cab.ALL.bw
@@ -3614,7 +3614,7 @@ longLabel recount3 coverage bigWig for external id bf513557-1518-4843-9f62-837b5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track bfa78ee1-f867-4dbd-be12-2c647c2f53e6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E6/tcga.base_sums.LGG_bfa78ee1-f867-4dbd-be12-2c647c2f53e6.ALL.bw
@@ -3623,7 +3623,7 @@ longLabel recount3 coverage bigWig for external id bfa78ee1-f867-4dbd-be12-2c647
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track bfc86e5f-1a88-4e87-a8c2-2434ec5d95be
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BE/tcga.base_sums.LGG_bfc86e5f-1a88-4e87-a8c2-2434ec5d95be.ALL.bw
@@ -3632,7 +3632,7 @@ longLabel recount3 coverage bigWig for external id bfc86e5f-1a88-4e87-a8c2-2434e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c04dedc8-747c-4053-bb23-225c9fd9fc5f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/5F/tcga.base_sums.LGG_c04dedc8-747c-4053-bb23-225c9fd9fc5f.ALL.bw
@@ -3641,7 +3641,7 @@ longLabel recount3 coverage bigWig for external id c04dedc8-747c-4053-bb23-225c9
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c138638f-c6cb-439b-bff0-cf097e0b421e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1E/tcga.base_sums.LGG_c138638f-c6cb-439b-bff0-cf097e0b421e.ALL.bw
@@ -3650,7 +3650,7 @@ longLabel recount3 coverage bigWig for external id c138638f-c6cb-439b-bff0-cf097
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c1cce12b-8892-49ab-8df2-e5e280deae32
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/32/tcga.base_sums.LGG_c1cce12b-8892-49ab-8df2-e5e280deae32.ALL.bw
@@ -3659,7 +3659,7 @@ longLabel recount3 coverage bigWig for external id c1cce12b-8892-49ab-8df2-e5e28
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c3818f8d-4e33-40aa-8863-e1cd71505597
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/97/tcga.base_sums.LGG_c3818f8d-4e33-40aa-8863-e1cd71505597.ALL.bw
@@ -3668,7 +3668,7 @@ longLabel recount3 coverage bigWig for external id c3818f8d-4e33-40aa-8863-e1cd7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c4a69c6f-e199-43cf-9da1-94e1b3ae7388
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/88/tcga.base_sums.LGG_c4a69c6f-e199-43cf-9da1-94e1b3ae7388.ALL.bw
@@ -3677,7 +3677,7 @@ longLabel recount3 coverage bigWig for external id c4a69c6f-e199-43cf-9da1-94e1b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c4c1f171-9b72-4527-9c03-39c2c00a5b6c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6C/tcga.base_sums.LGG_c4c1f171-9b72-4527-9c03-39c2c00a5b6c.ALL.bw
@@ -3686,7 +3686,7 @@ longLabel recount3 coverage bigWig for external id c4c1f171-9b72-4527-9c03-39c2c
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c543a527-3e25-4389-9722-e9325c733243
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/43/tcga.base_sums.LGG_c543a527-3e25-4389-9722-e9325c733243.ALL.bw
@@ -3695,7 +3695,7 @@ longLabel recount3 coverage bigWig for external id c543a527-3e25-4389-9722-e9325
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c584d193-a7dd-43b1-93ed-c46f4e3313f0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F0/tcga.base_sums.LGG_c584d193-a7dd-43b1-93ed-c46f4e3313f0.ALL.bw
@@ -3704,7 +3704,7 @@ longLabel recount3 coverage bigWig for external id c584d193-a7dd-43b1-93ed-c46f4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c5c8713b-05c1-4c5c-8685-2a546b99ba50
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/50/tcga.base_sums.LGG_c5c8713b-05c1-4c5c-8685-2a546b99ba50.ALL.bw
@@ -3713,7 +3713,7 @@ longLabel recount3 coverage bigWig for external id c5c8713b-05c1-4c5c-8685-2a546
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c6096e12-d8a9-4b89-a9e4-4da93e1fd861
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/61/tcga.base_sums.LGG_c6096e12-d8a9-4b89-a9e4-4da93e1fd861.ALL.bw
@@ -3722,7 +3722,7 @@ longLabel recount3 coverage bigWig for external id c6096e12-d8a9-4b89-a9e4-4da93
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c67163a8-8a5f-4398-ac65-167218b010cf
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CF/tcga.base_sums.LGG_c67163a8-8a5f-4398-ac65-167218b010cf.ALL.bw
@@ -3731,7 +3731,7 @@ longLabel recount3 coverage bigWig for external id c67163a8-8a5f-4398-ac65-16721
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c6888f62-ae14-4f73-a1b8-2cb81e2809fd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FD/tcga.base_sums.LGG_c6888f62-ae14-4f73-a1b8-2cb81e2809fd.ALL.bw
@@ -3740,7 +3740,7 @@ longLabel recount3 coverage bigWig for external id c6888f62-ae14-4f73-a1b8-2cb81
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c6a16a8f-0ab7-42e9-a068-15eecf2912d3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D3/tcga.base_sums.LGG_c6a16a8f-0ab7-42e9-a068-15eecf2912d3.ALL.bw
@@ -3749,7 +3749,7 @@ longLabel recount3 coverage bigWig for external id c6a16a8f-0ab7-42e9-a068-15eec
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c6a60028-2402-4048-90df-f2b3712fb530
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/30/tcga.base_sums.LGG_c6a60028-2402-4048-90df-f2b3712fb530.ALL.bw
@@ -3758,7 +3758,7 @@ longLabel recount3 coverage bigWig for external id c6a60028-2402-4048-90df-f2b37
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c6acba34-164b-419d-9c2b-ed2dc3c68fdd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DD/tcga.base_sums.LGG_c6acba34-164b-419d-9c2b-ed2dc3c68fdd.ALL.bw
@@ -3767,7 +3767,7 @@ longLabel recount3 coverage bigWig for external id c6acba34-164b-419d-9c2b-ed2dc
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c6db59e1-4d60-4b22-9417-cd1d044b75e8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E8/tcga.base_sums.LGG_c6db59e1-4d60-4b22-9417-cd1d044b75e8.ALL.bw
@@ -3776,7 +3776,7 @@ longLabel recount3 coverage bigWig for external id c6db59e1-4d60-4b22-9417-cd1d0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c7284164-ef9a-4bf0-ae88-571a0ba93e66
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/66/tcga.base_sums.LGG_c7284164-ef9a-4bf0-ae88-571a0ba93e66.ALL.bw
@@ -3785,7 +3785,7 @@ longLabel recount3 coverage bigWig for external id c7284164-ef9a-4bf0-ae88-571a0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c81b24ab-2dba-4624-a1d4-d4dcac714506
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/06/tcga.base_sums.LGG_c81b24ab-2dba-4624-a1d4-d4dcac714506.ALL.bw
@@ -3794,7 +3794,7 @@ longLabel recount3 coverage bigWig for external id c81b24ab-2dba-4624-a1d4-d4dca
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c884fb38-de5c-48ba-95f1-4abd2991e833
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/33/tcga.base_sums.LGG_c884fb38-de5c-48ba-95f1-4abd2991e833.ALL.bw
@@ -3803,7 +3803,7 @@ longLabel recount3 coverage bigWig for external id c884fb38-de5c-48ba-95f1-4abd2
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c8955d29-d8ee-4f68-aeac-ce1b838b22bf
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BF/tcga.base_sums.LGG_c8955d29-d8ee-4f68-aeac-ce1b838b22bf.ALL.bw
@@ -3812,7 +3812,7 @@ longLabel recount3 coverage bigWig for external id c8955d29-d8ee-4f68-aeac-ce1b8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c9523c23-cf9b-4c33-a256-4106ad46729d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9D/tcga.base_sums.LGG_c9523c23-cf9b-4c33-a256-4106ad46729d.ALL.bw
@@ -3821,7 +3821,7 @@ longLabel recount3 coverage bigWig for external id c9523c23-cf9b-4c33-a256-4106a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c969cdc5-d2dc-4f7b-b84b-c53cef26b2cf
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CF/tcga.base_sums.LGG_c969cdc5-d2dc-4f7b-b84b-c53cef26b2cf.ALL.bw
@@ -3830,7 +3830,7 @@ longLabel recount3 coverage bigWig for external id c969cdc5-d2dc-4f7b-b84b-c53ce
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c9a30c14-5d3e-47ba-8647-dfd49fd0e112
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/12/tcga.base_sums.LGG_c9a30c14-5d3e-47ba-8647-dfd49fd0e112.ALL.bw
@@ -3839,7 +3839,7 @@ longLabel recount3 coverage bigWig for external id c9a30c14-5d3e-47ba-8647-dfd49
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c9c70d33-c09b-4f7e-8f12-fde51817038a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8A/tcga.base_sums.LGG_c9c70d33-c09b-4f7e-8f12-fde51817038a.ALL.bw
@@ -3848,7 +3848,7 @@ longLabel recount3 coverage bigWig for external id c9c70d33-c09b-4f7e-8f12-fde51
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track c9ee359e-2f42-4d20-880d-fbf8b4953731
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/31/tcga.base_sums.LGG_c9ee359e-2f42-4d20-880d-fbf8b4953731.ALL.bw
@@ -3857,7 +3857,7 @@ longLabel recount3 coverage bigWig for external id c9ee359e-2f42-4d20-880d-fbf8b
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ca366342-0949-4941-8ae6-984baf032886
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/86/tcga.base_sums.LGG_ca366342-0949-4941-8ae6-984baf032886.ALL.bw
@@ -3866,7 +3866,7 @@ longLabel recount3 coverage bigWig for external id ca366342-0949-4941-8ae6-984ba
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ca985b0c-e8f9-4682-abaf-a0e482f7df72
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/72/tcga.base_sums.LGG_ca985b0c-e8f9-4682-abaf-a0e482f7df72.ALL.bw
@@ -3875,7 +3875,7 @@ longLabel recount3 coverage bigWig for external id ca985b0c-e8f9-4682-abaf-a0e48
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ca9e9b92-5d16-4455-acc8-acbfdfb754c5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C5/tcga.base_sums.LGG_ca9e9b92-5d16-4455-acc8-acbfdfb754c5.ALL.bw
@@ -3884,7 +3884,7 @@ longLabel recount3 coverage bigWig for external id ca9e9b92-5d16-4455-acc8-acbfd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track cb1f8b9c-7ce7-4181-b746-7fc697ed27f4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F4/tcga.base_sums.LGG_cb1f8b9c-7ce7-4181-b746-7fc697ed27f4.ALL.bw
@@ -3893,7 +3893,7 @@ longLabel recount3 coverage bigWig for external id cb1f8b9c-7ce7-4181-b746-7fc69
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track cb9e4206-e2f7-49ea-8fb2-e69e5bb3b018
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/18/tcga.base_sums.LGG_cb9e4206-e2f7-49ea-8fb2-e69e5bb3b018.ALL.bw
@@ -3902,7 +3902,7 @@ longLabel recount3 coverage bigWig for external id cb9e4206-e2f7-49ea-8fb2-e69e5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track cbb97c4e-43c7-4257-a85e-1f72ba71ef91
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/91/tcga.base_sums.LGG_cbb97c4e-43c7-4257-a85e-1f72ba71ef91.ALL.bw
@@ -3911,7 +3911,7 @@ longLabel recount3 coverage bigWig for external id cbb97c4e-43c7-4257-a85e-1f72b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track cbe04bb7-a357-484d-bfdb-2caeec629123
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/23/tcga.base_sums.LGG_cbe04bb7-a357-484d-bfdb-2caeec629123.ALL.bw
@@ -3920,7 +3920,7 @@ longLabel recount3 coverage bigWig for external id cbe04bb7-a357-484d-bfdb-2caee
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track cca161b9-1e9a-4f8c-8144-b32b5cf76ecc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CC/tcga.base_sums.LGG_cca161b9-1e9a-4f8c-8144-b32b5cf76ecc.ALL.bw
@@ -3929,7 +3929,7 @@ longLabel recount3 coverage bigWig for external id cca161b9-1e9a-4f8c-8144-b32b5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track cd628ee7-84de-4d82-840b-73718d006b6f
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6F/tcga.base_sums.LGG_cd628ee7-84de-4d82-840b-73718d006b6f.ALL.bw
@@ -3938,7 +3938,7 @@ longLabel recount3 coverage bigWig for external id cd628ee7-84de-4d82-840b-73718
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ceef1d8c-dc91-4862-86a0-f345c2c770c0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C0/tcga.base_sums.LGG_ceef1d8c-dc91-4862-86a0-f345c2c770c0.ALL.bw
@@ -3947,7 +3947,7 @@ longLabel recount3 coverage bigWig for external id ceef1d8c-dc91-4862-86a0-f345c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track cf764e50-b0f9-44de-8b48-f8f5a8920240
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/40/tcga.base_sums.LGG_cf764e50-b0f9-44de-8b48-f8f5a8920240.ALL.bw
@@ -3956,7 +3956,7 @@ longLabel recount3 coverage bigWig for external id cf764e50-b0f9-44de-8b48-f8f5a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d0f8b6ca-5f3b-4b66-bcc5-72c17325dabf
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/BF/tcga.base_sums.LGG_d0f8b6ca-5f3b-4b66-bcc5-72c17325dabf.ALL.bw
@@ -3965,7 +3965,7 @@ longLabel recount3 coverage bigWig for external id d0f8b6ca-5f3b-4b66-bcc5-72c17
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d155b4ca-927f-4b4f-b6bc-2d41267f195e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/5E/tcga.base_sums.LGG_d155b4ca-927f-4b4f-b6bc-2d41267f195e.ALL.bw
@@ -3974,7 +3974,7 @@ longLabel recount3 coverage bigWig for external id d155b4ca-927f-4b4f-b6bc-2d412
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d1729a17-148b-4c58-beb5-7c4349a0e920
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/20/tcga.base_sums.LGG_d1729a17-148b-4c58-beb5-7c4349a0e920.ALL.bw
@@ -3983,7 +3983,7 @@ longLabel recount3 coverage bigWig for external id d1729a17-148b-4c58-beb5-7c434
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d1bfdb5b-3131-4b5c-8090-b3b91d4450f3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F3/tcga.base_sums.LGG_d1bfdb5b-3131-4b5c-8090-b3b91d4450f3.ALL.bw
@@ -3992,7 +3992,7 @@ longLabel recount3 coverage bigWig for external id d1bfdb5b-3131-4b5c-8090-b3b91
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d2201d51-9020-4a0d-b2c8-8f7a2f0a918a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/8A/tcga.base_sums.LGG_d2201d51-9020-4a0d-b2c8-8f7a2f0a918a.ALL.bw
@@ -4001,7 +4001,7 @@ longLabel recount3 coverage bigWig for external id d2201d51-9020-4a0d-b2c8-8f7a2
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d26c6966-af3e-4beb-9a0b-732af94d7756
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/56/tcga.base_sums.LGG_d26c6966-af3e-4beb-9a0b-732af94d7756.ALL.bw
@@ -4010,7 +4010,7 @@ longLabel recount3 coverage bigWig for external id d26c6966-af3e-4beb-9a0b-732af
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d2cddb70-b27f-4d0a-a089-d92eef1b75f8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F8/tcga.base_sums.LGG_d2cddb70-b27f-4d0a-a089-d92eef1b75f8.ALL.bw
@@ -4019,7 +4019,7 @@ longLabel recount3 coverage bigWig for external id d2cddb70-b27f-4d0a-a089-d92ee
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d35e148d-0537-4186-8b19-17915782af18
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/18/tcga.base_sums.LGG_d35e148d-0537-4186-8b19-17915782af18.ALL.bw
@@ -4028,7 +4028,7 @@ longLabel recount3 coverage bigWig for external id d35e148d-0537-4186-8b19-17915
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d38d3fd9-7a58-43d0-876c-6235da833043
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/43/tcga.base_sums.LGG_d38d3fd9-7a58-43d0-876c-6235da833043.ALL.bw
@@ -4037,7 +4037,7 @@ longLabel recount3 coverage bigWig for external id d38d3fd9-7a58-43d0-876c-6235d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d42e39b0-7962-4880-a182-4596db01b202
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/02/tcga.base_sums.LGG_d42e39b0-7962-4880-a182-4596db01b202.ALL.bw
@@ -4046,7 +4046,7 @@ longLabel recount3 coverage bigWig for external id d42e39b0-7962-4880-a182-4596d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d47be4cf-ff4f-4422-89ae-9afae192309c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9C/tcga.base_sums.LGG_d47be4cf-ff4f-4422-89ae-9afae192309c.ALL.bw
@@ -4055,7 +4055,7 @@ longLabel recount3 coverage bigWig for external id d47be4cf-ff4f-4422-89ae-9afae
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d494d692-9ec2-429a-a0fe-696d2a152d4a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/4A/tcga.base_sums.LGG_d494d692-9ec2-429a-a0fe-696d2a152d4a.ALL.bw
@@ -4064,7 +4064,7 @@ longLabel recount3 coverage bigWig for external id d494d692-9ec2-429a-a0fe-696d2
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d5191f3d-028e-401c-927e-483f6884be39
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/39/tcga.base_sums.LGG_d5191f3d-028e-401c-927e-483f6884be39.ALL.bw
@@ -4073,7 +4073,7 @@ longLabel recount3 coverage bigWig for external id d5191f3d-028e-401c-927e-483f6
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d55cd75e-7585-47eb-936b-19bdef7e640b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0B/tcga.base_sums.LGG_d55cd75e-7585-47eb-936b-19bdef7e640b.ALL.bw
@@ -4082,7 +4082,7 @@ longLabel recount3 coverage bigWig for external id d55cd75e-7585-47eb-936b-19bde
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d5789bd0-2379-4e96-875f-0c72ed09b96d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6D/tcga.base_sums.LGG_d5789bd0-2379-4e96-875f-0c72ed09b96d.ALL.bw
@@ -4091,7 +4091,7 @@ longLabel recount3 coverage bigWig for external id d5789bd0-2379-4e96-875f-0c72e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d5e8379b-621c-4551-9b13-e63b1b068488
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/88/tcga.base_sums.LGG_d5e8379b-621c-4551-9b13-e63b1b068488.ALL.bw
@@ -4100,7 +4100,7 @@ longLabel recount3 coverage bigWig for external id d5e8379b-621c-4551-9b13-e63b1
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d65697c7-2da7-43ba-abe2-50cb08b0d126
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/26/tcga.base_sums.LGG_d65697c7-2da7-43ba-abe2-50cb08b0d126.ALL.bw
@@ -4109,7 +4109,7 @@ longLabel recount3 coverage bigWig for external id d65697c7-2da7-43ba-abe2-50cb0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d7037d13-e2ea-4483-9e58-1f9717520bab
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AB/tcga.base_sums.LGG_d7037d13-e2ea-4483-9e58-1f9717520bab.ALL.bw
@@ -4118,7 +4118,7 @@ longLabel recount3 coverage bigWig for external id d7037d13-e2ea-4483-9e58-1f971
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d717eab5-3c67-4ef0-99bf-3416278be492
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/92/tcga.base_sums.LGG_d717eab5-3c67-4ef0-99bf-3416278be492.ALL.bw
@@ -4127,7 +4127,7 @@ longLabel recount3 coverage bigWig for external id d717eab5-3c67-4ef0-99bf-34162
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d837bdd1-8786-4548-8d5f-8506aecf2006
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/06/tcga.base_sums.LGG_d837bdd1-8786-4548-8d5f-8506aecf2006.ALL.bw
@@ -4136,7 +4136,7 @@ longLabel recount3 coverage bigWig for external id d837bdd1-8786-4548-8d5f-8506a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track d902e43a-f384-432a-b690-d20bfcc78443
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/43/tcga.base_sums.LGG_d902e43a-f384-432a-b690-d20bfcc78443.ALL.bw
@@ -4145,7 +4145,7 @@ longLabel recount3 coverage bigWig for external id d902e43a-f384-432a-b690-d20bf
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track dacca07a-8f2c-40c5-b8ad-73805e408d85
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/85/tcga.base_sums.LGG_dacca07a-8f2c-40c5-b8ad-73805e408d85.ALL.bw
@@ -4154,7 +4154,7 @@ longLabel recount3 coverage bigWig for external id dacca07a-8f2c-40c5-b8ad-73805
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track db34442c-1882-495a-a2f0-2427116a1faf
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AF/tcga.base_sums.LGG_db34442c-1882-495a-a2f0-2427116a1faf.ALL.bw
@@ -4163,7 +4163,7 @@ longLabel recount3 coverage bigWig for external id db34442c-1882-495a-a2f0-24271
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track db57cfa5-b8ea-4a08-b6cc-ef55c0e213d4
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D4/tcga.base_sums.LGG_db57cfa5-b8ea-4a08-b6cc-ef55c0e213d4.ALL.bw
@@ -4172,7 +4172,7 @@ longLabel recount3 coverage bigWig for external id db57cfa5-b8ea-4a08-b6cc-ef55c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track dcccaa1b-e5ff-483e-a186-4cb6712bf885
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/85/tcga.base_sums.LGG_dcccaa1b-e5ff-483e-a186-4cb6712bf885.ALL.bw
@@ -4181,7 +4181,7 @@ longLabel recount3 coverage bigWig for external id dcccaa1b-e5ff-483e-a186-4cb67
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track dd028798-c4cb-43a8-81d7-711e015e23b5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B5/tcga.base_sums.LGG_dd028798-c4cb-43a8-81d7-711e015e23b5.ALL.bw
@@ -4190,7 +4190,7 @@ longLabel recount3 coverage bigWig for external id dd028798-c4cb-43a8-81d7-711e0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track dd203d19-d635-4112-af75-9724e0a64a0b
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0B/tcga.base_sums.LGG_dd203d19-d635-4112-af75-9724e0a64a0b.ALL.bw
@@ -4199,7 +4199,7 @@ longLabel recount3 coverage bigWig for external id dd203d19-d635-4112-af75-9724e
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track dd58135a-fe4d-4b43-beed-485d7a48c9f3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F3/tcga.base_sums.LGG_dd58135a-fe4d-4b43-beed-485d7a48c9f3.ALL.bw
@@ -4208,7 +4208,7 @@ longLabel recount3 coverage bigWig for external id dd58135a-fe4d-4b43-beed-485d7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track dd5aa3f8-e3ee-4edd-8152-b1cc07b70a08
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/08/tcga.base_sums.LGG_dd5aa3f8-e3ee-4edd-8152-b1cc07b70a08.ALL.bw
@@ -4217,7 +4217,7 @@ longLabel recount3 coverage bigWig for external id dd5aa3f8-e3ee-4edd-8152-b1cc0
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track de406e2b-39af-4a24-b2be-0f7cdcbe9d85
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/85/tcga.base_sums.LGG_de406e2b-39af-4a24-b2be-0f7cdcbe9d85.ALL.bw
@@ -4226,7 +4226,7 @@ longLabel recount3 coverage bigWig for external id de406e2b-39af-4a24-b2be-0f7cd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track de716af0-930e-4747-b7fe-4afaa45212dc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DC/tcga.base_sums.LGG_de716af0-930e-4747-b7fe-4afaa45212dc.ALL.bw
@@ -4235,7 +4235,7 @@ longLabel recount3 coverage bigWig for external id de716af0-930e-4747-b7fe-4afaa
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track deacc29a-6def-4728-afeb-15d7bda850ca
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/CA/tcga.base_sums.LGG_deacc29a-6def-4728-afeb-15d7bda850ca.ALL.bw
@@ -4244,7 +4244,7 @@ longLabel recount3 coverage bigWig for external id deacc29a-6def-4728-afeb-15d7b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track deb3be77-120d-4ec5-aa7a-4b2952f2c832
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/32/tcga.base_sums.LGG_deb3be77-120d-4ec5-aa7a-4b2952f2c832.ALL.bw
@@ -4253,7 +4253,7 @@ longLabel recount3 coverage bigWig for external id deb3be77-120d-4ec5-aa7a-4b295
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track df749f48-6a86-4640-9c62-31b4a7c5d1a9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A9/tcga.base_sums.LGG_df749f48-6a86-4640-9c62-31b4a7c5d1a9.ALL.bw
@@ -4262,7 +4262,7 @@ longLabel recount3 coverage bigWig for external id df749f48-6a86-4640-9c62-31b4a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e00a399d-e6c3-439d-8e70-a7ad5df5f5e2
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E2/tcga.base_sums.LGG_e00a399d-e6c3-439d-8e70-a7ad5df5f5e2.ALL.bw
@@ -4271,7 +4271,7 @@ longLabel recount3 coverage bigWig for external id e00a399d-e6c3-439d-8e70-a7ad5
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e0173aab-678a-46e0-b701-c79a6be9b9d8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D8/tcga.base_sums.LGG_e0173aab-678a-46e0-b701-c79a6be9b9d8.ALL.bw
@@ -4280,7 +4280,7 @@ longLabel recount3 coverage bigWig for external id e0173aab-678a-46e0-b701-c79a6
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e0de33ea-c3df-478e-9c4d-86e3c7b3a1d9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D9/tcga.base_sums.LGG_e0de33ea-c3df-478e-9c4d-86e3c7b3a1d9.ALL.bw
@@ -4289,7 +4289,7 @@ longLabel recount3 coverage bigWig for external id e0de33ea-c3df-478e-9c4d-86e3c
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e16ad7e1-29da-4b8f-8b12-a8a6bbaa9174
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/74/tcga.base_sums.LGG_e16ad7e1-29da-4b8f-8b12-a8a6bbaa9174.ALL.bw
@@ -4298,7 +4298,7 @@ longLabel recount3 coverage bigWig for external id e16ad7e1-29da-4b8f-8b12-a8a6b
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e2c7e2b8-bc9b-476c-a705-cbbca51f7c26
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/26/tcga.base_sums.LGG_e2c7e2b8-bc9b-476c-a705-cbbca51f7c26.ALL.bw
@@ -4307,7 +4307,7 @@ longLabel recount3 coverage bigWig for external id e2c7e2b8-bc9b-476c-a705-cbbca
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e35a6aa5-331f-489b-8ce1-9d0bc4cde119
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/19/tcga.base_sums.LGG_e35a6aa5-331f-489b-8ce1-9d0bc4cde119.ALL.bw
@@ -4316,7 +4316,7 @@ longLabel recount3 coverage bigWig for external id e35a6aa5-331f-489b-8ce1-9d0bc
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e3818baa-ba28-4ce4-a745-bb3692883888
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/88/tcga.base_sums.LGG_e3818baa-ba28-4ce4-a745-bb3692883888.ALL.bw
@@ -4325,7 +4325,7 @@ longLabel recount3 coverage bigWig for external id e3818baa-ba28-4ce4-a745-bb369
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e3887082-4c43-426c-8580-ecaa4efec577
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/77/tcga.base_sums.LGG_e3887082-4c43-426c-8580-ecaa4efec577.ALL.bw
@@ -4334,7 +4334,7 @@ longLabel recount3 coverage bigWig for external id e3887082-4c43-426c-8580-ecaa4
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e3a67b7b-7427-4c11-912b-166451072767
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/67/tcga.base_sums.LGG_e3a67b7b-7427-4c11-912b-166451072767.ALL.bw
@@ -4343,7 +4343,7 @@ longLabel recount3 coverage bigWig for external id e3a67b7b-7427-4c11-912b-16645
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e3e4e7da-ad14-44ba-b3be-02652b3cee18
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/18/tcga.base_sums.LGG_e3e4e7da-ad14-44ba-b3be-02652b3cee18.ALL.bw
@@ -4352,7 +4352,7 @@ longLabel recount3 coverage bigWig for external id e3e4e7da-ad14-44ba-b3be-02652
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e3f2bf50-3717-4fe2-b048-86637c7124c6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C6/tcga.base_sums.LGG_e3f2bf50-3717-4fe2-b048-86637c7124c6.ALL.bw
@@ -4361,7 +4361,7 @@ longLabel recount3 coverage bigWig for external id e3f2bf50-3717-4fe2-b048-86637
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e528d9ee-41c3-4d4c-b16f-abbdd6e31b84
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/84/tcga.base_sums.LGG_e528d9ee-41c3-4d4c-b16f-abbdd6e31b84.ALL.bw
@@ -4370,7 +4370,7 @@ longLabel recount3 coverage bigWig for external id e528d9ee-41c3-4d4c-b16f-abbdd
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e55da565-d03c-46bf-a498-0677afa19d74
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/74/tcga.base_sums.LGG_e55da565-d03c-46bf-a498-0677afa19d74.ALL.bw
@@ -4379,7 +4379,7 @@ longLabel recount3 coverage bigWig for external id e55da565-d03c-46bf-a498-0677a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e5fb107a-9555-419f-84bf-2a59873104b9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B9/tcga.base_sums.LGG_e5fb107a-9555-419f-84bf-2a59873104b9.ALL.bw
@@ -4388,7 +4388,7 @@ longLabel recount3 coverage bigWig for external id e5fb107a-9555-419f-84bf-2a598
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e6090bc6-d29d-4401-990a-251930cc6853
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/53/tcga.base_sums.LGG_e6090bc6-d29d-4401-990a-251930cc6853.ALL.bw
@@ -4397,7 +4397,7 @@ longLabel recount3 coverage bigWig for external id e6090bc6-d29d-4401-990a-25193
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e6aa40da-9ab7-478b-b46b-827f9afe52d1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D1/tcga.base_sums.LGG_e6aa40da-9ab7-478b-b46b-827f9afe52d1.ALL.bw
@@ -4406,7 +4406,7 @@ longLabel recount3 coverage bigWig for external id e6aa40da-9ab7-478b-b46b-827f9
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e753a375-575a-4a0d-b231-0ec8d76baf13
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/13/tcga.base_sums.LGG_e753a375-575a-4a0d-b231-0ec8d76baf13.ALL.bw
@@ -4415,7 +4415,7 @@ longLabel recount3 coverage bigWig for external id e753a375-575a-4a0d-b231-0ec8d
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e775874c-4ce0-4d23-8cf0-7a3d72a84dd9
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D9/tcga.base_sums.LGG_e775874c-4ce0-4d23-8cf0-7a3d72a84dd9.ALL.bw
@@ -4424,7 +4424,7 @@ longLabel recount3 coverage bigWig for external id e775874c-4ce0-4d23-8cf0-7a3d7
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e79fe058-f03e-45f3-a939-356b0427e1b7
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B7/tcga.base_sums.LGG_e79fe058-f03e-45f3-a939-356b0427e1b7.ALL.bw
@@ -4433,7 +4433,7 @@ longLabel recount3 coverage bigWig for external id e79fe058-f03e-45f3-a939-356b0
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e81fa8b7-3ffe-4f73-94af-0b5257d7f81a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1A/tcga.base_sums.LGG_e81fa8b7-3ffe-4f73-94af-0b5257d7f81a.ALL.bw
@@ -4442,7 +4442,7 @@ longLabel recount3 coverage bigWig for external id e81fa8b7-3ffe-4f73-94af-0b525
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track e9d4a83f-eada-4330-911a-8f02393e0ba3
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/A3/tcga.base_sums.LGG_e9d4a83f-eada-4330-911a-8f02393e0ba3.ALL.bw
@@ -4451,7 +4451,7 @@ longLabel recount3 coverage bigWig for external id e9d4a83f-eada-4330-911a-8f023
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ea485e4a-5956-430c-8584-e14d865e3758
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/58/tcga.base_sums.LGG_ea485e4a-5956-430c-8584-e14d865e3758.ALL.bw
@@ -4460,7 +4460,7 @@ longLabel recount3 coverage bigWig for external id ea485e4a-5956-430c-8584-e14d8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ea6a086b-f655-47e8-9e70-8a2d36fc2ae1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E1/tcga.base_sums.LGG_ea6a086b-f655-47e8-9e70-8a2d36fc2ae1.ALL.bw
@@ -4469,7 +4469,7 @@ longLabel recount3 coverage bigWig for external id ea6a086b-f655-47e8-9e70-8a2d3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track eb098c15-f710-411c-a981-d750310554f8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/F8/tcga.base_sums.LGG_eb098c15-f710-411c-a981-d750310554f8.ALL.bw
@@ -4478,7 +4478,7 @@ longLabel recount3 coverage bigWig for external id eb098c15-f710-411c-a981-d7503
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ec7327b2-6767-4005-9c51-005957c1f923
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/23/tcga.base_sums.LGG_ec7327b2-6767-4005-9c51-005957c1f923.ALL.bw
@@ -4487,7 +4487,7 @@ longLabel recount3 coverage bigWig for external id ec7327b2-6767-4005-9c51-00595
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ec795554-af2e-4eef-b8a4-05549bfa1cc6
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/C6/tcga.base_sums.LGG_ec795554-af2e-4eef-b8a4-05549bfa1cc6.ALL.bw
@@ -4496,7 +4496,7 @@ longLabel recount3 coverage bigWig for external id ec795554-af2e-4eef-b8a4-05549
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ed604501-c110-4693-820b-de9fb648feaa
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AA/tcga.base_sums.LGG_ed604501-c110-4693-820b-de9fb648feaa.ALL.bw
@@ -4505,7 +4505,7 @@ longLabel recount3 coverage bigWig for external id ed604501-c110-4693-820b-de9fb
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ed6f62a6-64a8-4919-b32c-8d3d86a0f9ff
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FF/tcga.base_sums.LGG_ed6f62a6-64a8-4919-b32c-8d3d86a0f9ff.ALL.bw
@@ -4514,7 +4514,7 @@ longLabel recount3 coverage bigWig for external id ed6f62a6-64a8-4919-b32c-8d3d8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track edabb4de-6443-4ea2-b64a-9c492d3f5a2c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2C/tcga.base_sums.LGG_edabb4de-6443-4ea2-b64a-9c492d3f5a2c.ALL.bw
@@ -4523,7 +4523,7 @@ longLabel recount3 coverage bigWig for external id edabb4de-6443-4ea2-b64a-9c492
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track edd5ba86-0402-4002-8040-2b98f43da758
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/58/tcga.base_sums.LGG_edd5ba86-0402-4002-8040-2b98f43da758.ALL.bw
@@ -4532,7 +4532,7 @@ longLabel recount3 coverage bigWig for external id edd5ba86-0402-4002-8040-2b98f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ee4f9349-f750-4471-bfe7-7230784569e1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E1/tcga.base_sums.LGG_ee4f9349-f750-4471-bfe7-7230784569e1.ALL.bw
@@ -4541,7 +4541,7 @@ longLabel recount3 coverage bigWig for external id ee4f9349-f750-4471-bfe7-72307
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ee52ca48-ebe4-4bca-b9ba-9ab39f8e7986
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/86/tcga.base_sums.LGG_ee52ca48-ebe4-4bca-b9ba-9ab39f8e7986.ALL.bw
@@ -4550,7 +4550,7 @@ longLabel recount3 coverage bigWig for external id ee52ca48-ebe4-4bca-b9ba-9ab39
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track eed16435-cbed-4143-b5ba-c5c7c8510c3a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/3A/tcga.base_sums.LGG_eed16435-cbed-4143-b5ba-c5c7c8510c3a.ALL.bw
@@ -4559,7 +4559,7 @@ longLabel recount3 coverage bigWig for external id eed16435-cbed-4143-b5ba-c5c7c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track eee5e45b-d2e3-4cfa-ac5f-8ae1ec2cb61c
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/1C/tcga.base_sums.LGG_eee5e45b-d2e3-4cfa-ac5f-8ae1ec2cb61c.ALL.bw
@@ -4568,7 +4568,7 @@ longLabel recount3 coverage bigWig for external id eee5e45b-d2e3-4cfa-ac5f-8ae1e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ef7d394c-bab6-4826-ae09-9e5e884e0023
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/23/tcga.base_sums.LGG_ef7d394c-bab6-4826-ae09-9e5e884e0023.ALL.bw
@@ -4577,7 +4577,7 @@ longLabel recount3 coverage bigWig for external id ef7d394c-bab6-4826-ae09-9e5e8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track efb459e3-9b6a-4020-8556-6409065823b7
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B7/tcga.base_sums.LGG_efb459e3-9b6a-4020-8556-6409065823b7.ALL.bw
@@ -4586,7 +4586,7 @@ longLabel recount3 coverage bigWig for external id efb459e3-9b6a-4020-8556-64090
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track efe4b0db-a0dc-482e-88f8-b530e76a4bb0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B0/tcga.base_sums.LGG_efe4b0db-a0dc-482e-88f8-b530e76a4bb0.ALL.bw
@@ -4595,7 +4595,7 @@ longLabel recount3 coverage bigWig for external id efe4b0db-a0dc-482e-88f8-b530e
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track efedafe3-ff81-47ed-97f6-1193ea375d77
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/77/tcga.base_sums.LGG_efedafe3-ff81-47ed-97f6-1193ea375d77.ALL.bw
@@ -4604,7 +4604,7 @@ longLabel recount3 coverage bigWig for external id efedafe3-ff81-47ed-97f6-1193e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f0e12296-cbce-41c8-ba7f-e7e085f72439
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/39/tcga.base_sums.LGG_f0e12296-cbce-41c8-ba7f-e7e085f72439.ALL.bw
@@ -4613,7 +4613,7 @@ longLabel recount3 coverage bigWig for external id f0e12296-cbce-41c8-ba7f-e7e08
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f19c96ee-d936-4385-b543-07fa8447a3dd
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/DD/tcga.base_sums.LGG_f19c96ee-d936-4385-b543-07fa8447a3dd.ALL.bw
@@ -4622,7 +4622,7 @@ longLabel recount3 coverage bigWig for external id f19c96ee-d936-4385-b543-07fa8
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f1d36132-f3c3-47bb-a41f-a10df40b69d1
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D1/tcga.base_sums.LGG_f1d36132-f3c3-47bb-a41f-a10df40b69d1.ALL.bw
@@ -4631,7 +4631,7 @@ longLabel recount3 coverage bigWig for external id f1d36132-f3c3-47bb-a41f-a10df
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f226f6d3-de88-4b15-a0f1-63edb55e8f9d
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/9D/tcga.base_sums.LGG_f226f6d3-de88-4b15-a0f1-63edb55e8f9d.ALL.bw
@@ -4640,7 +4640,7 @@ longLabel recount3 coverage bigWig for external id f226f6d3-de88-4b15-a0f1-63edb
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f35f85a8-b3cd-4116-990f-94b2e432f902
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/02/tcga.base_sums.LGG_f35f85a8-b3cd-4116-990f-94b2e432f902.ALL.bw
@@ -4649,7 +4649,7 @@ longLabel recount3 coverage bigWig for external id f35f85a8-b3cd-4116-990f-94b2e
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f486ad48-51ea-4c65-8203-dce72b6c2148
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/48/tcga.base_sums.LGG_f486ad48-51ea-4c65-8203-dce72b6c2148.ALL.bw
@@ -4658,7 +4658,7 @@ longLabel recount3 coverage bigWig for external id f486ad48-51ea-4c65-8203-dce72
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f547c7bb-dbf1-4805-a0ea-d8bc36606032
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/32/tcga.base_sums.LGG_f547c7bb-dbf1-4805-a0ea-d8bc36606032.ALL.bw
@@ -4667,7 +4667,7 @@ longLabel recount3 coverage bigWig for external id f547c7bb-dbf1-4805-a0ea-d8bc3
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f56466dc-3c0f-48be-8a72-cedeaef52f00
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/00/tcga.base_sums.LGG_f56466dc-3c0f-48be-8a72-cedeaef52f00.ALL.bw
@@ -4676,7 +4676,7 @@ longLabel recount3 coverage bigWig for external id f56466dc-3c0f-48be-8a72-cedea
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f5d36a14-8f2e-4c08-91be-e3319784ff46
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/46/tcga.base_sums.LGG_f5d36a14-8f2e-4c08-91be-e3319784ff46.ALL.bw
@@ -4685,7 +4685,7 @@ longLabel recount3 coverage bigWig for external id f5d36a14-8f2e-4c08-91be-e3319
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f8f6611a-a71a-4847-92b2-15723b9ed0b8
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/B8/tcga.base_sums.LGG_f8f6611a-a71a-4847-92b2-15723b9ed0b8.ALL.bw
@@ -4694,7 +4694,7 @@ longLabel recount3 coverage bigWig for external id f8f6611a-a71a-4847-92b2-15723
 type bigWig
 visibility show
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f90967a5-96c6-4669-bcfb-0c51f539b0e7
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/E7/tcga.base_sums.LGG_f90967a5-96c6-4669-bcfb-0c51f539b0e7.ALL.bw
@@ -4703,7 +4703,7 @@ longLabel recount3 coverage bigWig for external id f90967a5-96c6-4669-bcfb-0c51f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f99d2b23-a7c3-4115-aa68-17ae6914ac2a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/2A/tcga.base_sums.LGG_f99d2b23-a7c3-4115-aa68-17ae6914ac2a.ALL.bw
@@ -4712,7 +4712,7 @@ longLabel recount3 coverage bigWig for external id f99d2b23-a7c3-4115-aa68-17ae6
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track f9fa52f2-bd53-4ce8-b227-5936ae06b76a
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/6A/tcga.base_sums.LGG_f9fa52f2-bd53-4ce8-b227-5936ae06b76a.ALL.bw
@@ -4721,7 +4721,7 @@ longLabel recount3 coverage bigWig for external id f9fa52f2-bd53-4ce8-b227-5936a
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track fb361def-9354-4467-9ff0-bf21f642a654
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/54/tcga.base_sums.LGG_fb361def-9354-4467-9ff0-bf21f642a654.ALL.bw
@@ -4730,7 +4730,7 @@ longLabel recount3 coverage bigWig for external id fb361def-9354-4467-9ff0-bf21f
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track fb7673f7-ff7f-4c3c-a8c6-9c11c6bb71d5
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D5/tcga.base_sums.LGG_fb7673f7-ff7f-4c3c-a8c6-9c11c6bb71d5.ALL.bw
@@ -4739,7 +4739,7 @@ longLabel recount3 coverage bigWig for external id fb7673f7-ff7f-4c3c-a8c6-9c11c
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track fbf510b1-3629-4fb9-bf9c-5be689827dac
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/AC/tcga.base_sums.LGG_fbf510b1-3629-4fb9-bf9c-5be689827dac.ALL.bw
@@ -4748,7 +4748,7 @@ longLabel recount3 coverage bigWig for external id fbf510b1-3629-4fb9-bf9c-5be68
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track fc2f983b-2530-4886-b759-e2c571e2d068
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/68/tcga.base_sums.LGG_fc2f983b-2530-4886-b759-e2c571e2d068.ALL.bw
@@ -4757,7 +4757,7 @@ longLabel recount3 coverage bigWig for external id fc2f983b-2530-4886-b759-e2c57
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track fd166a94-332d-426d-9e36-e4272f3772fc
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/FC/tcga.base_sums.LGG_fd166a94-332d-426d-9e36-e4272f3772fc.ALL.bw
@@ -4766,7 +4766,7 @@ longLabel recount3 coverage bigWig for external id fd166a94-332d-426d-9e36-e4272
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track fd76d38b-2a54-4f1a-b7c0-ef268f9d9a0e
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/0E/tcga.base_sums.LGG_fd76d38b-2a54-4f1a-b7c0-ef268f9d9a0e.ALL.bw
@@ -4775,7 +4775,7 @@ longLabel recount3 coverage bigWig for external id fd76d38b-2a54-4f1a-b7c0-ef268
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
 track ffaa0a2d-49b7-4491-9b22-c82ccf1501d0
 bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/GG/LGG/D0/tcga.base_sums.LGG_ffaa0a2d-49b7-4491-9b22-c82ccf1501d0.ALL.bw
@@ -4784,5 +4784,5 @@ longLabel recount3 coverage bigWig for external id ffaa0a2d-49b7-4491-9b22-c82cc
 type bigWig
 visibility hide
 autoScale on
-alwaysZero=on
+alwaysZero on
 
