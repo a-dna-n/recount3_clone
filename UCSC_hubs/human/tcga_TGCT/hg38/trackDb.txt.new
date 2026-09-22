@@ -1,0 +1,1404 @@
+track 00b1b6c5-c4c1-4248-8879-f30727137391
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/91/tcga.base_sums.TGCT_00b1b6c5-c4c1-4248-8879-f30727137391.ALL.bw
+shortLabel TCGA-2G-AALY-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 04156b26-81b5-4e17-a14a-819800abfe36
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/36/tcga.base_sums.TGCT_04156b26-81b5-4e17-a14a-819800abfe36.ALL.bw
+shortLabel TCGA-XY-A8S2-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 047dc304-c62b-4e2b-aee9-e264dbb339f7
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/F7/tcga.base_sums.TGCT_047dc304-c62b-4e2b-aee9-e264dbb339f7.ALL.bw
+shortLabel TCGA-2G-AAL5-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 05e90cc1-187d-4cca-a262-f93485b06f2d
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/2D/tcga.base_sums.TGCT_05e90cc1-187d-4cca-a262-f93485b06f2d.ALL.bw
+shortLabel TCGA-VF-A8AA-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 06e41414-2270-4c59-8cff-4fb9a410393c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/3C/tcga.base_sums.TGCT_06e41414-2270-4c59-8cff-4fb9a410393c.ALL.bw
+shortLabel TCGA-2G-AAH4-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 09a97253-d3df-40a2-8623-0ad42df510a8
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/A8/tcga.base_sums.TGCT_09a97253-d3df-40a2-8623-0ad42df510a8.ALL.bw
+shortLabel TCGA-2G-AAH8-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 0b734d75-4ba6-4b05-9852-bcd6c1c4e639
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/39/tcga.base_sums.TGCT_0b734d75-4ba6-4b05-9852-bcd6c1c4e639.ALL.bw
+shortLabel TCGA-2G-AAKH-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 0caac9b1-10c1-44b2-9c40-c9812286e048
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/48/tcga.base_sums.TGCT_0caac9b1-10c1-44b2-9c40-c9812286e048.ALL.bw
+shortLabel TCGA-VF-A8A8-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 0dcabd31-b3bb-4aae-bc77-35b324db4345
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/45/tcga.base_sums.TGCT_0dcabd31-b3bb-4aae-bc77-35b324db4345.ALL.bw
+shortLabel TCGA-YU-A94I-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 0ea016c8-b636-45fe-8558-2d72f4d7eb86
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/86/tcga.base_sums.TGCT_0ea016c8-b636-45fe-8558-2d72f4d7eb86.ALL.bw
+shortLabel TCGA-2G-AAG0-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 0f62af32-0760-44aa-b2c8-9e7df55e15b0
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/B0/tcga.base_sums.TGCT_0f62af32-0760-44aa-b2c8-9e7df55e15b0.ALL.bw
+shortLabel TCGA-WZ-A8D5-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 10161fa0-e389-4d98-b854-098af908c898
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/98/tcga.base_sums.TGCT_10161fa0-e389-4d98-b854-098af908c898.ALL.bw
+shortLabel TCGA-2G-AAGX-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 11c93f5a-2187-484a-805d-bb696c1b9032
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/32/tcga.base_sums.TGCT_11c93f5a-2187-484a-805d-bb696c1b9032.ALL.bw
+shortLabel TCGA-2X-A9D5-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 12078907-435a-46c9-96c1-24e71bf4602d
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/2D/tcga.base_sums.TGCT_12078907-435a-46c9-96c1-24e71bf4602d.ALL.bw
+shortLabel TCGA-2G-AAFV-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 1339cb34-b996-470a-9710-0649dd05d18a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/8A/tcga.base_sums.TGCT_1339cb34-b996-470a-9710-0649dd05d18a.ALL.bw
+shortLabel TCGA-2G-AAFG-05
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 14051060-41fd-452b-afdb-6dc73e4e4cd2
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/D2/tcga.base_sums.TGCT_14051060-41fd-452b-afdb-6dc73e4e4cd2.ALL.bw
+shortLabel TCGA-2G-AALP-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 146ccb02-762a-4f38-9686-03e1c20e07c9
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C9/tcga.base_sums.TGCT_146ccb02-762a-4f38-9686-03e1c20e07c9.ALL.bw
+shortLabel TCGA-SN-A6IS-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 1599fca7-5350-4200-9b77-ec93bb5d91c2
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C2/tcga.base_sums.TGCT_1599fca7-5350-4200-9b77-ec93bb5d91c2.ALL.bw
+shortLabel TCGA-XY-A8S3-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 15d9de0e-9a17-4679-b63d-071650ccd356
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/56/tcga.base_sums.TGCT_15d9de0e-9a17-4679-b63d-071650ccd356.ALL.bw
+shortLabel TCGA-XE-A9SE-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 16a70057-af47-4934-992e-3e9cf6e74684
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/84/tcga.base_sums.TGCT_16a70057-af47-4934-992e-3e9cf6e74684.ALL.bw
+shortLabel TCGA-2G-AAHA-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 1709294c-7194-493d-af5c-574927f57c0c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/0C/tcga.base_sums.TGCT_1709294c-7194-493d-af5c-574927f57c0c.ALL.bw
+shortLabel TCGA-XE-AANV-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 1be1fa76-1939-4c83-8b87-be91481af483
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/83/tcga.base_sums.TGCT_1be1fa76-1939-4c83-8b87-be91481af483.ALL.bw
+shortLabel TCGA-XE-AAOJ-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 1cce57ac-c487-435c-9334-3c1eeb920716
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/16/tcga.base_sums.TGCT_1cce57ac-c487-435c-9334-3c1eeb920716.ALL.bw
+shortLabel TCGA-SN-A84W-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 1db88bdb-6aba-43e2-9bf2-024679a773c5
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C5/tcga.base_sums.TGCT_1db88bdb-6aba-43e2-9bf2-024679a773c5.ALL.bw
+shortLabel TCGA-XE-AANR-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 1eb60b7e-a5d0-4773-9691-33238b87c2d5
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/D5/tcga.base_sums.TGCT_1eb60b7e-a5d0-4773-9691-33238b87c2d5.ALL.bw
+shortLabel TCGA-YU-A90S-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 1eca27ab-c6e2-42be-8968-909639f6edba
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/BA/tcga.base_sums.TGCT_1eca27ab-c6e2-42be-8968-909639f6edba.ALL.bw
+shortLabel TCGA-4K-AA1I-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 1f5d2c7a-32ad-44fe-af46-73f1f8f13b00
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/00/tcga.base_sums.TGCT_1f5d2c7a-32ad-44fe-af46-73f1f8f13b00.ALL.bw
+shortLabel TCGA-2G-AAF8-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 211fd575-40d6-4e44-818f-3a382f4634da
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/DA/tcga.base_sums.TGCT_211fd575-40d6-4e44-818f-3a382f4634da.ALL.bw
+shortLabel TCGA-YU-AA61-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 2794603e-f476-4100-a7bb-393f1bab83aa
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/AA/tcga.base_sums.TGCT_2794603e-f476-4100-a7bb-393f1bab83aa.ALL.bw
+shortLabel TCGA-2G-AAGZ-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 284795fa-f49c-4065-9edc-362e02b88c8e
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/8E/tcga.base_sums.TGCT_284795fa-f49c-4065-9edc-362e02b88c8e.ALL.bw
+shortLabel TCGA-XY-A89B-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 28c3ba1c-9a5a-4adb-b0a8-fd00fcbd061a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/1A/tcga.base_sums.TGCT_28c3ba1c-9a5a-4adb-b0a8-fd00fcbd061a.ALL.bw
+shortLabel TCGA-2G-AALX-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 2e2d2e6d-dd3e-4556-8a03-993bae7d8dc2
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C2/tcga.base_sums.TGCT_2e2d2e6d-dd3e-4556-8a03-993bae7d8dc2.ALL.bw
+shortLabel TCGA-ZM-AA0B-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 3597f365-9be4-4ad2-aee9-6073e9e9e47c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/7C/tcga.base_sums.TGCT_3597f365-9be4-4ad2-aee9-6073e9e9e47c.ALL.bw
+shortLabel TCGA-2G-AAG9-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 3656f43b-e5f8-4988-9864-0cd78609c2cb
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/CB/tcga.base_sums.TGCT_3656f43b-e5f8-4988-9864-0cd78609c2cb.ALL.bw
+shortLabel TCGA-XE-AAOB-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 36c94172-b70d-4dd7-97a8-ac7785c026b5
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/B5/tcga.base_sums.TGCT_36c94172-b70d-4dd7-97a8-ac7785c026b5.ALL.bw
+shortLabel TCGA-2G-AAG3-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 36d1e390-7dda-4722-8f72-87720d368a6b
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/6B/tcga.base_sums.TGCT_36d1e390-7dda-4722-8f72-87720d368a6b.ALL.bw
+shortLabel TCGA-S6-A8JX-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 3a18b95c-438c-4690-875e-a1c8c22eb6bb
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/BB/tcga.base_sums.TGCT_3a18b95c-438c-4690-875e-a1c8c22eb6bb.ALL.bw
+shortLabel TCGA-4K-AAAL-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 3b949b75-da81-41e9-b73a-98a7abb27478
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/78/tcga.base_sums.TGCT_3b949b75-da81-41e9-b73a-98a7abb27478.ALL.bw
+shortLabel TCGA-2G-AAGK-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 3c2d3bee-7f61-40c5-8ade-231ea1d30645
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/45/tcga.base_sums.TGCT_3c2d3bee-7f61-40c5-8ade-231ea1d30645.ALL.bw
+shortLabel TCGA-VF-A8A9-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 3d71a939-4d61-4178-91c8-9b5004b14064
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/64/tcga.base_sums.TGCT_3d71a939-4d61-4178-91c8-9b5004b14064.ALL.bw
+shortLabel TCGA-2G-AAFH-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 4022b5d9-8b67-45c3-867b-a72129500f86
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/86/tcga.base_sums.TGCT_4022b5d9-8b67-45c3-867b-a72129500f86.ALL.bw
+shortLabel TCGA-2G-AAH3-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 44c04683-de81-45ab-9695-4ba64ce73155
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/55/tcga.base_sums.TGCT_44c04683-de81-45ab-9695-4ba64ce73155.ALL.bw
+shortLabel TCGA-2G-AAGO-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 46e513f2-b915-433b-8659-6a4bca3a0579
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/79/tcga.base_sums.TGCT_46e513f2-b915-433b-8659-6a4bca3a0579.ALL.bw
+shortLabel TCGA-2G-AAHP-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 49bc661e-f1f9-4f89-bd90-2be5537ce126
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/26/tcga.base_sums.TGCT_49bc661e-f1f9-4f89-bd90-2be5537ce126.ALL.bw
+shortLabel TCGA-S6-A8JW-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 4a082059-5fac-481d-88ef-6fc6f3e012a9
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/A9/tcga.base_sums.TGCT_4a082059-5fac-481d-88ef-6fc6f3e012a9.ALL.bw
+shortLabel TCGA-2G-AAGS-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 4bfd1868-49ff-4d20-8369-9d50517ffd0d
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/0D/tcga.base_sums.TGCT_4bfd1868-49ff-4d20-8369-9d50517ffd0d.ALL.bw
+shortLabel TCGA-SB-A6J6-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 4c120336-16a5-42b4-b069-48e11f1f746d
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/6D/tcga.base_sums.TGCT_4c120336-16a5-42b4-b069-48e11f1f746d.ALL.bw
+shortLabel TCGA-2G-AALG-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 4c96c968-6b8f-4b81-b141-4081f338f333
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/33/tcga.base_sums.TGCT_4c96c968-6b8f-4b81-b141-4081f338f333.ALL.bw
+shortLabel TCGA-2G-AAF6-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 4d15baa4-2b99-40e9-826d-d52ca79bdb24
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/24/tcga.base_sums.TGCT_4d15baa4-2b99-40e9-826d-d52ca79bdb24.ALL.bw
+shortLabel TCGA-2G-AAFM-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 535f2efd-4b88-4b80-b83e-f2ff5a49c21a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/1A/tcga.base_sums.TGCT_535f2efd-4b88-4b80-b83e-f2ff5a49c21a.ALL.bw
+shortLabel TCGA-2G-AALO-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 54dcc779-b458-4805-8912-4501c7a7e95c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/5C/tcga.base_sums.TGCT_54dcc779-b458-4805-8912-4501c7a7e95c.ALL.bw
+shortLabel TCGA-SN-A84X-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 57e6cd01-c6c1-4a5d-975f-ea37cd1ba1b3
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/B3/tcga.base_sums.TGCT_57e6cd01-c6c1-4a5d-975f-ea37cd1ba1b3.ALL.bw
+shortLabel TCGA-2G-AAKL-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 589aca26-273d-491f-836b-a604be63947b
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/7B/tcga.base_sums.TGCT_589aca26-273d-491f-836b-a604be63947b.ALL.bw
+shortLabel TCGA-XE-A8H5-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 58d9c090-4ab9-4f62-aad4-cae5e2d6dee6
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/E6/tcga.base_sums.TGCT_58d9c090-4ab9-4f62-aad4-cae5e2d6dee6.ALL.bw
+shortLabel TCGA-YU-A90P-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 59af492e-c164-49fc-a40c-6607ed7e108c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/8C/tcga.base_sums.TGCT_59af492e-c164-49fc-a40c-6607ed7e108c.ALL.bw
+shortLabel TCGA-XE-A8H4-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 59b923c7-6d3f-4e81-9b3a-959984983f4b
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/4B/tcga.base_sums.TGCT_59b923c7-6d3f-4e81-9b3a-959984983f4b.ALL.bw
+shortLabel TCGA-W4-A7U3-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 5a1b0142-cfef-4853-9871-5984c11c0cf3
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/F3/tcga.base_sums.TGCT_5a1b0142-cfef-4853-9871-5984c11c0cf3.ALL.bw
+shortLabel TCGA-2G-AAM4-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 5d916bb7-6b38-414e-875e-2497c91b209a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/9A/tcga.base_sums.TGCT_5d916bb7-6b38-414e-875e-2497c91b209a.ALL.bw
+shortLabel TCGA-YU-A90Y-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 5e3876f2-37bf-4c87-97e8-2c18fb32807d
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/7D/tcga.base_sums.TGCT_5e3876f2-37bf-4c87-97e8-2c18fb32807d.ALL.bw
+shortLabel TCGA-2G-AAFI-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 5e4101ce-1592-4890-84f5-a6de1c9aa3ab
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/AB/tcga.base_sums.TGCT_5e4101ce-1592-4890-84f5-a6de1c9aa3ab.ALL.bw
+shortLabel TCGA-2G-AAKM-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 5f1797cc-c35c-44d4-867b-9824fe037552
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/52/tcga.base_sums.TGCT_5f1797cc-c35c-44d4-867b-9824fe037552.ALL.bw
+shortLabel TCGA-2G-AALR-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 5f1fb4e0-d5ea-46b4-9e62-e86e75ac030f
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/0F/tcga.base_sums.TGCT_5f1fb4e0-d5ea-46b4-9e62-e86e75ac030f.ALL.bw
+shortLabel TCGA-2G-AAGC-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 633d24e2-63ce-499f-a448-765aaaef1977
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/77/tcga.base_sums.TGCT_633d24e2-63ce-499f-a448-765aaaef1977.ALL.bw
+shortLabel TCGA-SO-A8JP-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 660c6bcc-5c1e-4316-862e-9b7ce3891d08
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/08/tcga.base_sums.TGCT_660c6bcc-5c1e-4316-862e-9b7ce3891d08.ALL.bw
+shortLabel TCGA-VF-A8AB-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 667c5809-4a62-4344-9854-ce5703c99fda
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/DA/tcga.base_sums.TGCT_667c5809-4a62-4344-9854-ce5703c99fda.ALL.bw
+shortLabel TCGA-2G-AAKO-05
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 66ef51cf-3953-4b82-9acd-7179a2a4c4c2
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C2/tcga.base_sums.TGCT_66ef51cf-3953-4b82-9acd-7179a2a4c4c2.ALL.bw
+shortLabel TCGA-2G-AAG6-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 66f2b3f9-9cb9-4228-ad28-9d7d9668873b
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/3B/tcga.base_sums.TGCT_66f2b3f9-9cb9-4228-ad28-9d7d9668873b.ALL.bw
+shortLabel TCGA-XE-AAOF-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 692a3312-2027-472b-a28c-c661a0539eb5
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/B5/tcga.base_sums.TGCT_692a3312-2027-472b-a28c-c661a0539eb5.ALL.bw
+shortLabel TCGA-XE-AANJ-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 6a67c831-06e3-46b6-b7d5-70d3d7334a59
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/59/tcga.base_sums.TGCT_6a67c831-06e3-46b6-b7d5-70d3d7334a59.ALL.bw
+shortLabel TCGA-2G-AAF1-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 6af6da76-1152-4058-8b75-0561df5700eb
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/EB/tcga.base_sums.TGCT_6af6da76-1152-4058-8b75-0561df5700eb.ALL.bw
+shortLabel TCGA-2G-AAFG-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 6c1831aa-dabf-4ad9-b679-5009e58c654c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/4C/tcga.base_sums.TGCT_6c1831aa-dabf-4ad9-b679-5009e58c654c.ALL.bw
+shortLabel TCGA-2G-AAG7-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 6ed5e961-e559-4459-937e-d0f03650620f
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/0F/tcga.base_sums.TGCT_6ed5e961-e559-4459-937e-d0f03650620f.ALL.bw
+shortLabel TCGA-2G-AAGP-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 6fce2a82-6346-48b2-9baa-4c6077762efe
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/FE/tcga.base_sums.TGCT_6fce2a82-6346-48b2-9baa-4c6077762efe.ALL.bw
+shortLabel TCGA-2G-AAKO-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 70a80c6a-b873-4e61-9ced-fa638665b4a1
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/A1/tcga.base_sums.TGCT_70a80c6a-b873-4e61-9ced-fa638665b4a1.ALL.bw
+shortLabel TCGA-2G-AAHL-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 71236e3d-863a-4e82-bb99-f91157e39cf9
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/F9/tcga.base_sums.TGCT_71236e3d-863a-4e82-bb99-f91157e39cf9.ALL.bw
+shortLabel TCGA-VF-A8AC-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 75565a38-ec23-4052-8d31-903c601f64d5
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/D5/tcga.base_sums.TGCT_75565a38-ec23-4052-8d31-903c601f64d5.ALL.bw
+shortLabel TCGA-2G-AAGY-05
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 7559a328-eea5-4aac-8d8d-63e98969daa9
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/A9/tcga.base_sums.TGCT_7559a328-eea5-4aac-8d8d-63e98969daa9.ALL.bw
+shortLabel TCGA-2G-AAHP-05
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 7559e197-0527-40d8-a982-c37b35a9a902
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/02/tcga.base_sums.TGCT_7559e197-0527-40d8-a982-c37b35a9a902.ALL.bw
+shortLabel TCGA-2G-AAFJ-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 78f4f419-0c42-4853-b2b4-5d2d12f1cf89
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/89/tcga.base_sums.TGCT_78f4f419-0c42-4853-b2b4-5d2d12f1cf89.ALL.bw
+shortLabel TCGA-2G-AAGM-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 7cb9ae79-ee30-4a2d-95f0-ec57181cbb1f
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/1F/tcga.base_sums.TGCT_7cb9ae79-ee30-4a2d-95f0-ec57181cbb1f.ALL.bw
+shortLabel TCGA-2G-AAGN-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 80966c6e-979e-4ee7-ab12-7bba9ab7fdb1
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/B1/tcga.base_sums.TGCT_80966c6e-979e-4ee7-ab12-7bba9ab7fdb1.ALL.bw
+shortLabel TCGA-2G-AAGI-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 812e8cc6-4444-4afe-8494-bdef54e553bb
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/BB/tcga.base_sums.TGCT_812e8cc6-4444-4afe-8494-bdef54e553bb.ALL.bw
+shortLabel TCGA-XY-A9T9-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 82c92fd3-f077-42e7-b3eb-69408b7f6bcf
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/CF/tcga.base_sums.TGCT_82c92fd3-f077-42e7-b3eb-69408b7f6bcf.ALL.bw
+shortLabel TCGA-XE-AAOD-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 843686ca-d9a9-45ea-9309-60d8b1e7e504
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/04/tcga.base_sums.TGCT_843686ca-d9a9-45ea-9309-60d8b1e7e504.ALL.bw
+shortLabel TCGA-2G-AAHT-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 8440581e-43b1-4994-b2d8-5934f56f40b5
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/B5/tcga.base_sums.TGCT_8440581e-43b1-4994-b2d8-5934f56f40b5.ALL.bw
+shortLabel TCGA-2G-AAGW-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 852f1edf-6046-462c-820f-9782410e1845
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/45/tcga.base_sums.TGCT_852f1edf-6046-462c-820f-9782410e1845.ALL.bw
+shortLabel TCGA-W4-A7U4-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 85c26a58-78eb-4adf-9930-a880fdde3aa0
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/A0/tcga.base_sums.TGCT_85c26a58-78eb-4adf-9930-a880fdde3aa0.ALL.bw
+shortLabel TCGA-2G-AAKG-05
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 864194b9-3525-439d-84a4-ea257300335c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/5C/tcga.base_sums.TGCT_864194b9-3525-439d-84a4-ea257300335c.ALL.bw
+shortLabel TCGA-2G-AALN-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 86689648-2c4a-456f-a551-b9731400846c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/6C/tcga.base_sums.TGCT_86689648-2c4a-456f-a551-b9731400846c.ALL.bw
+shortLabel TCGA-2G-AALZ-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 8670c657-f6ab-4767-9278-42e64c614370
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/70/tcga.base_sums.TGCT_8670c657-f6ab-4767-9278-42e64c614370.ALL.bw
+shortLabel TCGA-YU-A94D-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 879dc385-8e19-410c-8c04-0b7015fb7289
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/89/tcga.base_sums.TGCT_879dc385-8e19-410c-8c04-0b7015fb7289.ALL.bw
+shortLabel TCGA-4K-AA1G-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 87fda84b-db48-4594-a256-562ecd57de6c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/6C/tcga.base_sums.TGCT_87fda84b-db48-4594-a256-562ecd57de6c.ALL.bw
+shortLabel TCGA-2G-AALS-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 8bc1b435-3c47-48d7-a355-9614c75f552b
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/2B/tcga.base_sums.TGCT_8bc1b435-3c47-48d7-a355-9614c75f552b.ALL.bw
+shortLabel TCGA-2G-AAHN-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 92f65628-2402-4cf2-a2f9-1f2e1b00d145
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/45/tcga.base_sums.TGCT_92f65628-2402-4cf2-a2f9-1f2e1b00d145.ALL.bw
+shortLabel TCGA-2G-AAF4-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 93610244-0db6-4f45-8b4b-a68de7d30dcf
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/CF/tcga.base_sums.TGCT_93610244-0db6-4f45-8b4b-a68de7d30dcf.ALL.bw
+shortLabel TCGA-WZ-A7V5-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 95118d2e-f239-4403-a19c-5f8ba2b25803
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/03/tcga.base_sums.TGCT_95118d2e-f239-4403-a19c-5f8ba2b25803.ALL.bw
+shortLabel TCGA-XE-AAO3-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 98d55fb5-23b3-4d8d-aa4b-d7a89332fd4a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/4A/tcga.base_sums.TGCT_98d55fb5-23b3-4d8d-aa4b-d7a89332fd4a.ALL.bw
+shortLabel TCGA-SN-A84Y-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 991bfd63-ebee-4c5a-8360-5918ed26e4ae
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/AE/tcga.base_sums.TGCT_991bfd63-ebee-4c5a-8360-5918ed26e4ae.ALL.bw
+shortLabel TCGA-2G-AAFO-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 9d181f32-a17d-4e4b-acee-52fe1dfea05c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/5C/tcga.base_sums.TGCT_9d181f32-a17d-4e4b-acee-52fe1dfea05c.ALL.bw
+shortLabel TCGA-2G-AAKG-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 9ff253dd-c36a-4922-87c7-4a19cdb1586e
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/6E/tcga.base_sums.TGCT_9ff253dd-c36a-4922-87c7-4a19cdb1586e.ALL.bw
+shortLabel TCGA-2G-AAHC-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track a3cd519e-cf55-417f-aab3-def0b25358c7
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C7/tcga.base_sums.TGCT_a3cd519e-cf55-417f-aab3-def0b25358c7.ALL.bw
+shortLabel TCGA-ZM-AA0E-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track a4867173-d9ed-48ed-974d-d33ee9076eca
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/CA/tcga.base_sums.TGCT_a4867173-d9ed-48ed-974d-d33ee9076eca.ALL.bw
+shortLabel TCGA-2G-AAGA-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track a5613d6c-b394-4619-aa09-022348bd0b7c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/7C/tcga.base_sums.TGCT_a5613d6c-b394-4619-aa09-022348bd0b7c.ALL.bw
+shortLabel TCGA-2G-AAGF-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track a7ea898d-9421-4b7e-a19a-096a1280a1c8
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C8/tcga.base_sums.TGCT_a7ea898d-9421-4b7e-a19a-096a1280a1c8.ALL.bw
+shortLabel TCGA-ZM-AA0H-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track a7f1c42f-2da3-44a3-b7b5-5e710bd17af0
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/F0/tcga.base_sums.TGCT_a7f1c42f-2da3-44a3-b7b5-5e710bd17af0.ALL.bw
+shortLabel TCGA-2G-AAFZ-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track ab8fd750-1796-4906-9bad-e0e2d6af3f9a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/9A/tcga.base_sums.TGCT_ab8fd750-1796-4906-9bad-e0e2d6af3f9a.ALL.bw
+shortLabel TCGA-ZM-AA0F-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track abb04648-2d62-4e34-9003-4458bf84318d
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/8D/tcga.base_sums.TGCT_abb04648-2d62-4e34-9003-4458bf84318d.ALL.bw
+shortLabel TCGA-2G-AAFY-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track acc04802-cce5-4b03-be8f-0aa15dfdb61f
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/1F/tcga.base_sums.TGCT_acc04802-cce5-4b03-be8f-0aa15dfdb61f.ALL.bw
+shortLabel TCGA-W4-A7U2-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track aec88672-61fd-4639-81bb-e1dbfd4cdcf6
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/F6/tcga.base_sums.TGCT_aec88672-61fd-4639-81bb-e1dbfd4cdcf6.ALL.bw
+shortLabel TCGA-2G-AAGE-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track b18217f7-303c-4104-848e-a354dade72bf
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/BF/tcga.base_sums.TGCT_b18217f7-303c-4104-848e-a354dade72bf.ALL.bw
+shortLabel TCGA-2G-AALF-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track b23b6b92-29da-4349-9fbc-32399c44c058
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/58/tcga.base_sums.TGCT_b23b6b92-29da-4349-9fbc-32399c44c058.ALL.bw
+shortLabel TCGA-2G-AAL7-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track b4d93ae3-8051-4d10-af35-40ae31d210f1
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/F1/tcga.base_sums.TGCT_b4d93ae3-8051-4d10-af35-40ae31d210f1.ALL.bw
+shortLabel TCGA-WZ-A7V3-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track b641a084-dec3-4e1f-800d-cce046c76dc5
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C5/tcga.base_sums.TGCT_b641a084-dec3-4e1f-800d-cce046c76dc5.ALL.bw
+shortLabel TCGA-2G-AAGT-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track b644962a-defe-4169-a39e-ef2141f5125a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/5A/tcga.base_sums.TGCT_b644962a-defe-4169-a39e-ef2141f5125a.ALL.bw
+shortLabel TCGA-4K-AA1H-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track b78b7692-b0b1-4051-becb-8a09876ac4c0
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C0/tcga.base_sums.TGCT_b78b7692-b0b1-4051-becb-8a09876ac4c0.ALL.bw
+shortLabel TCGA-2X-A9D6-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track b7aec5e2-0774-464d-a572-5cc84bef7fee
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/EE/tcga.base_sums.TGCT_b7aec5e2-0774-464d-a572-5cc84bef7fee.ALL.bw
+shortLabel TCGA-ZM-AA06-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track b9c99f02-10f1-44a6-b9fe-716955d00521
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/21/tcga.base_sums.TGCT_b9c99f02-10f1-44a6-b9fe-716955d00521.ALL.bw
+shortLabel TCGA-XE-AANI-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track baf9b758-9b7b-419a-b2e8-9fdc1d569fc3
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C3/tcga.base_sums.TGCT_baf9b758-9b7b-419a-b2e8-9fdc1d569fc3.ALL.bw
+shortLabel TCGA-2G-AAGY-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track bcc102b8-06af-4268-81a0-1a21d70c3ce4
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/E4/tcga.base_sums.TGCT_bcc102b8-06af-4268-81a0-1a21d70c3ce4.ALL.bw
+shortLabel TCGA-SB-A76C-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track bf2014fc-8fed-494c-b6fb-8953c106409a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/9A/tcga.base_sums.TGCT_bf2014fc-8fed-494c-b6fb-8953c106409a.ALL.bw
+shortLabel TCGA-2G-AALT-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track bfb33809-f185-4835-8329-ae53fdee847c
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/7C/tcga.base_sums.TGCT_bfb33809-f185-4835-8329-ae53fdee847c.ALL.bw
+shortLabel TCGA-2G-AAGG-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track c01f4272-d148-454e-a2fa-3df281b23c91
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/91/tcga.base_sums.TGCT_c01f4272-d148-454e-a2fa-3df281b23c91.ALL.bw
+shortLabel TCGA-2G-AAEX-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track c06a7a87-28a2-4851-a743-583f729d07d3
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/D3/tcga.base_sums.TGCT_c06a7a87-28a2-4851-a743-583f729d07d3.ALL.bw
+shortLabel TCGA-2G-AAM2-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track c3087790-7575-4662-a7dc-b32808b9a775
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/75/tcga.base_sums.TGCT_c3087790-7575-4662-a7dc-b32808b9a775.ALL.bw
+shortLabel TCGA-ZM-AA0D-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track c5dafc39-2552-47d5-bd2c-e9a74212dff8
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/F8/tcga.base_sums.TGCT_c5dafc39-2552-47d5-bd2c-e9a74212dff8.ALL.bw
+shortLabel TCGA-2G-AAG8-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track c75bbadd-062c-4fda-a1b1-c3c5c63ea95d
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/5D/tcga.base_sums.TGCT_c75bbadd-062c-4fda-a1b1-c3c5c63ea95d.ALL.bw
+shortLabel TCGA-2G-AALW-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track ca32e320-d60b-4b17-88f3-b31325fa5eda
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/DA/tcga.base_sums.TGCT_ca32e320-d60b-4b17-88f3-b31325fa5eda.ALL.bw
+shortLabel TCGA-2G-AALQ-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track cc16d0fa-25f3-434c-b41a-87bbf3d77eb8
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/B8/tcga.base_sums.TGCT_cc16d0fa-25f3-434c-b41a-87bbf3d77eb8.ALL.bw
+shortLabel TCGA-2G-AAFN-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track cc5330bd-b06e-4332-a83a-da4e4a4993db
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/DB/tcga.base_sums.TGCT_cc5330bd-b06e-4332-a83a-da4e4a4993db.ALL.bw
+shortLabel TCGA-2G-AAH0-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track cd9db2f0-b2c4-4712-a86f-a4bcb0586bb3
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/B3/tcga.base_sums.TGCT_cd9db2f0-b2c4-4712-a86f-a4bcb0586bb3.ALL.bw
+shortLabel TCGA-2G-AAEW-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track ceba7580-2857-4c47-ae3b-aa8f9b4a137e
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/7E/tcga.base_sums.TGCT_ceba7580-2857-4c47-ae3b-aa8f9b4a137e.ALL.bw
+shortLabel TCGA-XE-AAO6-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track cf7a534c-eea1-49d9-afb7-16a361dabaf1
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/F1/tcga.base_sums.TGCT_cf7a534c-eea1-49d9-afb7-16a361dabaf1.ALL.bw
+shortLabel TCGA-2G-AAG5-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track cf882451-7864-4a14-8893-d9f3d1b79379
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/79/tcga.base_sums.TGCT_cf882451-7864-4a14-8893-d9f3d1b79379.ALL.bw
+shortLabel TCGA-2G-AAKD-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track d58d4588-eedc-463e-8d25-0f6bf27e8569
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/69/tcga.base_sums.TGCT_d58d4588-eedc-463e-8d25-0f6bf27e8569.ALL.bw
+shortLabel TCGA-2G-AAGI-05
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track d82e0500-b1b0-4c04-b66f-87cde8d3b683
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/83/tcga.base_sums.TGCT_d82e0500-b1b0-4c04-b66f-87cde8d3b683.ALL.bw
+shortLabel TCGA-2G-AAFE-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track dd36dd53-c576-44ef-a68b-e009b37a2385
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/85/tcga.base_sums.TGCT_dd36dd53-c576-44ef-a68b-e009b37a2385.ALL.bw
+shortLabel TCGA-YU-A90Q-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track dfd306cd-13ad-4aba-bff8-db0570118bfc
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/FC/tcga.base_sums.TGCT_dfd306cd-13ad-4aba-bff8-db0570118bfc.ALL.bw
+shortLabel TCGA-2G-AAH2-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e08a2804-4c5d-4c6f-aebd-7a3606fce834
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/34/tcga.base_sums.TGCT_e08a2804-4c5d-4c6f-aebd-7a3606fce834.ALL.bw
+shortLabel TCGA-2G-AAGJ-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e2310f9e-fbb8-4c95-9099-2df6f97539ab
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/AB/tcga.base_sums.TGCT_e2310f9e-fbb8-4c95-9099-2df6f97539ab.ALL.bw
+shortLabel TCGA-XE-A8H1-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e31e2bf0-4f73-49e8-aec2-980206dcebc9
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/C9/tcga.base_sums.TGCT_e31e2bf0-4f73-49e8-aec2-980206dcebc9.ALL.bw
+shortLabel TCGA-2G-AAHG-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e385dadd-0b6c-4872-bf62-0c8f627bd2db
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/DB/tcga.base_sums.TGCT_e385dadd-0b6c-4872-bf62-0c8f627bd2db.ALL.bw
+shortLabel TCGA-ZM-AA05-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e5437c83-ca9a-4241-84ee-8bce97192d67
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/67/tcga.base_sums.TGCT_e5437c83-ca9a-4241-84ee-8bce97192d67.ALL.bw
+shortLabel TCGA-X3-A8G4-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e61a5740-7c26-4730-9610-a3c710098b92
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/92/tcga.base_sums.TGCT_e61a5740-7c26-4730-9610-a3c710098b92.ALL.bw
+shortLabel TCGA-XE-AAOC-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e6f801f4-9289-4623-b7d9-60ca56c71683
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/83/tcga.base_sums.TGCT_e6f801f4-9289-4623-b7d9-60ca56c71683.ALL.bw
+shortLabel TCGA-YU-AA4L-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e7f58338-6854-4c5f-aba8-3cc3570b7ca8
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/A8/tcga.base_sums.TGCT_e7f58338-6854-4c5f-aba8-3cc3570b7ca8.ALL.bw
+shortLabel TCGA-2G-AAM3-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e87456c1-bddb-49dd-9f83-f7a2b47e3a16
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/16/tcga.base_sums.TGCT_e87456c1-bddb-49dd-9f83-f7a2b47e3a16.ALL.bw
+shortLabel TCGA-XE-AAOL-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track ee0bfc5e-98fa-4f6b-9386-8a56e6f26c95
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/95/tcga.base_sums.TGCT_ee0bfc5e-98fa-4f6b-9386-8a56e6f26c95.ALL.bw
+shortLabel TCGA-2G-AAFL-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track ef68cf6e-f46d-477a-b125-153dde949c07
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/07/tcga.base_sums.TGCT_ef68cf6e-f46d-477a-b125-153dde949c07.ALL.bw
+shortLabel TCGA-VF-A8AD-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track f58fc7d6-a999-43be-ac90-f23c39c9e887
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/87/tcga.base_sums.TGCT_f58fc7d6-a999-43be-ac90-f23c39c9e887.ALL.bw
+shortLabel TCGA-YU-A912-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track f71bb6c0-87fe-400d-8bc7-9f7978aba083
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/83/tcga.base_sums.TGCT_f71bb6c0-87fe-400d-8bc7-9f7978aba083.ALL.bw
+shortLabel TCGA-YU-A90W-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track f83a9753-d4fa-487f-942e-c804fe616da2
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/A2/tcga.base_sums.TGCT_f83a9753-d4fa-487f-942e-c804fe616da2.ALL.bw
+shortLabel TCGA-VF-A8AE-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track fa31586e-9068-4e53-82ef-6b5339ff720d
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/0D/tcga.base_sums.TGCT_fa31586e-9068-4e53-82ef-6b5339ff720d.ALL.bw
+shortLabel TCGA-S6-A8JY-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track fc3d323b-db23-43a2-afd0-21ae520662e0
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/E0/tcga.base_sums.TGCT_fc3d323b-db23-43a2-afd0-21ae520662e0.ALL.bw
+shortLabel TCGA-2G-AAGV-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track fcddc169-7863-440b-82a6-6a13a4b827b9
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/B9/tcga.base_sums.TGCT_fcddc169-7863-440b-82a6-6a13a4b827b9.ALL.bw
+shortLabel TCGA-ZM-AA0N-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track fe85b6af-270a-41c7-ba60-7b83782ca362
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/62/tcga.base_sums.TGCT_fe85b6af-270a-41c7-ba60-7b83782ca362.ALL.bw
+shortLabel TCGA-XE-AAO4-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track ff3173f2-68ca-4b0d-8f80-889838aae6a6
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/CT/TGCT/A6/tcga.base_sums.TGCT_ff3173f2-68ca-4b0d-8f80-889838aae6a6.ALL.bw
+shortLabel TCGA-WZ-A7V4-01
+longLabel results generated and hosted by the recount3 project team for testicular patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+

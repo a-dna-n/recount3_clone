@@ -1,0 +1,432 @@
+track 1983b2f6-0953-45f2-a129-d188b0d2de4f
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/4F/tcga.base_sums.DLBC_1983b2f6-0953-45f2-a129-d188b0d2de4f.ALL.bw
+shortLabel TCGA-GS-A9TQ-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 1dc16d09-0840-4dc4-8979-66c2a21afab3
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/B3/tcga.base_sums.DLBC_1dc16d09-0840-4dc4-8979-66c2a21afab3.ALL.bw
+shortLabel TCGA-FF-8046-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 204d59b5-7311-4b15-9da1-5b8b7e5780fb
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/FB/tcga.base_sums.DLBC_204d59b5-7311-4b15-9da1-5b8b7e5780fb.ALL.bw
+shortLabel TCGA-FF-8043-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 28477a5c-f897-49f4-8b04-eaf932278470
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/70/tcga.base_sums.DLBC_28477a5c-f897-49f4-8b04-eaf932278470.ALL.bw
+shortLabel TCGA-FA-A7DS-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 2ea3f38d-7466-4afa-a73d-286ac98bf030
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/30/tcga.base_sums.DLBC_2ea3f38d-7466-4afa-a73d-286ac98bf030.ALL.bw
+shortLabel TCGA-G8-6325-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 3306d10a-3518-4757-8747-222c49af5490
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/90/tcga.base_sums.DLBC_3306d10a-3518-4757-8747-222c49af5490.ALL.bw
+shortLabel TCGA-FA-A6HO-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 358f3ba6-e815-4961-a916-4f0ef2c06cdb
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/DB/tcga.base_sums.DLBC_358f3ba6-e815-4961-a916-4f0ef2c06cdb.ALL.bw
+shortLabel TCGA-FF-8041-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 3a3939ee-fbce-4cf5-b276-b4b403137a93
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/93/tcga.base_sums.DLBC_3a3939ee-fbce-4cf5-b276-b4b403137a93.ALL.bw
+shortLabel TCGA-FA-A6HN-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 410b6020-3431-4c8e-822a-ba1f26243abe
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/BE/tcga.base_sums.DLBC_410b6020-3431-4c8e-822a-ba1f26243abe.ALL.bw
+shortLabel TCGA-GR-A4D9-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 48813e17-75c8-432b-b674-c553cf8d654d
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/4D/tcga.base_sums.DLBC_48813e17-75c8-432b-b674-c553cf8d654d.ALL.bw
+shortLabel TCGA-GS-A9TY-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility show
+autoScale on
+alwaysZero on
+
+track 4faa6c68-9e59-4002-b7b3-b3a44b3f4992
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/92/tcga.base_sums.DLBC_4faa6c68-9e59-4002-b7b3-b3a44b3f4992.ALL.bw
+shortLabel TCGA-FF-8047-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 564be33f-73cb-4435-bf72-a2e0d67dbb3e
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/3E/tcga.base_sums.DLBC_564be33f-73cb-4435-bf72-a2e0d67dbb3e.ALL.bw
+shortLabel TCGA-FA-8693-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 5ced6ad5-285a-4883-8cf5-c9f50e6c88ce
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/CE/tcga.base_sums.DLBC_5ced6ad5-285a-4883-8cf5-c9f50e6c88ce.ALL.bw
+shortLabel TCGA-FF-A7CW-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 5d903b69-80c4-4149-b23b-534b0027c8df
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/DF/tcga.base_sums.DLBC_5d903b69-80c4-4149-b23b-534b0027c8df.ALL.bw
+shortLabel TCGA-GR-A4D4-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 604e434f-eacb-4e6f-9ea9-2d50991ce930
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/30/tcga.base_sums.DLBC_604e434f-eacb-4e6f-9ea9-2d50991ce930.ALL.bw
+shortLabel TCGA-RQ-A68N-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 62e564fe-77ba-4bde-97c4-8fcb5cadd8f0
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/F0/tcga.base_sums.DLBC_62e564fe-77ba-4bde-97c4-8fcb5cadd8f0.ALL.bw
+shortLabel TCGA-GS-A9TZ-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 64221f97-68ea-486e-966f-94db0cc8843a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/3A/tcga.base_sums.DLBC_64221f97-68ea-486e-966f-94db0cc8843a.ALL.bw
+shortLabel TCGA-RQ-A6JB-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 66bae682-8610-4458-8564-fd205858f507
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/07/tcga.base_sums.DLBC_66bae682-8610-4458-8564-fd205858f507.ALL.bw
+shortLabel TCGA-GS-A9U3-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 6c7f8b1c-497c-4120-b8d1-eb724de077c9
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/C9/tcga.base_sums.DLBC_6c7f8b1c-497c-4120-b8d1-eb724de077c9.ALL.bw
+shortLabel TCGA-FA-A4BB-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 72453dbe-5dd2-4863-b356-5d0180567c18
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/18/tcga.base_sums.DLBC_72453dbe-5dd2-4863-b356-5d0180567c18.ALL.bw
+shortLabel TCGA-GS-A9TW-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 72705ab4-85d0-4ef7-b7de-b302fbc10d32
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/32/tcga.base_sums.DLBC_72705ab4-85d0-4ef7-b7de-b302fbc10d32.ALL.bw
+shortLabel TCGA-G8-6909-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 7824ba3f-bb6a-4f39-8dc1-da5664dc7d18
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/18/tcga.base_sums.DLBC_7824ba3f-bb6a-4f39-8dc1-da5664dc7d18.ALL.bw
+shortLabel TCGA-GR-A4D5-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 7b560fbc-c30a-4301-bde4-034eea6d7718
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/18/tcga.base_sums.DLBC_7b560fbc-c30a-4301-bde4-034eea6d7718.ALL.bw
+shortLabel TCGA-VB-A8QN-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 81ef43fb-b976-4b9f-bca8-7e1cdcbc81cc
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/CC/tcga.base_sums.DLBC_81ef43fb-b976-4b9f-bca8-7e1cdcbc81cc.ALL.bw
+shortLabel TCGA-G8-6324-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 87607dbb-df66-41f1-8f31-af0be969e5d6
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/D6/tcga.base_sums.DLBC_87607dbb-df66-41f1-8f31-af0be969e5d6.ALL.bw
+shortLabel TCGA-FA-A7Q1-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 8a5514ed-e1ca-4c17-9fac-a9beea59d74a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/4A/tcga.base_sums.DLBC_8a5514ed-e1ca-4c17-9fac-a9beea59d74a.ALL.bw
+shortLabel TCGA-GS-A9TU-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 8d167de1-37a9-44b1-8a4c-ffb230060e76
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/76/tcga.base_sums.DLBC_8d167de1-37a9-44b1-8a4c-ffb230060e76.ALL.bw
+shortLabel TCGA-G8-6914-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 926d0f04-e199-45a4-81f6-503b44c708ad
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/AD/tcga.base_sums.DLBC_926d0f04-e199-45a4-81f6-503b44c708ad.ALL.bw
+shortLabel TCGA-FF-8042-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track 96d8993e-855a-4d93-9fde-675603969f46
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/46/tcga.base_sums.DLBC_96d8993e-855a-4d93-9fde-675603969f46.ALL.bw
+shortLabel TCGA-FM-8000-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track a49ae37f-6705-4796-85e3-f8d52489d2f8
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/F8/tcga.base_sums.DLBC_a49ae37f-6705-4796-85e3-f8d52489d2f8.ALL.bw
+shortLabel TCGA-GR-A4D6-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track a5687a62-e8f1-401c-9517-c44c23e028cc
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/CC/tcga.base_sums.DLBC_a5687a62-e8f1-401c-9517-c44c23e028cc.ALL.bw
+shortLabel TCGA-GS-A9TT-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track a63051a4-7513-4675-a736-09f5e465a499
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/99/tcga.base_sums.DLBC_a63051a4-7513-4675-a736-09f5e465a499.ALL.bw
+shortLabel TCGA-G8-6907-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track ba5d80a0-0c96-48da-bbce-3c39b261b9d4
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/D4/tcga.base_sums.DLBC_ba5d80a0-0c96-48da-bbce-3c39b261b9d4.ALL.bw
+shortLabel TCGA-RQ-AAAT-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track bc2673e1-2ccf-4c24-afcf-35e7c402ac0a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/0A/tcga.base_sums.DLBC_bc2673e1-2ccf-4c24-afcf-35e7c402ac0a.ALL.bw
+shortLabel TCGA-GS-A9U4-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track c3eb43e3-fa40-411d-a14f-7d8ae62c904e
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/4E/tcga.base_sums.DLBC_c3eb43e3-fa40-411d-a14f-7d8ae62c904e.ALL.bw
+shortLabel TCGA-FF-A7CX-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track c6940abd-ca62-4985-b022-7669fa6cddea
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/EA/tcga.base_sums.DLBC_c6940abd-ca62-4985-b022-7669fa6cddea.ALL.bw
+shortLabel TCGA-G8-6906-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track c913ddd0-97e8-4c0d-a147-72f0f65db3a8
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/A8/tcga.base_sums.DLBC_c913ddd0-97e8-4c0d-a147-72f0f65db3a8.ALL.bw
+shortLabel TCGA-FA-A82F-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track ceb86fc1-7875-4b34-9683-ba49f1ff9c27
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/27/tcga.base_sums.DLBC_ceb86fc1-7875-4b34-9683-ba49f1ff9c27.ALL.bw
+shortLabel TCGA-GR-7353-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track d7381872-f807-4600-9102-08c064d97e4a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/4A/tcga.base_sums.DLBC_d7381872-f807-4600-9102-08c064d97e4a.ALL.bw
+shortLabel TCGA-FF-A7CQ-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e583182c-08e3-4687-b86d-2b8570d500e4
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/E4/tcga.base_sums.DLBC_e583182c-08e3-4687-b86d-2b8570d500e4.ALL.bw
+shortLabel TCGA-FF-8062-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e6a83edc-3ff7-46bc-9b50-d206322557bb
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/BB/tcga.base_sums.DLBC_e6a83edc-3ff7-46bc-9b50-d206322557bb.ALL.bw
+shortLabel TCGA-G8-6326-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e81aa3a5-e3ee-4c55-b43f-29a0266120c7
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/C7/tcga.base_sums.DLBC_e81aa3a5-e3ee-4c55-b43f-29a0266120c7.ALL.bw
+shortLabel TCGA-FF-A7CR-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track e8fc8c2c-a21b-42a3-8fa4-61eb51c53fc9
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/C9/tcga.base_sums.DLBC_e8fc8c2c-a21b-42a3-8fa4-61eb51c53fc9.ALL.bw
+shortLabel TCGA-GS-A9TX-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track eac2ebf0-d3d4-4b62-8ab3-5710d91694e4
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/E4/tcga.base_sums.DLBC_eac2ebf0-d3d4-4b62-8ab3-5710d91694e4.ALL.bw
+shortLabel TCGA-FA-A4XK-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track ef569e19-0d0c-4d87-beeb-54dba49cc6e7
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/E7/tcga.base_sums.DLBC_ef569e19-0d0c-4d87-beeb-54dba49cc6e7.ALL.bw
+shortLabel TCGA-GR-7351-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track f65c4493-39ef-4a16-91e4-f91a9a03d30a
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/0A/tcga.base_sums.DLBC_f65c4493-39ef-4a16-91e4-f91a9a03d30a.ALL.bw
+shortLabel TCGA-FA-A86F-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track f7e13a21-729e-4aab-8406-13a521fffb60
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/60/tcga.base_sums.DLBC_f7e13a21-729e-4aab-8406-13a521fffb60.ALL.bw
+shortLabel TCGA-FF-8061-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
+track fddc77d7-380a-46d5-b95f-d64b40a17dd8
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BC/DLBC/D8/tcga.base_sums.DLBC_fddc77d7-380a-46d5-b95f-d64b40a17dd8.ALL.bw
+shortLabel TCGA-GS-A9TV-01
+longLabel results generated and hosted by the recount3 project team for DLBCL patients
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
